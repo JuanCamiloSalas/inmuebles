@@ -1,0 +1,867 @@
+{
+    "responseCode": 1000,
+    "message": "Operation performed successfully",
+    "data": {
+        "metadata": {
+            "imagesUrl": "https://multimedia.metrocuadrado.com"
+        },
+        "result": {
+            "propertiesByFiltersQuery": {
+                "count": 5,
+                "total": 105,
+                "batch": {
+                    "realEstate": {
+                        "from": 94,
+                        "pages": [
+                            0,
+                            94,
+                            99
+                        ]
+                    },
+                    "seller": {
+                        "from": 6,
+                        "pages": [
+                            0,
+                            6,
+                            6
+                        ]
+                    }
+                },
+                "properties": [
+                    {
+                        "country": {
+                            "code": "1",
+                            "name": "Colombia",
+                            "id": "1",
+                            "label": "Colombia"
+                        },
+                        "agent": "Jose Ignacio Suarez",
+                        "roomsNumber": 2,
+                        "areaRangeLabel": "61 a 100",
+                        "updatedDate": "2025-11-28T15:11:42.000Z",
+                        "builtTime": {
+                            "name": "Entre 0 y 5 años",
+                            "id": null,
+                            "label": "Entre 0 y 5 años"
+                        },
+                        "salePriceRangeLabel": "250'000.001 a 300'000.000",
+                        "offeror": {
+                            "name": "EL GRAN MERCADO INMOBILIARIO SAS",
+                            "type": "RealEstate"
+                        },
+                        "features": [
+                            "aptoParaNinos:S",
+                            "area:64",
+                            "areaConstruida:64",
+                            "ascensor:S",
+                            "cercaCentroComercial:S",
+                            "cercaColegioUniversidad:S",
+                            "cercaParque:S",
+                            "cercaSupermercado:S",
+                            "cercaTransportePublico:S",
+                            "conAccesoDiscapacitados:S",
+                            "conCircuitoCerradoTV:S",
+                            "conCitofono:S",
+                            "conCuartoServicio:S",
+                            "conGarajeCubierto:S",
+                            "conGimnasio:S",
+                            "conMuebles:S",
+                            "conSalonComunal:S",
+                            "conVistaPanoramica:S",
+                            "conZonaBbq:S",
+                            "conZonaLavanderia:S",
+                            "conZonaNinos:S",
+                            "conZonasVerdes:S",
+                            "contactoWhatsApp:S",
+                            "enConjuntoCerrado:S",
+                            "instalacionGas:Natural",
+                            "negociarPrecio:S",
+                            "nroApto:5",
+                            "nroAscensores:1",
+                            "nroBanos:2",
+                            "nroCuartos:2",
+                            "nroGarajes:1",
+                            "nroPiso:5",
+                            "sePermiteFumar:S",
+                            "sobreViaPrincipal:S",
+                            "sobreViaSecundaria:S",
+                            "tiempoConstruido:Entre 0 y 5 años",
+                            "tipoCalentador:Gas",
+                            "tipoCocinaLista:Lineal",
+                            "tipoComedor:Sala Comedor",
+                            "tipoEstufa:Gas",
+                            "tipoGaraje:Propio",
+                            "tipoPiso:Laminado",
+                            "tipoPisoAlcobas:Laminado",
+                            "tipoPisoComedor:Laminado",
+                            "tipoPisoEstudio:Laminado",
+                            "tipoPisoSala:Laminado",
+                            "tipoVigilancia:24hrs",
+                            "vista:Exterior"
+                        ],
+                        "aproximatelocation": "N",
+                        "adminPrice": 250000,
+                        "zone": {
+                            "code": "1",
+                            "name": "Norte",
+                            "id": "1",
+                            "label": "Norte"
+                        },
+                        "price": 288000000,
+                        "checked": "Inmueble No Verificado",
+                        "id": "4058-M4806058",
+                        "sector": {
+                            "name": "Cedritos"
+                        },
+                        "area": 64,
+                        "forSale": "Y",
+                        "extraFeatures": [
+                            "aptoParaNinos",
+                            "ascensor",
+                            "cercaCentroComercial",
+                            "cercaColegioUniversidad",
+                            "cercaParque",
+                            "cercaSupermercado",
+                            "cercaTransportePublico",
+                            "conAccesoDiscapacitados",
+                            "conCircuitoCerradoTV",
+                            "conCitofono",
+                            "conCuartoServicio",
+                            "conGarajeCubierto",
+                            "conGimnasio",
+                            "conMuebles",
+                            "conSalonComunal",
+                            "conVistaPanoramica",
+                            "conZonaBbq",
+                            "conZonaLavanderia",
+                            "conZonaNinos",
+                            "conZonasVerdes",
+                            "contactoWhatsApp",
+                            "enConjuntoCerrado",
+                            "negociarPrecio",
+                            "sePermiteFumar",
+                            "sobreViaPrincipal",
+                            "sobreViaSecundaria"
+                        ],
+                        "categoryType": null,
+                        "forRent": "N",
+                        "neighborhood": {
+                            "commonName": "CEDRITOS NORTE",
+                            "code": "0",
+                            "name": "CJR CALLE 159",
+                            "id": "0",
+                            "label": "CJR CALLE 159"
+                        },
+                        "region": {
+                            "code": "14",
+                            "name": "Cundinamarca",
+                            "id": "14",
+                            "label": "Cundinamarca"
+                        },
+                        "lotType": null,
+                        "status": "Usado",
+                        "amenities": {
+                            "disabilityOk": "N",
+                            "aloneOk": "N",
+                            "childrenOk": "N",
+                            "gymOk": "Y",
+                            "petsOk": "N",
+                            "outdoorActivitiesOk": "N",
+                            "bikeUserOk": "N"
+                        },
+                        "city": {
+                            "code": "bogota",
+                            "name": "Bogotá D.C.",
+                            "id": "1",
+                            "label": "Bogotá D.C."
+                        },
+                        "checkInDate": "2024-02-14T14:36:47.000Z",
+                        "propertyType": {
+                            "code": "1",
+                            "name": "Apartamento",
+                            "id": "1",
+                            "label": "Apartamento"
+                        },
+                        "@version": "1",
+                        "rentPrice": 0,
+                        "comments": "Apartamento en el sector de cedritos de 64 MT2 distribuidos en sala comedor cocina integral a gas 2 habitaciones  baños, cuarto de ropas independiente, sistema de vigilancia edificio inteligente, ascensor para carros y ascensor para aptos, deposito, parqueadero cubierto, apartamento nuevo para estrenar  ",
+                        "salePrice": 288000000,
+                        "isPublished": "Y",
+                        "metroId": "4058-M4806058",
+                        "url": "/inmueble/venta-apartamento-bogota-cjr-calle-159-2-habitaciones-2-banos-1-garajes/4058-M4806058",
+                        "stratum": 4,
+                        "multimedia": {
+                            "images": {
+                                "count": 7,
+                                "files": [
+                                    "4058-M4806058_2",
+                                    "4058-M4806058_7",
+                                    "4058-M4806058_3",
+                                    "4058-M4806058_6",
+                                    "4058-M4806058_1",
+                                    "4058-M4806058_4",
+                                    "4058-M4806058_5"
+                                ],
+                                "mainFile": "4058-M4806058_2"
+                            }
+                        },
+                        "@timestamp": "2025-11-28T15:15:26.753785014Z",
+                        "bathroomsNumber": 2,
+                        "rentPriceRangeLabel": "Hasta 400.000",
+                        "storageType": null,
+                        "location": {
+                            "lon": -74.0457992553711,
+                            "lat": 4.7392191886901855
+                        },
+                        "publishedDate": "2025-11-13T03:10:08.000Z",
+                        "builtArea": 64,
+                        "businessType": {
+                            "code": "1",
+                            "name": "venta",
+                            "id": "1",
+                            "label": "venta"
+                        },
+                        "notificationCode": null,
+                        "offerorType": "Inmobiliaria",
+                        "parkingNumber": 1
+                    },
+                    {
+                        "country": {
+                            "code": "1",
+                            "name": "Colombia",
+                            "id": "1",
+                            "label": "Colombia"
+                        },
+                        "agent": "WILLIAM CARLOS ROMERO ",
+                        "roomsNumber": 3,
+                        "areaRangeLabel": "Hasta 60",
+                        "updatedDate": "2025-11-28T16:29:08.000Z",
+                        "builtTime": {
+                            "name": "Más de 20 años",
+                            "id": null,
+                            "label": "Más de 20 años"
+                        },
+                        "salePriceRangeLabel": "200'000.001 a 250'000.000",
+                        "offeror": {
+                            "name": "WILLIAM ROMERO",
+                            "type": "RealEstate"
+                        },
+                        "features": [
+                            "area:60",
+                            "areaConstruida:60",
+                            "bahiasDeParqueo:S",
+                            "cercaAJardinesYColegios:S",
+                            "cercaARestaurantes:S",
+                            "cercaParque:S",
+                            "cercaTransportePublico:S",
+                            "conCocinaIntegral_o:S",
+                            "conParqueaderoVisitantes_o:S",
+                            "conSalonComunal:S",
+                            "conVigilancia-cb:S",
+                            "conVistaPanoramica:S",
+                            "conZonaLavanderia:S",
+                            "conZonasVerdes:S",
+                            "nroBanos:2",
+                            "nroCuartos:3",
+                            "nroGarajes:0",
+                            "nroPiso:5",
+                            "porteria:S",
+                            "recepcionLobby:S",
+                            "tiempoConstruido:Más de 20 años",
+                            "tipoDeposito:1"
+                        ],
+                        "aproximatelocation": null,
+                        "adminPrice": 296000,
+                        "zone": {
+                            "name": null,
+                            "id": null
+                        },
+                        "price": 250000000,
+                        "checked": "Inmueble No Verificado",
+                        "id": "19578-M6079400",
+                        "sector": {
+                            "name": null
+                        },
+                        "area": 60,
+                        "forSale": "N",
+                        "extraFeatures": [
+                            "bahiasDeParqueo",
+                            "cercaAJardinesYColegios",
+                            "cercaARestaurantes",
+                            "cercaParque",
+                            "cercaTransportePublico",
+                            "conCocinaIntegral_o",
+                            "conParqueaderoVisitantes_o",
+                            "conSalonComunal",
+                            "conVigilancia7x24",
+                            "conVistaPanoramica",
+                            "conZonaLavanderia",
+                            "conZonasVerdes",
+                            "porteria",
+                            "recepcionLobby"
+                        ],
+                        "categoryType": null,
+                        "forRent": "N",
+                        "neighborhood": {
+                            "commonName": "Las Orquideas",
+                            "code": "0001-1228",
+                            "name": "LAS ORQUIDEAS",
+                            "id": "0001-1228",
+                            "label": "LAS ORQUIDEAS"
+                        },
+                        "region": {
+                            "code": "14",
+                            "name": "Cundinamarca",
+                            "id": "14",
+                            "label": "Cundinamarca"
+                        },
+                        "lotType": null,
+                        "status": "Usado",
+                        "amenities": {
+                            "disabilityOk": "N",
+                            "aloneOk": "N",
+                            "childrenOk": "N",
+                            "gymOk": "N",
+                            "petsOk": "N",
+                            "outdoorActivitiesOk": "N",
+                            "bikeUserOk": "N"
+                        },
+                        "city": {
+                            "code": "bogota",
+                            "name": "Bogotá D.C.",
+                            "id": "1",
+                            "label": "Bogotá D.C."
+                        },
+                        "checkInDate": "2025-10-01T09:39:21.000Z",
+                        "propertyType": {
+                            "code": "1",
+                            "name": "Apartamento",
+                            "id": "1",
+                            "label": "Apartamento"
+                        },
+                        "@version": "1",
+                        "rentPrice": null,
+                        "comments": " \n\nApartamento en venta de 59 m², con vista interior, ubicado en un 5to piso, con acceso por escaleras, parqueadero comunal y depósito cubierto. Dispone de 3 habitaciones, 2 baños, sala comedor, cocina integral y zona de lavandería, con piso laminado en habitaciones y zona social, además de piso cerámico en baños y cocina. El edificio ofrece vigilancia privada las 24 horas, garantizando tranquilidad y seguridad. Su ubicación es ideal, cerca a los centros comerciales Mediterráneo y Mazurén, almacenes de cadena como Olímpica, Ara y D1, colegios como Colsubsidio Norte, además de contar con fácil acceso al transporte público en paraderos del SITP y vías principales como la calle 161 y la carrera 16C, convirtiéndolo en un hogar acogedor y muy bien conectado.\n",
+                        "salePrice": 250000000,
+                        "isPublished": "Y",
+                        "metroId": "19578-M6079400",
+                        "url": "/inmueble/venta-apartamento-bogota-las-orquideas-3-habitaciones-2-banos/19578-M6079400",
+                        "stratum": 3,
+                        "multimedia": {
+                            "images": {
+                                "count": 20,
+                                "files": [
+                                    "19578-M6079400_61",
+                                    "19578-M6079400_62",
+                                    "19578-M6079400_63",
+                                    "19578-M6079400_64",
+                                    "19578-M6079400_65",
+                                    "19578-M6079400_66",
+                                    "19578-M6079400_67",
+                                    "19578-M6079400_68",
+                                    "19578-M6079400_69",
+                                    "19578-M6079400_70",
+                                    "19578-M6079400_71",
+                                    "19578-M6079400_72",
+                                    "19578-M6079400_73",
+                                    "19578-M6079400_74",
+                                    "19578-M6079400_75",
+                                    "19578-M6079400_76",
+                                    "19578-M6079400_77",
+                                    "19578-M6079400_78",
+                                    "19578-M6079400_79",
+                                    "19578-M6079400_80"
+                                ],
+                                "mainFile": "19578-M6079400_61"
+                            }
+                        },
+                        "@timestamp": "2025-11-28T16:30:14.760133972Z",
+                        "bathroomsNumber": 2,
+                        "rentPriceRangeLabel": "N/A",
+                        "storageType": null,
+                        "location": {
+                            "lon": -74.0406537,
+                            "lat": 4.7404933
+                        },
+                        "publishedDate": "2025-11-28T03:10:11.000Z",
+                        "builtArea": 60,
+                        "businessType": {
+                            "code": "1",
+                            "name": "venta",
+                            "id": "1",
+                            "label": "venta"
+                        },
+                        "notificationCode": null,
+                        "offerorType": "Inmobiliaria",
+                        "parkingNumber": 0
+                    },
+                    {
+                        "country": {
+                            "code": "1",
+                            "name": "Colombia",
+                            "id": "1",
+                            "label": "Colombia"
+                        },
+                        "agent": "WILLIAM CARLOS ROMERO ",
+                        "roomsNumber": 3,
+                        "areaRangeLabel": "Hasta 60",
+                        "updatedDate": "2025-11-28T16:29:08.000Z",
+                        "builtTime": {
+                            "name": "Más de 20 años",
+                            "id": null,
+                            "label": "Más de 20 años"
+                        },
+                        "salePriceRangeLabel": "250'000.001 a 300'000.000",
+                        "offeror": {
+                            "name": "WILLIAM ROMERO",
+                            "type": "RealEstate"
+                        },
+                        "features": [
+                            "area:56",
+                            "areaConstruida:56",
+                            "cercaParque:S",
+                            "cercaTransportePublico:S",
+                            "conCocinaIntegral_o:S",
+                            "conParqueaderoVisitantes_o:S",
+                            "conSalonComunal:S",
+                            "conZonaNinos:S",
+                            "conZonasVerdes:S",
+                            "lavaplatos:S",
+                            "nroBanos:2",
+                            "nroCuartos:3",
+                            "nroGarajes:0",
+                            "nroPiso:3",
+                            "porteria:S",
+                            "recepcionLobby:S",
+                            "tiempoConstruido:Más de 20 años",
+                            "walkingCloset:S",
+                            "zonaResidencial:S"
+                        ],
+                        "aproximatelocation": null,
+                        "adminPrice": 226180,
+                        "zone": {
+                            "name": null,
+                            "id": null
+                        },
+                        "price": 268400000,
+                        "checked": "Inmueble No Verificado",
+                        "id": "19578-M6116033",
+                        "sector": {
+                            "name": null
+                        },
+                        "area": 56,
+                        "forSale": "N",
+                        "extraFeatures": [
+                            "cercaParque",
+                            "cercaTransportePublico",
+                            "conCocinaIntegral_o",
+                            "conParqueaderoVisitantes_o",
+                            "conSalonComunal",
+                            "conZonaNinos",
+                            "conZonasVerdes",
+                            "lavaplatos",
+                            "porteria",
+                            "recepcionLobby",
+                            "walkingCloset",
+                            "zonaResidencial"
+                        ],
+                        "categoryType": null,
+                        "forRent": "N",
+                        "neighborhood": {
+                            "commonName": "Las Orquideas",
+                            "code": "0001-1228",
+                            "name": "LAS ORQUIDEAS",
+                            "id": "0001-1228",
+                            "label": "LAS ORQUIDEAS"
+                        },
+                        "region": {
+                            "code": "14",
+                            "name": "Cundinamarca",
+                            "id": "14",
+                            "label": "Cundinamarca"
+                        },
+                        "lotType": null,
+                        "status": "Usado",
+                        "amenities": {
+                            "disabilityOk": "N",
+                            "aloneOk": "N",
+                            "childrenOk": "N",
+                            "gymOk": "N",
+                            "petsOk": "N",
+                            "outdoorActivitiesOk": "N",
+                            "bikeUserOk": "N"
+                        },
+                        "city": {
+                            "code": "bogota",
+                            "name": "Bogotá D.C.",
+                            "id": "1",
+                            "label": "Bogotá D.C."
+                        },
+                        "checkInDate": "2025-10-23T11:35:03.000Z",
+                        "propertyType": {
+                            "code": "1",
+                            "name": "Apartamento",
+                            "id": "1",
+                            "label": "Apartamento"
+                        },
+                        "@version": "1",
+                        "rentPrice": null,
+                        "comments": "Apartamento en venta de 56 m² con vista exterior, ubicado en un tercer piso con acceso por escaleras. Cuenta con 3 habitaciones, 2 baños, sala comedor, cocina integral y zona de lavandería, con piso cerámico en todas sus áreas. El edificio ofrece acceso controlado mediante chip de seguridad. Se encuentra cerca de los centros comerciales Santa Fe, Mediterráneo y Plaza 147; de almacenes de cadena como Éxito y Homecenter; de colegios Marco Aurelio y Comunal Las Orquídeas; de la Universidad Militar Nueva Granada y de la estación de Transmilenio Calle 161, con fácil acceso por la Calle 164.\n",
+                        "salePrice": 268400000,
+                        "isPublished": "Y",
+                        "metroId": "19578-M6116033",
+                        "url": "/inmueble/venta-apartamento-bogota-las-orquideas-3-habitaciones-2-banos/19578-M6116033",
+                        "stratum": 3,
+                        "multimedia": {
+                            "images": {
+                                "count": 20,
+                                "files": [
+                                    "19578-M6116033_44",
+                                    "19578-M6116033_45",
+                                    "19578-M6116033_46",
+                                    "19578-M6116033_47",
+                                    "19578-M6116033_48",
+                                    "19578-M6116033_49",
+                                    "19578-M6116033_50",
+                                    "19578-M6116033_51",
+                                    "19578-M6116033_52",
+                                    "19578-M6116033_53",
+                                    "19578-M6116033_54",
+                                    "19578-M6116033_55",
+                                    "19578-M6116033_56",
+                                    "19578-M6116033_57",
+                                    "19578-M6116033_58",
+                                    "19578-M6116033_59",
+                                    "19578-M6116033_60",
+                                    "19578-M6116033_61",
+                                    "19578-M6116033_62",
+                                    "19578-M6116033_63"
+                                ],
+                                "mainFile": "19578-M6116033_44"
+                            }
+                        },
+                        "@timestamp": "2025-11-28T16:30:12.727927873Z",
+                        "bathroomsNumber": 2,
+                        "rentPriceRangeLabel": "N/A",
+                        "storageType": null,
+                        "location": {
+                            "lon": -74.0386094,
+                            "lat": 4.7415669
+                        },
+                        "publishedDate": "2025-11-21T03:10:12.000Z",
+                        "builtArea": 56,
+                        "businessType": {
+                            "code": "1",
+                            "name": "venta",
+                            "id": "1",
+                            "label": "venta"
+                        },
+                        "notificationCode": null,
+                        "offerorType": "Inmobiliaria",
+                        "parkingNumber": 0
+                    },
+                    {
+                        "country": {
+                            "code": "1",
+                            "name": "Colombia",
+                            "id": "1",
+                            "label": "Colombia"
+                        },
+                        "agent": null,
+                        "roomsNumber": 2,
+                        "areaRangeLabel": "Hasta 60",
+                        "updatedDate": "2025-11-28T17:13:42.000Z",
+                        "builtTime": {
+                            "name": "Más de 20 años",
+                            "id": null,
+                            "label": "Más de 20 años"
+                        },
+                        "salePriceRangeLabel": "200'000.001 a 250'000.000",
+                        "offeror": {
+                            "name": "BRIKSS SAS",
+                            "type": "RealEstate"
+                        },
+                        "features": [
+                            "area:49",
+                            "areaConstruida:49",
+                            "cercaParque:S",
+                            "conCocinaIntegral_o:S",
+                            "conSalonComunal:S",
+                            "nroBanos:1",
+                            "nroCuartos:2",
+                            "nroGarajes:1",
+                            "tiempoConstruido:Más de 20 años",
+                            "tipoCocinaLista:Lineal"
+                        ],
+                        "aproximatelocation": "N",
+                        "adminPrice": 315000,
+                        "zone": {
+                            "code": "1",
+                            "name": "Norte",
+                            "id": "1",
+                            "label": "Norte"
+                        },
+                        "price": 240000000,
+                        "checked": "Inmueble No Verificado",
+                        "id": "5175-M5820656",
+                        "sector": {
+                            "name": "Cedritos"
+                        },
+                        "area": 49,
+                        "forSale": "N",
+                        "extraFeatures": [
+                            "cercaParque",
+                            "conCocinaIntegral_o",
+                            "conSalonComunal"
+                        ],
+                        "categoryType": null,
+                        "forRent": "N",
+                        "neighborhood": {
+                            "commonName": "Estrella Del Norte",
+                            "code": "0001-1227",
+                            "name": "ESTRELLA DEL NORTE",
+                            "id": "0001-1227",
+                            "label": "ESTRELLA DEL NORTE"
+                        },
+                        "region": {
+                            "code": "14",
+                            "name": "Cundinamarca",
+                            "id": "14",
+                            "label": "Cundinamarca"
+                        },
+                        "lotType": null,
+                        "status": "Usado",
+                        "amenities": {
+                            "disabilityOk": "N",
+                            "aloneOk": "N",
+                            "childrenOk": "N",
+                            "gymOk": "N",
+                            "petsOk": "N",
+                            "outdoorActivitiesOk": "N",
+                            "bikeUserOk": "N"
+                        },
+                        "city": {
+                            "code": "bogota",
+                            "name": "Bogotá D.C.",
+                            "id": "1",
+                            "label": "Bogotá D.C."
+                        },
+                        "checkInDate": "2025-06-19T10:17:42.000Z",
+                        "propertyType": {
+                            "code": "1",
+                            "name": "Apartamento",
+                            "id": "1",
+                            "label": "Apartamento"
+                        },
+                        "@version": "1",
+                        "rentPrice": null,
+                        "comments": "¡Bienvenido a tu nuevo hogar en este acogedor apartamento de 2 habitaciones y 1 baño! Con 49 metros cuadrados, este espacio es perfecto para crear momentos inolvidables. Imagina despertar cada mañana en tu acogedora habitación y disfrutar de la tranquilidad que ofrece este lugar. La sala de estar es ideal para relajarte después de un largo día de trabajo. Además, cuenta con un parqueadero para tu comodidad. El edificio cuenta con Seguridad privada, parqueadero de visitantes, salon comunal y parque infantil.",
+                        "salePrice": 240000000,
+                        "isPublished": "Y",
+                        "metroId": "5175-M5820656",
+                        "url": "/inmueble/venta-apartamento-bogota-estrella-del-norte-2-habitaciones-1-banos-1-garajes/5175-M5820656",
+                        "stratum": 4,
+                        "multimedia": {
+                            "images": {
+                                "count": 10,
+                                "files": [
+                                    "5175-M5820656_1",
+                                    "5175-M5820656_2",
+                                    "5175-M5820656_3",
+                                    "5175-M5820656_4",
+                                    "5175-M5820656_5",
+                                    "5175-M5820656_6",
+                                    "5175-M5820656_7",
+                                    "5175-M5820656_8",
+                                    "5175-M5820656_9",
+                                    "5175-M5820656_10"
+                                ],
+                                "mainFile": "5175-M5820656_1"
+                            }
+                        },
+                        "@timestamp": "2025-11-28T17:16:25.446032222Z",
+                        "bathroomsNumber": 1,
+                        "rentPriceRangeLabel": "N/A",
+                        "storageType": null,
+                        "location": {
+                            "lon": -74.0438,
+                            "lat": 4.74082
+                        },
+                        "publishedDate": "2025-11-11T03:10:05.000Z",
+                        "builtArea": 49,
+                        "businessType": {
+                            "code": "1",
+                            "name": "venta",
+                            "id": "1",
+                            "label": "venta"
+                        },
+                        "notificationCode": null,
+                        "offerorType": "Inmobiliaria",
+                        "parkingNumber": 1
+                    },
+                    {
+                        "country": {
+                            "code": "1",
+                            "name": "Colombia",
+                            "id": "1",
+                            "label": "Colombia"
+                        },
+                        "agent": "Gustavo Armando Rodriguez Torrente",
+                        "roomsNumber": 3,
+                        "areaRangeLabel": "61 a 100",
+                        "updatedDate": "2025-11-28T18:38:49.000Z",
+                        "builtTime": {
+                            "code": "8",
+                            "name": "Más de 20 años",
+                            "id": "8",
+                            "label": "Más de 20 años"
+                        },
+                        "salePriceRangeLabel": "300'000.001 a 400'000.000",
+                        "offeror": {
+                            "name": "INMOBILIARE - JULIO CORREDOR ",
+                            "type": "RealEstate"
+                        },
+                        "features": [
+                            "area:79",
+                            "areaConstruida:79",
+                            "conChimenea:S",
+                            "conCitofono:S",
+                            "conSalonComunal:S",
+                            "instalacionGas:Natural",
+                            "nroBanos:3",
+                            "nroCuartos:3",
+                            "nroGarajes:1",
+                            "tiempoConstruido:Más de 20 años",
+                            "tipoCalentador:No tiene",
+                            "tipoComedor:Sala Comedor",
+                            "tipoEstufa:Gas",
+                            "tipoPiso:Cerámica",
+                            "tipoPisoAlcobas:Cerámica",
+                            "tipoPisoComedor:Cerámica",
+                            "tipoPisoEstudio:Cerámica",
+                            "tipoPisoSala:Cerámica"
+                        ],
+                        "aproximatelocation": "N",
+                        "adminPrice": 250000,
+                        "zone": {
+                            "code": "1",
+                            "name": "Norte",
+                            "id": "1",
+                            "label": "Norte"
+                        },
+                        "price": 320000000,
+                        "checked": "Inmueble No Verificado",
+                        "id": "34-9495",
+                        "sector": {
+                            "name": "Cedritos"
+                        },
+                        "area": 79,
+                        "forSale": "Y",
+                        "extraFeatures": [
+                            "conChimenea",
+                            "conCitofono",
+                            "conSalonComunal"
+                        ],
+                        "categoryType": "Inmobiliario",
+                        "forRent": "N",
+                        "neighborhood": {
+                            "commonName": "Estrella Del Norte",
+                            "code": "0001-1227",
+                            "name": "ESTRELLA DEL NORTE",
+                            "id": "0001-1227",
+                            "label": "ESTRELLA DEL NORTE"
+                        },
+                        "region": {
+                            "code": "14",
+                            "name": "Cundinamarca",
+                            "id": "14",
+                            "label": "Cundinamarca"
+                        },
+                        "lotType": null,
+                        "status": "Usado",
+                        "amenities": {
+                            "disabilityOk": "N",
+                            "aloneOk": "N",
+                            "childrenOk": "N",
+                            "gymOk": "N",
+                            "petsOk": "N",
+                            "outdoorActivitiesOk": "N",
+                            "bikeUserOk": "N"
+                        },
+                        "city": {
+                            "code": "bogota",
+                            "name": "Bogotá D.C.",
+                            "id": "1",
+                            "label": "Bogotá D.C."
+                        },
+                        "checkInDate": "2017-05-16T20:59:05.000Z",
+                        "propertyType": {
+                            "code": "1",
+                            "name": "Apartamento",
+                            "id": "1",
+                            "label": "Apartamento"
+                        },
+                        "@version": "1",
+                        "rentPrice": 0,
+                        "comments": "Apartamento en quinto piso con area de setenta y nueve mts cuadrados, tres alcobas, tres baños,  cocina integral a gas, garaje descubierto, porteria citofono, no ascensor. El conjunto cuenta con zonas verdes, salon comunal, gimnasio, parque infantil",
+                        "salePrice": 320000000,
+                        "isPublished": "Y",
+                        "metroId": "34-9495",
+                        "url": "/inmueble/venta-apartamento-bogota-estrella-del-norte-3-habitaciones-3-banos-1-garajes/34-9495",
+                        "stratum": 4,
+                        "multimedia": {
+                            "images": {
+                                "count": 13,
+                                "files": [
+                                    "34-9495_196",
+                                    "34-9495_197",
+                                    "34-9495_198",
+                                    "34-9495_199",
+                                    "34-9495_200",
+                                    "34-9495_201",
+                                    "34-9495_202",
+                                    "34-9495_203",
+                                    "34-9495_204",
+                                    "34-9495_205",
+                                    "34-9495_206",
+                                    "34-9495_207",
+                                    "34-9495_208"
+                                ],
+                                "mainFile": "34-9495_196"
+                            }
+                        },
+                        "@timestamp": "2025-11-28T18:40:15.053726474Z",
+                        "bathroomsNumber": 3,
+                        "rentPriceRangeLabel": "Hasta 400.000",
+                        "storageType": null,
+                        "location": {
+                            "lon": -74.04267,
+                            "lat": 4.73864
+                        },
+                        "publishedDate": "2025-11-13T03:10:01.000Z",
+                        "builtArea": 79,
+                        "businessType": {
+                            "code": "1",
+                            "name": "venta",
+                            "id": "1",
+                            "label": "venta"
+                        },
+                        "notificationCode": null,
+                        "offerorType": "Inmobiliaria",
+                        "parkingNumber": 1
+                    }
+                ],
+                "formFilters": {
+                    "tags": [
+                        {
+                            "id": 1,
+                            "name": "Negociable",
+                            "type": "NEGOTIABLE",
+                            "total": 1
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

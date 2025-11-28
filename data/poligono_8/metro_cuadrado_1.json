@@ -1,0 +1,3964 @@
+{
+    "responseCode": 1000,
+    "message": "Operation performed successfully",
+    "data": {
+        "metadata": {
+            "imagesUrl": "https://multimedia.metrocuadrado.com"
+        },
+        "result": {
+            "propertiesByFiltersQuery": {
+                "count": 22,
+                "total": 22,
+                "batch": {
+                    "realEstate": {
+                        "from": 0,
+                        "pages": [
+                            0,
+                            15
+                        ]
+                    },
+                    "seller": {
+                        "from": 0,
+                        "pages": [
+                            0,
+                            7
+                        ]
+                    }
+                },
+                "properties": [
+                    {
+                        "country": {
+                            "code": "1",
+                            "name": "Colombia",
+                            "id": "1",
+                            "label": "Colombia"
+                        },
+                        "agent": "Juan David Castro Parodi",
+                        "roomsNumber": 2,
+                        "areaRangeLabel": "61 a 100",
+                        "updatedDate": "2025-11-12T05:05:21.000Z",
+                        "builtTime": {
+                            "name": "Más de 20 años",
+                            "id": null,
+                            "label": "Más de 20 años"
+                        },
+                        "salePriceRangeLabel": "300'000.001 a 400'000.000",
+                        "offeror": {
+                            "name": "Deslumbra SAS",
+                            "type": "RealEstate"
+                        },
+                        "features": [
+                            "area:62",
+                            "areaConstruida:62",
+                            "banosAuxiliar:S",
+                            "cercaAJardinesYColegios:S",
+                            "cercaARestaurantes:S",
+                            "cercaATiendasDeBarrio:S",
+                            "cercaColegioUniversidad:S",
+                            "cercaParque:S",
+                            "cercaTransportePublico:S",
+                            "conBanoServicio_o:S",
+                            "conCircuitoCerradoTV:S",
+                            "conCitofono:S",
+                            "conCocinaIntegral_o:S",
+                            "conSalonComunal:S",
+                            "conVigilancia-cb:S",
+                            "conVistaPanoramica:S",
+                            "conZonaLavanderia:S",
+                            "conZonasVerdes:S",
+                            "lavaplatos:S",
+                            "luzEnLaManana:S",
+                            "luzEnLaTarde:S",
+                            "nroBanos:2",
+                            "nroCuartos:2",
+                            "nroGarajes:1",
+                            "nroPiso:5",
+                            "porteria:S",
+                            "recepcionLobby:S",
+                            "tiempoConstruido:Más de 20 años",
+                            "zonaResidencial:S"
+                        ],
+                        "aproximatelocation": null,
+                        "adminPrice": 580000,
+                        "zone": {
+                            "name": null,
+                            "id": null
+                        },
+                        "price": 360000000,
+                        "checked": "Inmueble No Verificado",
+                        "id": "755-M6147288",
+                        "sector": {
+                            "name": null
+                        },
+                        "area": 62,
+                        "forSale": "N",
+                        "extraFeatures": [
+                            "banosAuxiliar",
+                            "cercaAJardinesYColegios",
+                            "cercaARestaurantes",
+                            "cercaATiendasDeBarrio",
+                            "cercaColegioUniversidad",
+                            "cercaParque",
+                            "cercaTransportePublico",
+                            "conBanoServicio_o",
+                            "conCircuitoCerradoTV",
+                            "conCitofono",
+                            "conCocinaIntegral_o",
+                            "conSalonComunal",
+                            "conVigilancia7x24",
+                            "conVistaPanoramica",
+                            "conZonaLavanderia",
+                            "conZonasVerdes",
+                            "lavaplatos",
+                            "luzEnLaManana",
+                            "luzEnLaTarde",
+                            "porteria",
+                            "recepcionLobby",
+                            "zonaResidencial"
+                        ],
+                        "categoryType": null,
+                        "forRent": "N",
+                        "neighborhood": {
+                            "commonName": "Cedritos",
+                            "code": "0001-1360",
+                            "name": "CEDRITOS",
+                            "id": "0001-1360",
+                            "label": "CEDRITOS"
+                        },
+                        "region": {
+                            "code": "14",
+                            "name": "Cundinamarca",
+                            "id": "14",
+                            "label": "Cundinamarca"
+                        },
+                        "lotType": null,
+                        "status": "Usado",
+                        "amenities": {
+                            "disabilityOk": "N",
+                            "aloneOk": "N",
+                            "childrenOk": "N",
+                            "gymOk": "N",
+                            "petsOk": "N",
+                            "outdoorActivitiesOk": "N",
+                            "bikeUserOk": "N"
+                        },
+                        "city": {
+                            "code": "bogota",
+                            "name": "Bogotá D.C.",
+                            "id": "1",
+                            "label": "Bogotá D.C."
+                        },
+                        "checkInDate": "2025-11-12T00:05:05.000Z",
+                        "propertyType": {
+                            "code": "1",
+                            "name": "Apartamento",
+                            "id": "1",
+                            "label": "Apartamento"
+                        },
+                        "@version": "1",
+                        "rentPrice": null,
+                        "comments": "CODIGO DESLUMBRA CORAL\n\nVENDO apartamento Cedritos, cerca a Transmilenio, 2 habitaciones, 2 baños, cocina abierta, zona de ropas, zona socialamplia, doble altura. parqueadero. Ven y conócelo!!!\n",
+                        "salePrice": 360000000,
+                        "isPublished": "Y",
+                        "metroId": "755-M6147288",
+                        "url": "/inmueble/venta-apartamento-bogota-cedritos-2-habitaciones-2-banos-1-garajes/755-M6147288",
+                        "stratum": 4,
+                        "multimedia": {
+                            "images": {
+                                "count": 20,
+                                "files": [
+                                    "755-M6147288_1",
+                                    "755-M6147288_2",
+                                    "755-M6147288_3",
+                                    "755-M6147288_4",
+                                    "755-M6147288_5",
+                                    "755-M6147288_6",
+                                    "755-M6147288_7",
+                                    "755-M6147288_8",
+                                    "755-M6147288_9",
+                                    "755-M6147288_10",
+                                    "755-M6147288_11",
+                                    "755-M6147288_12",
+                                    "755-M6147288_13",
+                                    "755-M6147288_14",
+                                    "755-M6147288_15",
+                                    "755-M6147288_16",
+                                    "755-M6147288_17",
+                                    "755-M6147288_18",
+                                    "755-M6147288_19",
+                                    "755-M6147288_20"
+                                ],
+                                "mainFile": "755-M6147288_1"
+                            }
+                        },
+                        "@timestamp": "2025-11-12T05:10:11.445141876Z",
+                        "bathroomsNumber": 2,
+                        "rentPriceRangeLabel": "N/A",
+                        "storageType": null,
+                        "location": {
+                            "lon": -74.0468127,
+                            "lat": 4.7270049
+                        },
+                        "publishedDate": "2025-11-12T00:05:05.000Z",
+                        "builtArea": 62,
+                        "businessType": {
+                            "code": "1",
+                            "name": "venta",
+                            "id": "1",
+                            "label": "venta"
+                        },
+                        "notificationCode": null,
+                        "offerorType": "Inmobiliaria",
+                        "parkingNumber": 1
+                    },
+                    {
+                        "country": {
+                            "code": "1",
+                            "name": "Colombia",
+                            "id": "1",
+                            "label": "Colombia"
+                        },
+                        "agent": null,
+                        "roomsNumber": 3,
+                        "areaRangeLabel": "61 a 100",
+                        "updatedDate": "2025-11-19T15:22:08.000Z",
+                        "builtTime": {
+                            "name": "Más de 20 años",
+                            "id": null,
+                            "label": "Más de 20 años"
+                        },
+                        "salePriceRangeLabel": "300'000.001 a 400'000.000",
+                        "offeror": {
+                            "name": "Mayeinmobiliaria",
+                            "type": "RealEstate"
+                        },
+                        "features": [
+                            "accesoConTarjetasODispositivos:S",
+                            "aptoParaNinos:S",
+                            "area:64",
+                            "areaConstruida:69",
+                            "ascensor:S",
+                            "bahiasDeParqueo:S",
+                            "bancoHipoteca:No Tiene",
+                            "cercaAGimnasio:S",
+                            "cercaAHospitales:S",
+                            "cercaAJardinesYColegios:S",
+                            "cercaARestaurantes:S",
+                            "cercaATiendasDeBarrio:S",
+                            "cercaCentroComercial:S",
+                            "cercaColegioUniversidad:S",
+                            "cercaParque:S",
+                            "cercaSupermercado:S",
+                            "cercaTransportePublico:S",
+                            "conCircuitoCerradoTV:S",
+                            "conCitofono:S",
+                            "conComedorAuxiliar:S",
+                            "conCortinas:Pesadas",
+                            "conEstudioBiblioteca:S",
+                            "conGarajeCubierto:S",
+                            "conHall:S",
+                            "conSalonComunal:S",
+                            "conZonaLavanderia:S",
+                            "contactoWhatsApp:S",
+                            "enConjuntoCerrado:S",
+                            "horno:S",
+                            "instalacionGas:Natural",
+                            "luzEnLaManana:S",
+                            "luzEnLaTarde:S",
+                            "matricula:501111",
+                            "negociarPrecio:S",
+                            "nroApto:502",
+                            "nroAscensores:1",
+                            "nroBanos:2",
+                            "nroClosets:3",
+                            "nroCuartos:3",
+                            "nroGarajes:1",
+                            "nroPiso:5",
+                            "shutDeBasura:S",
+                            "sobreViaSecundaria:S",
+                            "terrazaBalcon:Ninguno",
+                            "tiempoConstruido:Más de 20 años",
+                            "tipoCalentador:No tiene",
+                            "tipoCocinaLista:Lineal",
+                            "tipoComedor:Sala Comedor",
+                            "tipoDeposito:2",
+                            "tipoEstufa:Gas",
+                            "tipoGaraje:Propio",
+                            "tipoPiso:Laminado",
+                            "tipoPisoAlcobas:Laminado",
+                            "tipoPisoComedor:Laminado",
+                            "tipoPisoEstudio:Laminado",
+                            "tipoPisoSala:Laminado",
+                            "tipoVigilancia:0",
+                            "vista:Interior"
+                        ],
+                        "aproximatelocation": "N",
+                        "adminPrice": 440000,
+                        "zone": {
+                            "code": "1",
+                            "name": "Norte",
+                            "id": "1",
+                            "label": "Norte"
+                        },
+                        "price": 380000000,
+                        "checked": "Inmueble No Verificado",
+                        "id": "20188-M6157388",
+                        "sector": {
+                            "name": "Cedritos"
+                        },
+                        "area": 64,
+                        "forSale": "Y",
+                        "extraFeatures": [
+                            "accesoConTarjetasODispositivos",
+                            "aptoParaNinos",
+                            "ascensor",
+                            "bahiasDeParqueo",
+                            "cercaAGimnasio",
+                            "cercaAHospitales",
+                            "cercaAJardinesYColegios",
+                            "cercaARestaurantes",
+                            "cercaATiendasDeBarrio",
+                            "cercaCentroComercial",
+                            "cercaColegioUniversidad",
+                            "cercaParque",
+                            "cercaSupermercado",
+                            "cercaTransportePublico",
+                            "conCircuitoCerradoTV",
+                            "conCitofono",
+                            "conComedorAuxiliar",
+                            "conEstudioBiblioteca",
+                            "conGarajeCubierto",
+                            "conHall",
+                            "conSalonComunal",
+                            "conZonaLavanderia",
+                            "contactoWhatsApp",
+                            "enConjuntoCerrado",
+                            "horno",
+                            "luzEnLaManana",
+                            "luzEnLaTarde",
+                            "negociarPrecio",
+                            "shutDeBasura",
+                            "sobreViaSecundaria"
+                        ],
+                        "categoryType": null,
+                        "forRent": "N",
+                        "neighborhood": {
+                            "commonName": "CEDRITOS",
+                            "code": "0001-1218",
+                            "name": "LOS CEDRITOS",
+                            "id": "0001-1218",
+                            "label": "LOS CEDRITOS"
+                        },
+                        "region": {
+                            "code": "14",
+                            "name": "Cundinamarca",
+                            "id": "14",
+                            "label": "Cundinamarca"
+                        },
+                        "lotType": null,
+                        "status": "Usado",
+                        "amenities": {
+                            "disabilityOk": "N",
+                            "aloneOk": "N",
+                            "childrenOk": "N",
+                            "gymOk": "N",
+                            "petsOk": "N",
+                            "outdoorActivitiesOk": "N",
+                            "bikeUserOk": "N"
+                        },
+                        "city": {
+                            "code": "bogota",
+                            "name": "Bogotá D.C.",
+                            "id": "1",
+                            "label": "Bogotá D.C."
+                        },
+                        "checkInDate": "2025-11-18T16:34:05.000Z",
+                        "propertyType": {
+                            "code": "1",
+                            "name": "Apartamento",
+                            "id": "1",
+                            "label": "Apartamento"
+                        },
+                        "@version": "1",
+                        "rentPrice": 0,
+                        "comments": "Te ofrezco este bonito y acogedor apartamento en Cedritos ubicado en el quinto piso con vista interior y acceso por ascensor. Consta de tres habitaciones, sala comedor, cocina cerrada, gas natural. Excelente iluminación natural en todo el apartamento. Bodega en el altillo.\nPisos laminados. Muy buen estado.\nIngreso al edificio automatizado. Próximamente cambio de ascensor (no cuota extraordinaria)\nGaraje cubierto con matrícula inmobiliaria independiente y deposito. Parqueadero de visitantes, salón social.\nEl edificio consta de 29 apartamentos y está a media cuadra de la estación del Transmilenio.\nExcelentes vías de acceso: Autopista Norte, Avda. 19, calle 147, calle 134, etc., cerca de centros comerciales, supermercados, etc. y transporte publico garantizado (Transmilenio, SITP, etc)\nÁrea Construida: 69 M2\nÁrea privada 64 M2\nAntigüedad: 34 años\nDocumentos al día. sin afectaciones de ningún tipo.\nEstrato 4\nAdministración: $440 MIL\nP.V. $380 MILLONES\n",
+                        "salePrice": 380000000,
+                        "isPublished": "Y",
+                        "metroId": "20188-M6157388",
+                        "url": "/inmueble/venta-apartamento-bogota-los-cedritos-3-habitaciones-2-banos-1-garajes/20188-M6157388",
+                        "stratum": 4,
+                        "multimedia": {
+                            "images": {
+                                "count": 20,
+                                "files": [
+                                    "20188-M6157388_1",
+                                    "20188-M6157388_2",
+                                    "20188-M6157388_3",
+                                    "20188-M6157388_4",
+                                    "20188-M6157388_5",
+                                    "20188-M6157388_6",
+                                    "20188-M6157388_7",
+                                    "20188-M6157388_8",
+                                    "20188-M6157388_9",
+                                    "20188-M6157388_10",
+                                    "20188-M6157388_11",
+                                    "20188-M6157388_12",
+                                    "20188-M6157388_13",
+                                    "20188-M6157388_14",
+                                    "20188-M6157388_15",
+                                    "20188-M6157388_16",
+                                    "20188-M6157388_17",
+                                    "20188-M6157388_18",
+                                    "20188-M6157388_19",
+                                    "20188-M6157388_20"
+                                ],
+                                "mainFile": "20188-M6157388_1"
+                            }
+                        },
+                        "@timestamp": "2025-11-19T15:25:41.069753707Z",
+                        "bathroomsNumber": 2,
+                        "rentPriceRangeLabel": "Hasta 400.000",
+                        "storageType": null,
+                        "location": {
+                            "lon": -74.0492935180664,
+                            "lat": 4.72676944732666
+                        },
+                        "publishedDate": "2025-11-18T21:47:51.000Z",
+                        "builtArea": 69,
+                        "businessType": {
+                            "code": "1",
+                            "name": "venta",
+                            "id": "1",
+                            "label": "venta"
+                        },
+                        "notificationCode": null,
+                        "offerorType": "Inmobiliaria",
+                        "parkingNumber": 1
+                    },
+                    {
+                        "country": {
+                            "code": "1",
+                            "name": "Colombia",
+                            "id": "1",
+                            "label": "Colombia"
+                        },
+                        "agent": "JOHN GALINDO                                   ",
+                        "roomsNumber": 2,
+                        "areaRangeLabel": "61 a 100",
+                        "updatedDate": "2025-11-27T14:56:10.000Z",
+                        "builtTime": {
+                            "name": "Más de 20 años",
+                            "id": null,
+                            "label": "Más de 20 años"
+                        },
+                        "salePriceRangeLabel": "300'000.001 a 400'000.000",
+                        "offeror": {
+                            "name": "C&C INVERSIONES INMOBILIARIAS S.A.",
+                            "type": "RealEstate"
+                        },
+                        "features": [
+                            "area:75",
+                            "areaConstruida:75",
+                            "cercaCentroComercial:S",
+                            "cercaColegioUniversidad:S",
+                            "cercaSupermercado:S",
+                            "cercaTransportePublico:S",
+                            "conCocinaIntegral_o:S",
+                            "nroBanos:2",
+                            "nroCuartos:2",
+                            "nroGarajes:1",
+                            "sobreViaSecundaria:S",
+                            "tiempoConstruido:Más de 20 años",
+                            "tipoCocinaLista:Lineal",
+                            "zonaComercial:S",
+                            "zonaResidencial:S"
+                        ],
+                        "aproximatelocation": "N",
+                        "adminPrice": 534555,
+                        "zone": {
+                            "code": "1",
+                            "name": "Norte",
+                            "id": "1",
+                            "label": "Norte"
+                        },
+                        "price": 320000000,
+                        "checked": "Inmueble No Verificado",
+                        "id": "342-M5596163",
+                        "sector": {
+                            "name": "Cedritos"
+                        },
+                        "area": 75,
+                        "forSale": "N",
+                        "extraFeatures": [
+                            "cercaCentroComercial",
+                            "cercaColegioUniversidad",
+                            "cercaSupermercado",
+                            "cercaTransportePublico",
+                            "conCocinaIntegral_o",
+                            "sobreViaSecundaria",
+                            "zonaComercial",
+                            "zonaResidencial"
+                        ],
+                        "categoryType": null,
+                        "forRent": "N",
+                        "neighborhood": {
+                            "commonName": "Cedritos",
+                            "code": "0001-1218",
+                            "name": "LOS CEDRITOS",
+                            "id": "0001-1218",
+                            "label": "LOS CEDRITOS"
+                        },
+                        "region": {
+                            "code": "14",
+                            "name": "Cundinamarca",
+                            "id": "14",
+                            "label": "Cundinamarca"
+                        },
+                        "lotType": null,
+                        "status": "Usado",
+                        "amenities": {
+                            "disabilityOk": "N",
+                            "aloneOk": "N",
+                            "childrenOk": "N",
+                            "gymOk": "N",
+                            "petsOk": "N",
+                            "outdoorActivitiesOk": "N",
+                            "bikeUserOk": "N"
+                        },
+                        "city": {
+                            "code": "bogota",
+                            "name": "Bogotá D.C.",
+                            "id": "1",
+                            "label": "Bogotá D.C."
+                        },
+                        "checkInDate": "2025-02-19T10:15:40.000Z",
+                        "propertyType": {
+                            "code": "1",
+                            "name": "Apartamento",
+                            "id": "1",
+                            "label": "Apartamento"
+                        },
+                        "@version": "1",
+                        "rentPrice": null,
+                        "comments": "Vendo bonito y amplio apartamento exterior de 75 m2 de construido, iluminación natural, consta de 2 alcobas con closet alcoba principal con baño privado, un baño adicional completo, un estudio, cocina integral a gas, sala comedor, zona de lavandería independiente, calentador a gas, pisos en cerámica, un parqueadero cubierto. Cerca a la calle 147, calle 142, carrera 15, carrera 19, zona comercial, zona bancaria, restaurantes.",
+                        "salePrice": 320000000,
+                        "isPublished": "Y",
+                        "metroId": "342-M5596163",
+                        "url": "/inmueble/venta-apartamento-bogota-los-cedritos-2-habitaciones-2-banos-1-garajes/342-M5596163",
+                        "stratum": 4,
+                        "multimedia": {
+                            "images": {
+                                "count": 16,
+                                "files": [
+                                    "342-M5596163_305",
+                                    "342-M5596163_306",
+                                    "342-M5596163_307",
+                                    "342-M5596163_308",
+                                    "342-M5596163_309",
+                                    "342-M5596163_310",
+                                    "342-M5596163_311",
+                                    "342-M5596163_312",
+                                    "342-M5596163_313",
+                                    "342-M5596163_314",
+                                    "342-M5596163_315",
+                                    "342-M5596163_316",
+                                    "342-M5596163_317",
+                                    "342-M5596163_318",
+                                    "342-M5596163_319",
+                                    "342-M5596163_320"
+                                ],
+                                "mainFile": "342-M5596163_305"
+                            }
+                        },
+                        "@timestamp": "2025-11-27T15:00:37.614156351Z",
+                        "bathroomsNumber": 2,
+                        "rentPriceRangeLabel": "N/A",
+                        "storageType": null,
+                        "location": {
+                            "lon": -74.04145,
+                            "lat": 4.72556
+                        },
+                        "publishedDate": "2025-06-12T18:08:25.000Z",
+                        "builtArea": 75,
+                        "businessType": {
+                            "code": "1",
+                            "name": "venta",
+                            "id": "1",
+                            "label": "venta"
+                        },
+                        "notificationCode": null,
+                        "offerorType": "Inmobiliaria",
+                        "parkingNumber": 1
+                    },
+                    {
+                        "country": {
+                            "code": "1",
+                            "name": "Colombia",
+                            "id": "1",
+                            "label": "Colombia"
+                        },
+                        "agent": null,
+                        "roomsNumber": 2,
+                        "areaRangeLabel": "61 a 100",
+                        "updatedDate": "2025-11-28T03:10:04.000Z",
+                        "builtTime": {
+                            "code": "6",
+                            "name": "Entre 5 y 10 años",
+                            "id": "6",
+                            "label": "Entre 5 y 10 años"
+                        },
+                        "salePriceRangeLabel": "300'000.001 a 400'000.000",
+                        "offeror": {
+                            "name": "CAROLINA CASTELLANOS",
+                            "type": "RealEstate"
+                        },
+                        "features": [
+                            "area:70",
+                            "areaConstruida:70",
+                            "ascensor:S",
+                            "cercaCentroComercial:S",
+                            "cercaColegioUniversidad:S",
+                            "cercaParque:S",
+                            "cercaSupermercado:S",
+                            "cercaTransportePublico:S",
+                            "conCircuitoCerradoTV:S",
+                            "conCitofono:S",
+                            "conZonaLavanderia:S",
+                            "contactoWhatsApp:S",
+                            "instalacionGas:Natural",
+                            "negociarPrecio:S",
+                            "nroApto:4",
+                            "nroAscensores:1",
+                            "nroBanos:2",
+                            "nroCuartos:2",
+                            "nroGarajes:1",
+                            "nroPiso:4",
+                            "sobreViaSecundaria:S",
+                            "tiempoConstruido:Entre 5 y 10 años",
+                            "tipoComedor:Sala Comedor",
+                            "tipoDeposito:1",
+                            "tipoPiso:Laminado",
+                            "tipoPisoAlcobas:Laminado",
+                            "tipoPisoComedor:Laminado",
+                            "tipoPisoSala:Laminado",
+                            "tipoVigilancia:24hrs",
+                            "vista:Interior"
+                        ],
+                        "aproximatelocation": "S",
+                        "adminPrice": 526400,
+                        "zone": {
+                            "code": "1",
+                            "name": "Norte",
+                            "id": "1",
+                            "label": "Norte"
+                        },
+                        "price": 398000000,
+                        "checked": "Inmueble No Verificado",
+                        "id": "836-M6126222",
+                        "sector": {
+                            "name": "Cedritos"
+                        },
+                        "area": 70,
+                        "forSale": "Y",
+                        "extraFeatures": [
+                            "ascensor",
+                            "cercaCentroComercial",
+                            "cercaColegioUniversidad",
+                            "cercaParque",
+                            "cercaSupermercado",
+                            "cercaTransportePublico",
+                            "conCircuitoCerradoTV",
+                            "conCitofono",
+                            "conZonaLavanderia",
+                            "contactoWhatsApp",
+                            "negociarPrecio",
+                            "sobreViaSecundaria"
+                        ],
+                        "categoryType": null,
+                        "forRent": "N",
+                        "neighborhood": {
+                            "commonName": "CEDRITOS",
+                            "code": "0001-1237",
+                            "name": "RINCON DEL CEDRO",
+                            "id": "0001-1237",
+                            "label": "RINCON DEL CEDRO"
+                        },
+                        "region": {
+                            "code": "14",
+                            "name": "Cundinamarca",
+                            "id": "14",
+                            "label": "Cundinamarca"
+                        },
+                        "lotType": null,
+                        "status": "Usado",
+                        "amenities": {
+                            "disabilityOk": "N",
+                            "aloneOk": "N",
+                            "childrenOk": "N",
+                            "gymOk": "N",
+                            "petsOk": "N",
+                            "outdoorActivitiesOk": "N",
+                            "bikeUserOk": "N"
+                        },
+                        "city": {
+                            "code": "bogota",
+                            "name": "Bogotá D.C.",
+                            "id": "1",
+                            "label": "Bogotá D.C."
+                        },
+                        "checkInDate": "2025-10-29T18:57:24.000Z",
+                        "propertyType": {
+                            "code": "1",
+                            "name": "Apartamento",
+                            "id": "1",
+                            "label": "Apartamento"
+                        },
+                        "@version": "1",
+                        "rentPrice": 0,
+                        "comments": "Lindo apartamento ubicado en un cuarto piso con ascensor, interior con bonita vista, 9 años de construido, sala comedor con chimenea a gas y balcón, dos alcobas, dos baños, amplia cocina integral, zona de lavandería, pisos en laminado, un garaje y un depósito. El edificio tiene parqueo de visitantes y terraza. Muy buena ubicación cerca de la Avenida 19, de la Autopista, cerca del Centro Comercial Cedritos, cerca de colegios, almacenes de cadena y restaurantes, parque y zonas verdes alrededor, buen transporte público. El apartamento está alquilado con renovación de contrato hasta el 31 de octubre de 2026, por valor de $2.414.200, se cede el contrato. Informes Carolina Castellanos",
+                        "salePrice": 398000000,
+                        "isPublished": "Y",
+                        "metroId": "836-M6126222",
+                        "url": "/inmueble/venta-apartamento-bogota-rincon-del-cedro-2-habitaciones-2-banos-1-garajes/836-M6126222",
+                        "stratum": 4,
+                        "multimedia": {
+                            "images": {
+                                "count": 16,
+                                "files": [
+                                    "836-M6126222_1",
+                                    "836-M6126222_2",
+                                    "836-M6126222_3",
+                                    "836-M6126222_4",
+                                    "836-M6126222_5",
+                                    "836-M6126222_6",
+                                    "836-M6126222_7",
+                                    "836-M6126222_8",
+                                    "836-M6126222_9",
+                                    "836-M6126222_10",
+                                    "836-M6126222_11",
+                                    "836-M6126222_12",
+                                    "836-M6126222_13",
+                                    "836-M6126222_14",
+                                    "836-M6126222_15",
+                                    "836-M6126222_16"
+                                ],
+                                "mainFile": "836-M6126222_1"
+                            }
+                        },
+                        "@timestamp": "2025-11-28T03:15:51.746594273Z",
+                        "bathroomsNumber": 2,
+                        "rentPriceRangeLabel": "Hasta 400.000",
+                        "storageType": null,
+                        "location": {
+                            "lon": -74.04377746582031,
+                            "lat": 4.732859134674072
+                        },
+                        "publishedDate": "2025-11-28T03:10:04.000Z",
+                        "builtArea": 70,
+                        "businessType": {
+                            "code": "1",
+                            "name": "venta",
+                            "id": "1",
+                            "label": "venta"
+                        },
+                        "notificationCode": null,
+                        "offerorType": "Inmobiliaria",
+                        "parkingNumber": 1
+                    },
+                    {
+                        "country": {
+                            "code": "1",
+                            "name": "Colombia",
+                            "id": "1",
+                            "label": "Colombia"
+                        },
+                        "amenities": {
+                            "disabilityOk": "N",
+                            "aloneOk": "N",
+                            "childrenOk": "N",
+                            "gymOk": "N",
+                            "petsOk": "N",
+                            "outdoorActivitiesOk": "N",
+                            "bikeUserOk": "N"
+                        },
+                        "agent": null,
+                        "city": {
+                            "code": "bogota",
+                            "name": "Bogotá D.C.",
+                            "id": "1",
+                            "label": "Bogotá D.C."
+                        },
+                        "roomsNumber": 3,
+                        "areaRangeLabel": "61 a 100",
+                        "updatedDate": "2025-11-28T13:20:19.000Z",
+                        "builtTime": {
+                            "name": "Más de 20 años",
+                            "id": null,
+                            "label": "Más de 20 años"
+                        },
+                        "salePriceRangeLabel": "300'000.001 a 400'000.000",
+                        "checkInDate": "2025-09-25T04:38:58.000Z",
+                        "offeror": {
+                            "name": "BIENES RAICES RISARALDA",
+                            "type": "RealEstate"
+                        },
+                        "features": [
+                            "area:61.70",
+                            "areaConstruida:61.70",
+                            "nroBanos:2",
+                            "nroCuartos:3",
+                            "nroGarajes:1",
+                            "nroPiso:6",
+                            "tiempoConstruido:Más de 20 años"
+                        ],
+                        "aproximatelocation": null,
+                        "adminPrice": null,
+                        "zone": {
+                            "code": "1",
+                            "name": "Norte",
+                            "id": "1",
+                            "label": "Norte"
+                        },
+                        "price": 360000000,
+                        "propertyType": {
+                            "code": "1",
+                            "name": "Apartamento",
+                            "id": "1",
+                            "label": "Apartamento"
+                        },
+                        "@version": "1",
+                        "checked": "Inmueble No Verificado",
+                        "id": "16418-M6069048",
+                        "rentPrice": null,
+                        "sector": {
+                            "name": "Cedritos"
+                        },
+                        "area": 61.7,
+                        "forSale": "N",
+                        "comments": "¿ SE VENDE HERMOSO APARTAMENTO EN CEDRITOS – USAQUÉN ¿\n\nUbicado en una zona exclusiva y familiar, rodeada de tranquilidad y comodidad, este apartamento es ideal para disfrutar de un estilo de vida práctico y moderno.\n\n¿ Características del apartamento\n\n\n \n 3 amplias alcobas\n \n \n 2 baños completos\n \n \n Sala – comedor iluminada\n \n \n Cocina funcional\n \n \n patio de ropas \n \n \n Parqueadero propio\n \n \n Piso 6 con excelente vista\n \n \n ascensor\n \n \n administracion $ 400.000\n \n\n\n¿ Ubicación privilegiada cerca de colegios, zonas comerciales, transporte público y todo lo que tu familia necesita.\n\n¿ Estrato 4 – Espacios acogedores y con excelente valorización.\n\n¿ ¡Una oportunidad única para invertir o vivir con calidad en Cedritos, Usaquén!\n",
+                        "salePrice": 360000000,
+                        "isPublished": "Y",
+                        "metroId": "16418-M6069048",
+                        "url": "/inmueble/venta-apartamento-bogota-cjr-reserva-de-la-colina-etapas-iii-y-iv-3-habitaciones-2-banos-1-garajes/16418-M6069048",
+                        "stratum": 4,
+                        "categoryType": null,
+                        "forRent": "N",
+                        "multimedia": {
+                            "images": {
+                                "count": 18,
+                                "files": [
+                                    "16418-M6069048_73",
+                                    "16418-M6069048_74",
+                                    "16418-M6069048_75",
+                                    "16418-M6069048_76",
+                                    "16418-M6069048_77",
+                                    "16418-M6069048_78",
+                                    "16418-M6069048_79",
+                                    "16418-M6069048_80",
+                                    "16418-M6069048_81",
+                                    "16418-M6069048_82",
+                                    "16418-M6069048_83",
+                                    "16418-M6069048_84",
+                                    "16418-M6069048_85",
+                                    "16418-M6069048_86",
+                                    "16418-M6069048_87",
+                                    "16418-M6069048_88",
+                                    "16418-M6069048_89",
+                                    "16418-M6069048_90"
+                                ],
+                                "mainFile": "16418-M6069048_73"
+                            }
+                        },
+                        "@timestamp": "2025-11-28T13:26:28.478270709Z",
+                        "bathroomsNumber": 2,
+                        "rentPriceRangeLabel": "N/A",
+                        "storageType": null,
+                        "location": {
+                            "lon": -74.04160589512,
+                            "lat": 4.732175840625
+                        },
+                        "neighborhood": {
+                            "commonName": "Cedritos",
+                            "code": "0",
+                            "name": "CJR RESERVA DE LA COLINA ETAPAS III Y IV",
+                            "id": "0",
+                            "label": "CJR RESERVA DE LA COLINA ETAPAS III Y IV"
+                        },
+                        "publishedDate": "2025-11-22T03:10:11.000Z",
+                        "region": {
+                            "code": "14",
+                            "name": "Cundinamarca",
+                            "id": "14",
+                            "label": "Cundinamarca"
+                        },
+                        "builtArea": 61.7,
+                        "businessType": {
+                            "code": "1",
+                            "name": "venta",
+                            "id": "1",
+                            "label": "venta"
+                        },
+                        "lotType": null,
+                        "notificationCode": null,
+                        "status": "Usado",
+                        "offerorType": "Inmobiliaria",
+                        "parkingNumber": 1
+                    },
+                    {
+                        "country": {
+                            "code": "1",
+                            "name": "Colombia",
+                            "id": "1",
+                            "label": "Colombia"
+                        },
+                        "agent": null,
+                        "roomsNumber": 2,
+                        "areaRangeLabel": "61 a 100",
+                        "updatedDate": "2025-11-28T13:51:56.000Z",
+                        "builtTime": {
+                            "code": "8",
+                            "name": "Más de 20 años",
+                            "id": "8",
+                            "label": "Más de 20 años"
+                        },
+                        "salePriceRangeLabel": "300'000.001 a 400'000.000",
+                        "offeror": {
+                            "name": "Bulevar Inmobiliario",
+                            "type": "RealEstate"
+                        },
+                        "features": [
+                            "area:86",
+                            "areaConstruida:86",
+                            "ascensor:S",
+                            "bancoHipoteca:Otros",
+                            "cercaCentroComercial:S",
+                            "cercaColegioUniversidad:S",
+                            "cercaParque:S",
+                            "cercaSupermercado:S",
+                            "cercaTransportePublico:S",
+                            "conCircuitoCerradoTV:S",
+                            "conCitofono:S",
+                            "conCortinas:Pesadas",
+                            "conGarajeCubierto:S",
+                            "conHall:S",
+                            "conSalonComunal:S",
+                            "conVistaPanoramica:S",
+                            "conZonaLavanderia:S",
+                            "contactoWhatsApp:S",
+                            "instalacionGas:Natural",
+                            "negociarPrecio:S",
+                            "nroApto:300",
+                            "nroAscensores:1",
+                            "nroBanos:2",
+                            "nroClosets:2",
+                            "nroCuartos:2",
+                            "nroGarajes:1",
+                            "nroPiso:3",
+                            "sobreViaSecundaria:S",
+                            "terrazaBalcon:Ninguno",
+                            "tiempoConstruido:Más de 20 años",
+                            "tipoCalentador:Gas",
+                            "tipoCocinaLista:Lineal",
+                            "tipoComedor:Sala Comedor",
+                            "tipoDeposito:1",
+                            "tipoEstufa:Gas",
+                            "tipoGaraje:Servidumbre",
+                            "tipoPiso:Laminado",
+                            "tipoVigilancia:24hrs",
+                            "vista:Exterior"
+                        ],
+                        "aproximatelocation": "N",
+                        "adminPrice": 585000,
+                        "zone": {
+                            "code": "1",
+                            "name": "Norte",
+                            "id": "1",
+                            "label": "Norte"
+                        },
+                        "price": 400000000,
+                        "checked": "Inmueble No Verificado",
+                        "id": "3553-M2665423",
+                        "sector": {
+                            "name": "Country"
+                        },
+                        "area": 86,
+                        "forSale": "Y",
+                        "extraFeatures": [
+                            "ascensor",
+                            "cercaCentroComercial",
+                            "cercaColegioUniversidad",
+                            "cercaParque",
+                            "cercaSupermercado",
+                            "cercaTransportePublico",
+                            "conCircuitoCerradoTV",
+                            "conCitofono",
+                            "conGarajeCubierto",
+                            "conHall",
+                            "conSalonComunal",
+                            "conVistaPanoramica",
+                            "conZonaLavanderia",
+                            "contactoWhatsApp",
+                            "negociarPrecio",
+                            "sobreViaSecundaria"
+                        ],
+                        "categoryType": null,
+                        "forRent": "N",
+                        "neighborhood": {
+                            "commonName": "CEDRITOS",
+                            "code": "0001-1218",
+                            "name": "LOS CEDRITOS",
+                            "id": "0001-1218",
+                            "label": "LOS CEDRITOS"
+                        },
+                        "region": {
+                            "code": "14",
+                            "name": "Cundinamarca",
+                            "id": "14",
+                            "label": "Cundinamarca"
+                        },
+                        "lotType": null,
+                        "status": "Usado",
+                        "amenities": {
+                            "disabilityOk": "N",
+                            "aloneOk": "N",
+                            "childrenOk": "N",
+                            "gymOk": "N",
+                            "petsOk": "N",
+                            "outdoorActivitiesOk": "N",
+                            "bikeUserOk": "N"
+                        },
+                        "city": {
+                            "code": "bogota",
+                            "name": "Bogotá D.C.",
+                            "id": "1",
+                            "label": "Bogotá D.C."
+                        },
+                        "checkInDate": "2020-08-08T20:41:35.000Z",
+                        "propertyType": {
+                            "code": "1",
+                            "name": "Apartamento",
+                            "id": "1",
+                            "label": "Apartamento"
+                        },
+                        "@version": "1",
+                        "rentPrice": 0,
+                        "comments": "CEDRITOS VENTA   Hermoso apto  piso 3  exterior,  con ascensor, 86 M2.   sala comedor con chimenea , 2 alcobas, 2 baños, cocina integral y zona de ropas  independiente.    1 garaje en servidumbre y mini depósito dentro del apto.  Administración $585.000.  Edificio  de 30 años de construido,  6 pisos y 22 aptos en total.  con  recepción,  ascensor ,  plazoleta al aire libre para bbq,  bicicletero, 2 sedes para eventos, otro para gimnasio, no está dotado.  y bahía para dos  carros visitantes.   estrato 4.  EMBARGO JUDICIAL.  Cerca a la AV Novena, a centros comerciales y  supermercados .  PERMUTA X APTO MENOR VALOR EN EL SECTOR Y MENOS METRAJE ESTRATO 3 O 4..  Mostrar cualquier, previa cita.\t\t\t\t\t\n",
+                        "salePrice": 400000000,
+                        "isPublished": "Y",
+                        "metroId": "3553-M2665423",
+                        "url": "/inmueble/venta-apartamento-bogota-los-cedritos-2-habitaciones-2-banos-1-garajes/3553-M2665423",
+                        "stratum": 4,
+                        "multimedia": {
+                            "images": {
+                                "count": 14,
+                                "files": [
+                                    "3553-M2665423_1",
+                                    "3553-M2665423_2",
+                                    "3553-M2665423_3",
+                                    "3553-M2665423_4",
+                                    "3553-M2665423_5",
+                                    "3553-M2665423_6",
+                                    "3553-M2665423_7",
+                                    "3553-M2665423_8",
+                                    "3553-M2665423_9",
+                                    "3553-M2665423_10",
+                                    "3553-M2665423_11",
+                                    "3553-M2665423_12",
+                                    "3553-M2665423_13",
+                                    "3553-M2665423_14"
+                                ],
+                                "mainFile": "3553-M2665423_1"
+                            }
+                        },
+                        "@timestamp": "2025-11-28T13:55:14.858219919Z",
+                        "bathroomsNumber": 2,
+                        "rentPriceRangeLabel": "Hasta 400.000",
+                        "storageType": null,
+                        "location": {
+                            "lon": -74.04505920410156,
+                            "lat": 4.730031490325928
+                        },
+                        "publishedDate": "2023-04-28T23:40:52.000Z",
+                        "builtArea": 86,
+                        "businessType": {
+                            "code": "1",
+                            "name": "venta",
+                            "id": "1",
+                            "label": "venta"
+                        },
+                        "notificationCode": null,
+                        "offerorType": "Otro",
+                        "parkingNumber": 1
+                    },
+                    {
+                        "country": {
+                            "code": "1",
+                            "name": "Colombia",
+                            "id": "1",
+                            "label": "Colombia"
+                        },
+                        "agent": null,
+                        "roomsNumber": 3,
+                        "areaRangeLabel": "61 a 100",
+                        "updatedDate": "2025-11-28T16:46:13.000Z",
+                        "builtTime": {
+                            "name": "Más de 20 años",
+                            "id": null,
+                            "label": "Más de 20 años"
+                        },
+                        "salePriceRangeLabel": "300'000.001 a 400'000.000",
+                        "offeror": {
+                            "name": "RECORRIDOS",
+                            "type": "RealEstate"
+                        },
+                        "features": [
+                            "area:75",
+                            "areaConstruida:75",
+                            "cercaCentroComercial:S",
+                            "cercaColegioUniversidad:S",
+                            "cercaSupermercado:S",
+                            "cercaTransportePublico:S",
+                            "conCitofono:S",
+                            "conCocinaIntegral_o:S",
+                            "nroBanos:2",
+                            "nroCuartos:3",
+                            "nroGarajes:1",
+                            "sobreViaSecundaria:S",
+                            "tiempoConstruido:Más de 20 años",
+                            "tipoCocinaLista:Lineal",
+                            "zonaResidencial:S"
+                        ],
+                        "aproximatelocation": null,
+                        "adminPrice": 380000,
+                        "zone": {
+                            "name": null,
+                            "id": null
+                        },
+                        "price": 400000000,
+                        "checked": "Inmueble No Verificado",
+                        "id": "603-M6130102",
+                        "sector": {
+                            "name": null
+                        },
+                        "area": 75,
+                        "forSale": "N",
+                        "extraFeatures": [
+                            "cercaCentroComercial",
+                            "cercaColegioUniversidad",
+                            "cercaSupermercado",
+                            "cercaTransportePublico",
+                            "conCitofono",
+                            "conCocinaIntegral_o",
+                            "sobreViaSecundaria",
+                            "zonaResidencial"
+                        ],
+                        "categoryType": null,
+                        "forRent": "N",
+                        "neighborhood": {
+                            "commonName": "Cedritos",
+                            "code": "0001-1360",
+                            "name": "CEDRITOS",
+                            "id": "0001-1360",
+                            "label": "CEDRITOS"
+                        },
+                        "region": {
+                            "code": "14",
+                            "name": "Cundinamarca",
+                            "id": "14",
+                            "label": "Cundinamarca"
+                        },
+                        "lotType": null,
+                        "status": "Usado",
+                        "amenities": {
+                            "disabilityOk": "N",
+                            "aloneOk": "N",
+                            "childrenOk": "N",
+                            "gymOk": "N",
+                            "petsOk": "N",
+                            "outdoorActivitiesOk": "N",
+                            "bikeUserOk": "N"
+                        },
+                        "city": {
+                            "code": "bogota",
+                            "name": "Bogotá D.C.",
+                            "id": "1",
+                            "label": "Bogotá D.C."
+                        },
+                        "checkInDate": "2025-10-31T12:59:28.000Z",
+                        "propertyType": {
+                            "code": "1",
+                            "name": "Apartamento",
+                            "id": "1",
+                            "label": "Apartamento"
+                        },
+                        "@version": "1",
+                        "rentPrice": null,
+                        "comments": "Apartamento remodelado de 75.36 mts2 y parqueadero de 16.00 mts2. con depósito. Segundo piso, tres alcobas, dos baños, sala comedor, cocina, cuarto y baño de servicio, deposito, amplio, iluminado. Ubicado en buen sector, faciles vias de acceso.",
+                        "salePrice": 400000000,
+                        "isPublished": "Y",
+                        "metroId": "603-M6130102",
+                        "url": "/inmueble/venta-apartamento-bogota-cedritos-3-habitaciones-2-banos-1-garajes/603-M6130102",
+                        "stratum": 4,
+                        "multimedia": {
+                            "images": {
+                                "count": 20,
+                                "files": [
+                                    "603-M6130102_21",
+                                    "603-M6130102_22",
+                                    "603-M6130102_23",
+                                    "603-M6130102_24",
+                                    "603-M6130102_25",
+                                    "603-M6130102_26",
+                                    "603-M6130102_27",
+                                    "603-M6130102_28",
+                                    "603-M6130102_29",
+                                    "603-M6130102_30",
+                                    "603-M6130102_31",
+                                    "603-M6130102_32",
+                                    "603-M6130102_33",
+                                    "603-M6130102_34",
+                                    "603-M6130102_35",
+                                    "603-M6130102_36",
+                                    "603-M6130102_37",
+                                    "603-M6130102_38",
+                                    "603-M6130102_39",
+                                    "603-M6130102_40"
+                                ],
+                                "mainFile": "603-M6130102_21"
+                            }
+                        },
+                        "@timestamp": "2025-11-28T16:50:13.448805351Z",
+                        "bathroomsNumber": 2,
+                        "rentPriceRangeLabel": "N/A",
+                        "storageType": null,
+                        "location": {
+                            "lon": -74.0489,
+                            "lat": 4.72863
+                        },
+                        "publishedDate": "2025-10-31T12:59:28.000Z",
+                        "builtArea": 75,
+                        "businessType": {
+                            "code": "1",
+                            "name": "venta",
+                            "id": "1",
+                            "label": "venta"
+                        },
+                        "notificationCode": null,
+                        "offerorType": "Otro",
+                        "parkingNumber": 1
+                    },
+                    {
+                        "country": {
+                            "code": "1",
+                            "name": "Colombia",
+                            "id": "1",
+                            "label": "Colombia"
+                        },
+                        "agent": null,
+                        "roomsNumber": 3,
+                        "areaRangeLabel": "61 a 100",
+                        "updatedDate": "2025-11-28T19:19:56.000Z",
+                        "builtTime": {
+                            "name": "Más de 20 años",
+                            "id": null,
+                            "label": "Más de 20 años"
+                        },
+                        "salePriceRangeLabel": "300'000.001 a 400'000.000",
+                        "offeror": {
+                            "name": "Inmobiliaria Ruben Quiroga",
+                            "type": "RealEstate"
+                        },
+                        "features": [
+                            "area:67",
+                            "areaConstruida:67",
+                            "cercaColegioUniversidad:S",
+                            "cercaParque:S",
+                            "cercaTransportePublico:S",
+                            "conCocinaIntegral_o:S",
+                            "nroBanos:2",
+                            "nroCuartos:3",
+                            "nroGarajes:1",
+                            "sobreViaSecundaria:S",
+                            "tiempoConstruido:Más de 20 años",
+                            "tipoCocinaLista:Lineal",
+                            "zonaResidencial:S"
+                        ],
+                        "aproximatelocation": null,
+                        "adminPrice": null,
+                        "zone": {
+                            "name": null,
+                            "id": null
+                        },
+                        "price": 370000000,
+                        "checked": "Inmueble No Verificado",
+                        "id": "3222-M6048710",
+                        "sector": {
+                            "name": null
+                        },
+                        "area": 67,
+                        "forSale": "N",
+                        "extraFeatures": [
+                            "cercaColegioUniversidad",
+                            "cercaParque",
+                            "cercaTransportePublico",
+                            "conCocinaIntegral_o",
+                            "sobreViaSecundaria",
+                            "zonaResidencial"
+                        ],
+                        "categoryType": null,
+                        "forRent": "N",
+                        "neighborhood": {
+                            "commonName": "Cedritos",
+                            "code": "0001-1360",
+                            "name": "CEDRITOS",
+                            "id": "0001-1360",
+                            "label": "CEDRITOS"
+                        },
+                        "region": {
+                            "code": "14",
+                            "name": "Cundinamarca",
+                            "id": "14",
+                            "label": "Cundinamarca"
+                        },
+                        "lotType": null,
+                        "status": "Usado",
+                        "amenities": {
+                            "disabilityOk": "N",
+                            "aloneOk": "N",
+                            "childrenOk": "N",
+                            "gymOk": "N",
+                            "petsOk": "N",
+                            "outdoorActivitiesOk": "N",
+                            "bikeUserOk": "N"
+                        },
+                        "city": {
+                            "code": "bogota",
+                            "name": "Bogotá D.C.",
+                            "id": "1",
+                            "label": "Bogotá D.C."
+                        },
+                        "checkInDate": "2025-09-14T07:55:10.000Z",
+                        "propertyType": {
+                            "code": "1",
+                            "name": "Apartamento",
+                            "id": "1",
+                            "label": "Apartamento"
+                        },
+                        "@version": "1",
+                        "rentPrice": null,
+                        "comments": "Apartamento en Venta – Cedritos, Edificio Asturias Torre 1, Apto 402, vive en una de las zonas más apetecidas del norte de Bogotá. Este acogedor apartamento ofrece comodidad, buena distribución y excelente ubicación. Características Garaje privado No. 1, Sala – comedor amplia y luminosa, tres alcobas dos con clóset, dos baños con división en vidrio, Cocina funcional con zona de ropas. Pisos en laminado y cerámica. Servicios de agua, luz y gas. Ubicación privilegiada A pocos pasos de supermercados D1 y Olímpica, con fácil acceso a transporte público, comercios, colegios y todo lo que necesitas para tu día a día. Ideal para familias que buscan confort y cercanía a todo.",
+                        "salePrice": 370000000,
+                        "isPublished": "Y",
+                        "metroId": "3222-M6048710",
+                        "url": "/inmueble/venta-apartamento-bogota-cedritos-3-habitaciones-2-banos-1-garajes/3222-M6048710",
+                        "stratum": 4,
+                        "multimedia": {
+                            "images": {
+                                "count": 13,
+                                "files": [
+                                    "3222-M6048710_40",
+                                    "3222-M6048710_41",
+                                    "3222-M6048710_42",
+                                    "3222-M6048710_43",
+                                    "3222-M6048710_44",
+                                    "3222-M6048710_45",
+                                    "3222-M6048710_46",
+                                    "3222-M6048710_47",
+                                    "3222-M6048710_48",
+                                    "3222-M6048710_49",
+                                    "3222-M6048710_50",
+                                    "3222-M6048710_51",
+                                    "3222-M6048710_52"
+                                ],
+                                "mainFile": "3222-M6048710_40"
+                            }
+                        },
+                        "@timestamp": "2025-11-28T19:20:18.180997366Z",
+                        "bathroomsNumber": 2,
+                        "rentPriceRangeLabel": "N/A",
+                        "storageType": null,
+                        "location": {
+                            "lon": -74.04183,
+                            "lat": 4.7293
+                        },
+                        "publishedDate": "2025-11-26T16:47:21.000Z",
+                        "builtArea": 67,
+                        "businessType": {
+                            "code": "1",
+                            "name": "venta",
+                            "id": "1",
+                            "label": "venta"
+                        },
+                        "notificationCode": null,
+                        "offerorType": "Otro",
+                        "parkingNumber": 1
+                    },
+                    {
+                        "country": {
+                            "code": "1",
+                            "name": "Colombia",
+                            "id": "1",
+                            "label": "Colombia"
+                        },
+                        "agent": null,
+                        "roomsNumber": 3,
+                        "areaRangeLabel": "61 a 100",
+                        "updatedDate": "2025-11-28T21:26:24.000Z",
+                        "builtTime": {
+                            "name": "Más de 20 años",
+                            "id": null,
+                            "label": "Más de 20 años"
+                        },
+                        "salePriceRangeLabel": "300'000.001 a 400'000.000",
+                        "offeror": {
+                            "name": "CORPORACION INMOBILIARIA CORAINCO",
+                            "type": "RealEstate"
+                        },
+                        "features": [
+                            "area:67",
+                            "areaConstruida:67",
+                            "bancoHipoteca:No Tiene",
+                            "cercaAGimnasio:S",
+                            "cercaAHospitales:S",
+                            "cercaAJardinesYColegios:S",
+                            "cercaARestaurantes:S",
+                            "cercaCentroComercial:S",
+                            "cercaColegioUniversidad:S",
+                            "cercaParque:S",
+                            "cercaSupermercado:S",
+                            "cercaTransportePublico:S",
+                            "conCitofono:S",
+                            "conCortinas:Ninguna",
+                            "conGarajeCubierto:S",
+                            "conHall:S",
+                            "conSalonComunal:S",
+                            "conVistaPanoramica:S",
+                            "conZonaLavanderia:S",
+                            "contactoWhatsApp:S",
+                            "enConjuntoCerrado:S",
+                            "instalacionGas:Natural",
+                            "negociarPrecio:S",
+                            "nroApto:402",
+                            "nroAscensores:0",
+                            "nroBanos:2",
+                            "nroClosets:3",
+                            "nroCuartos:3",
+                            "nroGarajes:1",
+                            "nroPiso:4",
+                            "sobreViaPrincipal:S",
+                            "terrazaBalcon:Ninguno",
+                            "tiempoConstruido:Más de 20 años",
+                            "tipoCalentador:Gas",
+                            "tipoCocinaLista:Otra",
+                            "tipoComedor:Sala Comedor",
+                            "tipoDeposito:0",
+                            "tipoEstufa:Gas",
+                            "tipoGaraje:Propio",
+                            "tipoVigilancia:24hrs",
+                            "vista:Exterior"
+                        ],
+                        "aproximatelocation": "N",
+                        "adminPrice": 360000,
+                        "zone": {
+                            "code": "1",
+                            "name": "Norte",
+                            "id": "1",
+                            "label": "Norte"
+                        },
+                        "price": 350000000,
+                        "checked": "Inmueble No Verificado",
+                        "id": "512-M5524504",
+                        "sector": {
+                            "name": "Cedritos"
+                        },
+                        "area": 67,
+                        "forSale": "Y",
+                        "extraFeatures": [
+                            "cercaAGimnasio",
+                            "cercaAHospitales",
+                            "cercaAJardinesYColegios",
+                            "cercaARestaurantes",
+                            "cercaCentroComercial",
+                            "cercaColegioUniversidad",
+                            "cercaParque",
+                            "cercaSupermercado",
+                            "cercaTransportePublico",
+                            "conCitofono",
+                            "conGarajeCubierto",
+                            "conHall",
+                            "conSalonComunal",
+                            "conVistaPanoramica",
+                            "conZonaLavanderia",
+                            "contactoWhatsApp",
+                            "enConjuntoCerrado",
+                            "negociarPrecio",
+                            "sobreViaPrincipal"
+                        ],
+                        "categoryType": null,
+                        "forRent": "N",
+                        "neighborhood": {
+                            "commonName": "CEDRITOS",
+                            "code": "0001-1218",
+                            "name": "LOS CEDRITOS",
+                            "id": "0001-1218",
+                            "label": "LOS CEDRITOS"
+                        },
+                        "region": {
+                            "code": "14",
+                            "name": "Cundinamarca",
+                            "id": "14",
+                            "label": "Cundinamarca"
+                        },
+                        "lotType": null,
+                        "status": "Usado",
+                        "amenities": {
+                            "disabilityOk": "N",
+                            "aloneOk": "N",
+                            "childrenOk": "N",
+                            "gymOk": "N",
+                            "petsOk": "N",
+                            "outdoorActivitiesOk": "N",
+                            "bikeUserOk": "N"
+                        },
+                        "city": {
+                            "code": "bogota",
+                            "name": "Bogotá D.C.",
+                            "id": "1",
+                            "label": "Bogotá D.C."
+                        },
+                        "checkInDate": "2025-01-13T20:39:49.000Z",
+                        "propertyType": {
+                            "code": "1",
+                            "name": "Apartamento",
+                            "id": "1",
+                            "label": "Apartamento"
+                        },
+                        "@version": "1",
+                        "rentPrice": 0,
+                        "comments": "¡Apartamento en venta en Cedritos! ¿¿\nSi estás buscando comodidad, ubicación estratégica y un hogar listo para habitar, ¡este es el lugar perfecto para ti! Te presentamos un encantador apartamento remodelado de 66 m², ubicado en el 4º piso de un edificio con acceso por escaleras.\nCaracterísticas principales:\n¿ Área: 66 m².\n¿ Habitaciones: 3 cómodas y luminosas.\n¿ Baños: 2 modernos y funcionales.\n¿ Cocina integral: Espaciosa y equipada, ideal para tus momentos culinarios.\n¿ Parqueadero cubierto: Protege tu vehículo en un espacio seguro.\n¿ Seguridad: Vigilancia privada las 24 horas para tu tranquilidad.\nUbicación privilegiada:\nEste apartamento se encuentra en el corazón de Cedritos, una de las zonas más demandadas por su excelente conectividad y cercanía a todo lo que necesitas.\n¿ Excelentes vías de acceso para facilitar tu movilidad.\n¿ Cerca de centros comerciales y supermercados.\n¿ Disfruta de parques, restaurantes y servicios esenciales a pocos minutos de tu hogar.\n",
+                        "salePrice": 350000000,
+                        "isPublished": "Y",
+                        "metroId": "512-M5524504",
+                        "url": "/inmueble/venta-apartamento-bogota-los-cedritos-3-habitaciones-2-banos-1-garajes/512-M5524504",
+                        "stratum": 4,
+                        "multimedia": {
+                            "images": {
+                                "count": 8,
+                                "files": [
+                                    "512-M5524504_3",
+                                    "512-M5524504_8",
+                                    "512-M5524504_1",
+                                    "512-M5524504_2",
+                                    "512-M5524504_5",
+                                    "512-M5524504_7",
+                                    "512-M5524504_6",
+                                    "512-M5524504_4"
+                                ],
+                                "mainFile": "512-M5524504_3"
+                            }
+                        },
+                        "@timestamp": "2025-11-28T21:30:22.209499659Z",
+                        "bathroomsNumber": 2,
+                        "rentPriceRangeLabel": "Hasta 400.000",
+                        "storageType": null,
+                        "location": {
+                            "lon": -74.04183197021484,
+                            "lat": 4.729302883148193
+                        },
+                        "publishedDate": "2025-10-31T03:10:11.000Z",
+                        "builtArea": 67,
+                        "businessType": {
+                            "code": "1",
+                            "name": "venta",
+                            "id": "1",
+                            "label": "venta"
+                        },
+                        "notificationCode": null,
+                        "offerorType": "Inmobiliaria",
+                        "parkingNumber": 1
+                    },
+                    {
+                        "country": {
+                            "code": "1",
+                            "name": "Colombia",
+                            "id": "1",
+                            "label": "Colombia"
+                        },
+                        "agent": "EDUARDO RUBIO",
+                        "roomsNumber": 3,
+                        "areaRangeLabel": "61 a 100",
+                        "updatedDate": "2025-11-28T21:25:09.000Z",
+                        "builtTime": {
+                            "name": "Más de 20 años",
+                            "id": null,
+                            "label": "Más de 20 años"
+                        },
+                        "salePriceRangeLabel": "300'000.001 a 400'000.000",
+                        "offeror": {
+                            "name": "INMOBILIARIA BOGOTA",
+                            "type": "RealEstate"
+                        },
+                        "features": [
+                            "area:70.79",
+                            "areaConstruida:70.79",
+                            "conCitofono:S",
+                            "conHall:S",
+                            "conParqueaderoVisitantes_o:S",
+                            "conSalonComunal:S",
+                            "conVigilancia-cb:S",
+                            "instalacionGas:Natural",
+                            "nroBanos:2",
+                            "nroCuartos:3",
+                            "nroGarajes:1",
+                            "tiempoConstruido:Más de 20 años",
+                            "tipoCalentador:Gas",
+                            "tipoComedor:Sala Comedor",
+                            "tipoEstufa:Gas",
+                            "tipoPiso:Otro",
+                            "tipoPisoAlcobas:Otro",
+                            "tipoPisoComedor:Otro",
+                            "tipoPisoEstudio:Otro",
+                            "tipoPisoSala:Otro",
+                            "tipoVigilancia:24hrs",
+                            "zonaResidencial:S"
+                        ],
+                        "aproximatelocation": null,
+                        "adminPrice": 400000,
+                        "zone": {
+                            "name": null,
+                            "id": null
+                        },
+                        "price": 370000000,
+                        "checked": "Inmueble No Verificado",
+                        "id": "164-M5954790",
+                        "sector": {
+                            "name": null
+                        },
+                        "area": 70.79,
+                        "forSale": "N",
+                        "extraFeatures": [
+                            "conCitofono",
+                            "conHall",
+                            "conParqueaderoVisitantes_o",
+                            "conSalonComunal",
+                            "conVigilancia7x24",
+                            "zonaResidencial"
+                        ],
+                        "categoryType": null,
+                        "forRent": "N",
+                        "neighborhood": {
+                            "commonName": "Cedritos",
+                            "code": "0001-1360",
+                            "name": "CEDRITOS",
+                            "id": "0001-1360",
+                            "label": "CEDRITOS"
+                        },
+                        "region": {
+                            "code": "14",
+                            "name": "Cundinamarca",
+                            "id": "14",
+                            "label": "Cundinamarca"
+                        },
+                        "lotType": null,
+                        "status": "Usado",
+                        "amenities": {
+                            "disabilityOk": "N",
+                            "aloneOk": "N",
+                            "childrenOk": "N",
+                            "gymOk": "N",
+                            "petsOk": "N",
+                            "outdoorActivitiesOk": "N",
+                            "bikeUserOk": "N"
+                        },
+                        "city": {
+                            "code": "bogota",
+                            "name": "Bogotá D.C.",
+                            "id": "1",
+                            "label": "Bogotá D.C."
+                        },
+                        "checkInDate": "2025-07-23T17:39:27.000Z",
+                        "propertyType": {
+                            "code": "1",
+                            "name": "Apartamento",
+                            "id": "1",
+                            "label": "Apartamento"
+                        },
+                        "@version": "1",
+                        "rentPrice": null,
+                        "comments": "Se vende apartamento sector Cedritos, piso 3 acceso por escaleras, 71 metros, 3 habitaciones, 2 baños, sala comedor, cocina integral, zona de lavado y suficiente espacio de almacenamiento, parqueadero propio cubierto, excelente iluminacion, esquinero, super bien ubicado, paradero de Sitp en frente del conjunto, zona muy tranquila. Seguridad 247, excelentes vias de acceso, parques, centros comerciales. Mas informacion con Eduardo Rubio cel. 316 743 14 51 email. eduardo.rubioinmobiliariabogota.com, El equipo de Inmobiliaria Bogota esta comprometido a brindar una experiencia de vida excepcional para nuestros clientes desde el momento en que se unen a nuestra comunidad.",
+                        "salePrice": 370000000,
+                        "isPublished": "Y",
+                        "metroId": "164-M5954790",
+                        "url": "/inmueble/venta-apartamento-bogota-cedritos-3-habitaciones-2-banos-1-garajes/164-M5954790",
+                        "stratum": 4,
+                        "multimedia": {
+                            "images": {
+                                "count": 20,
+                                "files": [
+                                    "164-M5954790_41",
+                                    "164-M5954790_42",
+                                    "164-M5954790_43",
+                                    "164-M5954790_44",
+                                    "164-M5954790_45",
+                                    "164-M5954790_46",
+                                    "164-M5954790_47",
+                                    "164-M5954790_48",
+                                    "164-M5954790_49",
+                                    "164-M5954790_50",
+                                    "164-M5954790_51",
+                                    "164-M5954790_52",
+                                    "164-M5954790_53",
+                                    "164-M5954790_54",
+                                    "164-M5954790_55",
+                                    "164-M5954790_56",
+                                    "164-M5954790_57",
+                                    "164-M5954790_58",
+                                    "164-M5954790_59",
+                                    "164-M5954790_60"
+                                ],
+                                "mainFile": "164-M5954790_41"
+                            }
+                        },
+                        "@timestamp": "2025-11-28T21:30:30.460685494Z",
+                        "bathroomsNumber": 2,
+                        "rentPriceRangeLabel": "N/A",
+                        "storageType": null,
+                        "location": {
+                            "lon": -74.04156,
+                            "lat": 4.72867
+                        },
+                        "publishedDate": "2025-11-26T10:31:08.000Z",
+                        "builtArea": 70.79,
+                        "businessType": {
+                            "code": "1",
+                            "name": "venta",
+                            "id": "1",
+                            "label": "venta"
+                        },
+                        "notificationCode": null,
+                        "offerorType": "Inmobiliaria",
+                        "parkingNumber": 1
+                    },
+                    {
+                        "country": {
+                            "code": "1",
+                            "name": "Colombia",
+                            "id": "1",
+                            "label": "Colombia"
+                        },
+                        "agent": null,
+                        "roomsNumber": 3,
+                        "areaRangeLabel": "Hasta 60",
+                        "updatedDate": "2025-11-12T13:16:26.000Z",
+                        "builtTime": {
+                            "name": "Más de 20 años",
+                            "id": null,
+                            "label": "Más de 20 años"
+                        },
+                        "salePriceRangeLabel": "300'000.001 a 400'000.000",
+                        "offeror": {
+                            "name": "BOGOTA REAL ESTATE SAS",
+                            "type": "RealEstate"
+                        },
+                        "features": [
+                            "area:58.5",
+                            "areaConstruida:58.5",
+                            "banosAuxiliar:S",
+                            "cercaColegioUniversidad:S",
+                            "cercaTransportePublico:S",
+                            "conBanoServicio_o:S",
+                            "conCocinaIntegral_o:S",
+                            "conEstudioBiblioteca:S",
+                            "conVigilancia-cb:S",
+                            "monoambiente:S",
+                            "nroBanos:2",
+                            "nroCuartos:3",
+                            "nroGarajes:1",
+                            "nroPiso:3",
+                            "porteria:S",
+                            "recepcionLobby:S",
+                            "tiempoConstruido:Más de 20 años"
+                        ],
+                        "aproximatelocation": null,
+                        "adminPrice": 404000,
+                        "zone": {
+                            "name": null,
+                            "id": null
+                        },
+                        "price": 350000000,
+                        "checked": "Inmueble No Verificado",
+                        "id": "17565-M6094747",
+                        "sector": {
+                            "name": null
+                        },
+                        "area": 58.5,
+                        "forSale": "N",
+                        "extraFeatures": [
+                            "banosAuxiliar",
+                            "cercaColegioUniversidad",
+                            "cercaTransportePublico",
+                            "conBanoServicio_o",
+                            "conCocinaIntegral_o",
+                            "conEstudioBiblioteca",
+                            "conVigilancia7x24",
+                            "monoambiente",
+                            "porteria",
+                            "recepcionLobby"
+                        ],
+                        "categoryType": null,
+                        "forRent": "N",
+                        "neighborhood": {
+                            "commonName": "Cedritos",
+                            "code": "0001-1360",
+                            "name": "CEDRITOS",
+                            "id": "0001-1360",
+                            "label": "CEDRITOS"
+                        },
+                        "region": {
+                            "code": "14",
+                            "name": "Cundinamarca",
+                            "id": "14",
+                            "label": "Cundinamarca"
+                        },
+                        "lotType": null,
+                        "status": "Usado",
+                        "amenities": {
+                            "disabilityOk": "N",
+                            "aloneOk": "N",
+                            "childrenOk": "N",
+                            "gymOk": "N",
+                            "petsOk": "N",
+                            "outdoorActivitiesOk": "N",
+                            "bikeUserOk": "N"
+                        },
+                        "city": {
+                            "code": "bogota",
+                            "name": "Bogotá D.C.",
+                            "id": "1",
+                            "label": "Bogotá D.C."
+                        },
+                        "checkInDate": "2025-10-09T10:37:26.000Z",
+                        "propertyType": {
+                            "code": "1",
+                            "name": "Apartamento",
+                            "id": "1",
+                            "label": "Apartamento"
+                        },
+                        "@version": "1",
+                        "rentPrice": null,
+                        "comments": "DC¿ ¡Vive en el norte de Bogotá con comodidad y excelente ubicación!\n\n¿ Calle 147 15-95 – Estrato 4\n¿ Valor $350.000.000 ¡Negociables!\n¿ Administración $404.000\n\n¿ Características del inmueble\n\n\n \n Área 58.5 m²\n \n \n Ubicado en 4° piso sin ascensor\n \n \n 3 habitaciones con buena iluminación natural\n \n \n 2 baños modernos\n \n \n Cocina integral amplia, ideal para disfrutar en familia\n \n \n Sala – comedor con excelente distribución\n \n \n Antigüedad 28 años, bien conservado\n \n \n Sin ascensor \n \n\n\n¿¿ Zona tranquila, con excelente acceso a transporte, parques, colegios y centros comerciales.\nPerfecto para quienes buscan comodidad, ubicación y un precio atractivo.\n\n¿ Contáctanos para agendar tu visita y enamorarte de tu nuevo hogar.\n\n¿ WhatsApp 3249689446\n¿ www.bogotarealestate.com.co\n¿ Síguenos @bogota.real.estate\n",
+                        "salePrice": 350000000,
+                        "isPublished": "Y",
+                        "metroId": "17565-M6094747",
+                        "url": "/inmueble/venta-apartamento-bogota-cedritos-3-habitaciones-2-banos-1-garajes/17565-M6094747",
+                        "stratum": 4,
+                        "multimedia": {
+                            "images": {
+                                "count": 20,
+                                "files": [
+                                    "17565-M6094747_41",
+                                    "17565-M6094747_42",
+                                    "17565-M6094747_43",
+                                    "17565-M6094747_44",
+                                    "17565-M6094747_45",
+                                    "17565-M6094747_46",
+                                    "17565-M6094747_47",
+                                    "17565-M6094747_48",
+                                    "17565-M6094747_49",
+                                    "17565-M6094747_50",
+                                    "17565-M6094747_51",
+                                    "17565-M6094747_52",
+                                    "17565-M6094747_53",
+                                    "17565-M6094747_54",
+                                    "17565-M6094747_55",
+                                    "17565-M6094747_56",
+                                    "17565-M6094747_57",
+                                    "17565-M6094747_58",
+                                    "17565-M6094747_59",
+                                    "17565-M6094747_60"
+                                ],
+                                "mainFile": "17565-M6094747_41"
+                            }
+                        },
+                        "@timestamp": "2025-11-12T13:20:25.095032520Z",
+                        "bathroomsNumber": 2,
+                        "rentPriceRangeLabel": "N/A",
+                        "storageType": null,
+                        "location": {
+                            "lon": -74.0433692,
+                            "lat": 4.7293225
+                        },
+                        "publishedDate": "2025-11-07T03:10:10.000Z",
+                        "builtArea": 58.5,
+                        "businessType": {
+                            "code": "1",
+                            "name": "venta",
+                            "id": "1",
+                            "label": "venta"
+                        },
+                        "notificationCode": null,
+                        "offerorType": "Inmobiliaria",
+                        "parkingNumber": 1
+                    },
+                    {
+                        "country": {
+                            "code": "1",
+                            "name": "Colombia",
+                            "id": "1",
+                            "label": "Colombia"
+                        },
+                        "agent": "FABIOLA PEDRAZA CORREDOR",
+                        "roomsNumber": 2,
+                        "areaRangeLabel": "61 a 100",
+                        "updatedDate": "2025-11-26T22:05:48.000Z",
+                        "builtTime": {
+                            "name": "Más de 20 años",
+                            "id": null,
+                            "label": "Más de 20 años"
+                        },
+                        "salePriceRangeLabel": "300'000.001 a 400'000.000",
+                        "offeror": {
+                            "name": "A 12 INVERSIONES INMOBILIARIAS",
+                            "type": "RealEstate"
+                        },
+                        "features": [
+                            "accesoConTarjetasODispositivos:S",
+                            "area:84.84",
+                            "areaConstruida:84.84",
+                            "banosAuxiliar:S",
+                            "cercaAHospitales:S",
+                            "cercaAJardinesYColegios:S",
+                            "cercaARestaurantes:S",
+                            "cercaATiendasDeBarrio:S",
+                            "cercaColegioUniversidad:S",
+                            "cercaParque:S",
+                            "cercaTransportePublico:S",
+                            "conAlarma:S",
+                            "conBanoServicio_o:S",
+                            "conCalefaccion:S",
+                            "conCircuitoCerradoTV:S",
+                            "conCitofono:S",
+                            "conCocinaIntegral_o:S",
+                            "conEstudioBiblioteca:S",
+                            "conTerraza_o:S",
+                            "conZonaLavanderia:S",
+                            "despensa:S",
+                            "enConjuntoCerrado:S",
+                            "extractor:S",
+                            "horno:S",
+                            "monoambiente:S",
+                            "nroBanos:2",
+                            "nroCuartos:2",
+                            "nroGarajes:1",
+                            "nroPiso:2",
+                            "sobreViaPrincipal:S",
+                            "terrazaRooftop:S",
+                            "tiempoConstruido:Más de 20 años",
+                            "tipoDeposito:1",
+                            "walkingCloset:S",
+                            "zonaComercial:S",
+                            "zonaResidencial:S"
+                        ],
+                        "aproximatelocation": null,
+                        "adminPrice": 289000,
+                        "zone": {
+                            "name": null,
+                            "id": null
+                        },
+                        "price": 360000000,
+                        "checked": "Inmueble No Verificado",
+                        "id": "3858-M6122656",
+                        "sector": {
+                            "name": null
+                        },
+                        "area": 84.84,
+                        "forSale": "N",
+                        "extraFeatures": [
+                            "accesoConTarjetasODispositivos",
+                            "banosAuxiliar",
+                            "cercaAHospitales",
+                            "cercaAJardinesYColegios",
+                            "cercaARestaurantes",
+                            "cercaATiendasDeBarrio",
+                            "cercaColegioUniversidad",
+                            "cercaParque",
+                            "cercaTransportePublico",
+                            "conAlarma",
+                            "conBanoServicio_o",
+                            "conCalefaccion",
+                            "conCircuitoCerradoTV",
+                            "conCitofono",
+                            "conCocinaIntegral_o",
+                            "conEstudioBiblioteca",
+                            "conTerraza_o",
+                            "conZonaLavanderia",
+                            "despensa",
+                            "enConjuntoCerrado",
+                            "extractor",
+                            "horno",
+                            "monoambiente",
+                            "sobreViaPrincipal",
+                            "terrazaRooftop",
+                            "walkingCloset",
+                            "zonaComercial",
+                            "zonaResidencial"
+                        ],
+                        "categoryType": null,
+                        "forRent": "N",
+                        "neighborhood": {
+                            "commonName": "Cedritos",
+                            "code": "0001-1360",
+                            "name": "CEDRITOS",
+                            "id": "0001-1360",
+                            "label": "CEDRITOS"
+                        },
+                        "region": {
+                            "code": "14",
+                            "name": "Cundinamarca",
+                            "id": "14",
+                            "label": "Cundinamarca"
+                        },
+                        "lotType": null,
+                        "status": "Usado",
+                        "amenities": {
+                            "disabilityOk": "N",
+                            "aloneOk": "N",
+                            "childrenOk": "N",
+                            "gymOk": "N",
+                            "petsOk": "N",
+                            "outdoorActivitiesOk": "N",
+                            "bikeUserOk": "N"
+                        },
+                        "city": {
+                            "code": "bogota",
+                            "name": "Bogotá D.C.",
+                            "id": "1",
+                            "label": "Bogotá D.C."
+                        },
+                        "checkInDate": "2025-10-28T09:32:24.000Z",
+                        "propertyType": {
+                            "code": "1",
+                            "name": "Apartamento",
+                            "id": "1",
+                            "label": "Apartamento"
+                        },
+                        "@version": "1",
+                        "rentPrice": null,
+                        "comments": "Te presentamos este recursivo apartamento ubicado en Cedritos, uno de los mejores sectores más apetecidos de Bogotá, con una ubicación estratégica que te permite tener fácil acceso a todo lo que necesitas. La propiedad cuenta con una amplia área construida de 84.84 m² incluidas  dos terrazas cubiertas de 5 M2 cada una, con acceso directo a las dos habitaciones que te brindaran comodidad y confort en cada uno de sus espacios.\n\nCon 2 alcobas y 2 baños, este apartamento se convierte en una excelente opción para una familia pequeña o una pareja que busca su primer hogar. Además, cuenta con un garaje privado, lo que te garantiza un lugar seguro para tu vehículo.\n\nUna de las características que más resalta de este inmueble es que es ideal cuando se comparte la vida con mascotas; porque cuenta con dos terrazas cubiertas. Además, cuenta con todas las comodidades que necesitas para vivir cómodamente como armarios empotrados, baño auxiliar, baño en la habitación principal, es",
+                        "salePrice": 360000000,
+                        "isPublished": "Y",
+                        "metroId": "3858-M6122656",
+                        "url": "/inmueble/venta-apartamento-bogota-cedritos-2-habitaciones-2-banos-1-garajes/3858-M6122656",
+                        "stratum": 4,
+                        "multimedia": {
+                            "images": {
+                                "count": 13,
+                                "files": [
+                                    "3858-M6122656_89",
+                                    "3858-M6122656_90",
+                                    "3858-M6122656_91",
+                                    "3858-M6122656_92",
+                                    "3858-M6122656_93",
+                                    "3858-M6122656_94",
+                                    "3858-M6122656_95",
+                                    "3858-M6122656_96",
+                                    "3858-M6122656_97",
+                                    "3858-M6122656_98",
+                                    "3858-M6122656_99",
+                                    "3858-M6122656_100",
+                                    "3858-M6122656_101"
+                                ],
+                                "mainFile": "3858-M6122656_89"
+                            }
+                        },
+                        "@timestamp": "2025-11-26T22:10:41.011236226Z",
+                        "bathroomsNumber": 2,
+                        "rentPriceRangeLabel": "N/A",
+                        "storageType": null,
+                        "location": {
+                            "lon": -74.044897068,
+                            "lat": 4.7243669124
+                        },
+                        "publishedDate": "2025-10-28T09:32:24.000Z",
+                        "builtArea": 84.84,
+                        "businessType": {
+                            "code": "1",
+                            "name": "venta",
+                            "id": "1",
+                            "label": "venta"
+                        },
+                        "notificationCode": null,
+                        "offerorType": "Otro",
+                        "parkingNumber": 1
+                    },
+                    {
+                        "country": {
+                            "code": "1",
+                            "name": "Colombia",
+                            "id": "1",
+                            "label": "Colombia"
+                        },
+                        "agent": null,
+                        "roomsNumber": 2,
+                        "areaRangeLabel": "Hasta 60",
+                        "updatedDate": "2025-11-28T14:41:41.000Z",
+                        "builtTime": {
+                            "name": "Más de 20 años",
+                            "id": null,
+                            "label": "Más de 20 años"
+                        },
+                        "salePriceRangeLabel": "300'000.001 a 400'000.000",
+                        "offeror": {
+                            "name": "A.O FINCA RAIZ EXPERTOS INMOBILIARIOS",
+                            "type": "RealEstate"
+                        },
+                        "features": [
+                            "area:59",
+                            "areaConstruida:59",
+                            "cercaCentroComercial:S",
+                            "cercaParque:S",
+                            "cercaSupermercado:S",
+                            "cercaTransportePublico:S",
+                            "conCircuitoCerradoTV:S",
+                            "conCitofono:S",
+                            "conGarajeCubierto:S",
+                            "conVistaPanoramica:S",
+                            "conZonaLavanderia:S",
+                            "contactoWhatsApp:S",
+                            "despensa:S",
+                            "horno:S",
+                            "instalacionGas:Natural",
+                            "negociarPrecio:S",
+                            "nroApto:2",
+                            "nroBanos:2",
+                            "nroClosets:2",
+                            "nroCuartos:2",
+                            "nroGarajes:1",
+                            "nroPiso:2",
+                            "recepcionLobby:S",
+                            "sobreViaSecundaria:S",
+                            "tiempoConstruido:Más de 20 años",
+                            "tipoCalentador:Gas",
+                            "tipoCocinaLista:Paralela",
+                            "tipoComedor:Sala Comedor",
+                            "tipoDeposito:1",
+                            "tipoEstufa:Gas",
+                            "tipoGaraje:Propio",
+                            "tipoPiso:Laminado",
+                            "tipoPisoAlcobas:Laminado",
+                            "tipoPisoComedor:Laminado",
+                            "tipoPisoEstudio:Laminado",
+                            "tipoPisoSala:Laminado",
+                            "tipoVigilancia:24hrs",
+                            "vista:Exterior",
+                            "walkingCloset:S"
+                        ],
+                        "aproximatelocation": "N",
+                        "adminPrice": 483000,
+                        "zone": {
+                            "code": "1",
+                            "name": "Norte",
+                            "id": "1",
+                            "label": "Norte"
+                        },
+                        "price": 360000000,
+                        "checked": "Inmueble No Verificado",
+                        "id": "44-M6094425",
+                        "sector": {
+                            "name": "Cedritos"
+                        },
+                        "area": 59,
+                        "forSale": "Y",
+                        "extraFeatures": [
+                            "cercaCentroComercial",
+                            "cercaParque",
+                            "cercaSupermercado",
+                            "cercaTransportePublico",
+                            "conCircuitoCerradoTV",
+                            "conCitofono",
+                            "conGarajeCubierto",
+                            "conVistaPanoramica",
+                            "conZonaLavanderia",
+                            "contactoWhatsApp",
+                            "despensa",
+                            "horno",
+                            "negociarPrecio",
+                            "recepcionLobby",
+                            "sobreViaSecundaria",
+                            "walkingCloset"
+                        ],
+                        "categoryType": null,
+                        "forRent": "N",
+                        "neighborhood": {
+                            "commonName": "CEDRITOS CONTADOR",
+                            "code": "0001-1218",
+                            "name": "LOS CEDRITOS",
+                            "id": "0001-1218",
+                            "label": "LOS CEDRITOS"
+                        },
+                        "region": {
+                            "code": "14",
+                            "name": "Cundinamarca",
+                            "id": "14",
+                            "label": "Cundinamarca"
+                        },
+                        "lotType": null,
+                        "status": "Usado",
+                        "amenities": {
+                            "disabilityOk": "N",
+                            "aloneOk": "N",
+                            "childrenOk": "N",
+                            "gymOk": "N",
+                            "petsOk": "N",
+                            "outdoorActivitiesOk": "N",
+                            "bikeUserOk": "N"
+                        },
+                        "city": {
+                            "code": "bogota",
+                            "name": "Bogotá D.C.",
+                            "id": "1",
+                            "label": "Bogotá D.C."
+                        },
+                        "checkInDate": "2025-10-09T08:46:13.000Z",
+                        "propertyType": {
+                            "code": "1",
+                            "name": "Apartamento",
+                            "id": "1",
+                            "label": "Apartamento"
+                        },
+                        "@version": "1",
+                        "rentPrice": 0,
+                        "comments": "VENDO APARTAMENTO EN CEDRITOS \nÁrea privada: 59,53 M2\nEstrato:4\nPiso: 2\nInterior con excelente iluminación\nSalón /comedor \nCocina integral\nZona de ropas \n2 alcobas\n2 baños\nParqueadero \nDeposito\nVigilancia 24 horas \n\nDescripción: \nAcogedor apartamento ubicado en el segundo piso, con excelente iluminación natural y acceso por escaleras. Hace parte de un conjunto cerrado con vigilancia 24 horas, en un sector residencial de gran valorización. Se encuentra en una ubicación estratégica, a pocos pasos de comercio, centros comerciales, restaurantes y oficinas.\nCITA PREVIA ",
+                        "salePrice": 360000000,
+                        "isPublished": "Y",
+                        "metroId": "44-M6094425",
+                        "url": "/inmueble/venta-apartamento-bogota-los-cedritos-2-habitaciones-2-banos-1-garajes/44-M6094425",
+                        "stratum": 4,
+                        "multimedia": {
+                            "images": {
+                                "count": 13,
+                                "files": [
+                                    "44-M6094425_2",
+                                    "44-M6094425_10",
+                                    "44-M6094425_11",
+                                    "44-M6094425_5",
+                                    "44-M6094425_12",
+                                    "44-M6094425_18",
+                                    "44-M6094425_15",
+                                    "44-M6094425_17",
+                                    "44-M6094425_8",
+                                    "44-M6094425_19",
+                                    "44-M6094425_14",
+                                    "44-M6094425_13",
+                                    "44-M6094425_1"
+                                ],
+                                "mainFile": "44-M6094425_2"
+                            }
+                        },
+                        "@timestamp": "2025-11-28T14:45:23.544472014Z",
+                        "bathroomsNumber": 2,
+                        "rentPriceRangeLabel": "Hasta 400.000",
+                        "storageType": null,
+                        "location": {
+                            "lon": -74.04484558105469,
+                            "lat": 4.724081039428711
+                        },
+                        "publishedDate": "2025-10-15T19:32:31.000Z",
+                        "builtArea": 59,
+                        "businessType": {
+                            "code": "1",
+                            "name": "venta",
+                            "id": "1",
+                            "label": "venta"
+                        },
+                        "notificationCode": null,
+                        "offerorType": "Inmobiliaria",
+                        "parkingNumber": 1
+                    },
+                    {
+                        "country": {
+                            "code": "1",
+                            "name": "Colombia",
+                            "id": "1",
+                            "label": "Colombia"
+                        },
+                        "agent": "henry vargas",
+                        "roomsNumber": 2,
+                        "areaRangeLabel": "61 a 100",
+                        "updatedDate": "2025-11-28T19:09:15.000Z",
+                        "builtTime": {
+                            "code": "8",
+                            "name": "Más de 20 años",
+                            "id": "8",
+                            "label": "Más de 20 años"
+                        },
+                        "salePriceRangeLabel": "300'000.001 a 400'000.000",
+                        "offeror": {
+                            "name": "POLANIA INMOBILIARIA",
+                            "type": "RealEstate"
+                        },
+                        "features": [
+                            "aptoParaNinos:S",
+                            "area:74.6",
+                            "areaConstruida:74.6",
+                            "cercaARestaurantes:S",
+                            "cercaATiendasDeBarrio:S",
+                            "cercaCentroComercial:S",
+                            "cercaColegioUniversidad:S",
+                            "cercaParque:S",
+                            "cercaSupermercado:S",
+                            "cercaTransportePublico:S",
+                            "conCircuitoCerradoTV:S",
+                            "conCitofono:S",
+                            "conCortinas:Persianas",
+                            "conCuartoServicio:S",
+                            "conEstudioBiblioteca:S",
+                            "conHall:S",
+                            "conSalonComunal:S",
+                            "conVistaPanoramica:S",
+                            "conZonaBbq:S",
+                            "conZonaLavanderia:S",
+                            "conZonaNinos:S",
+                            "conZonasVerdes:S",
+                            "contactoWhatsApp:S",
+                            "despensa:S",
+                            "enConjuntoCerrado:S",
+                            "enInterior:S",
+                            "extractor:S",
+                            "horno:S",
+                            "instalacionGas:Natural",
+                            "lavaplatos:S",
+                            "luzEnLaManana:S",
+                            "negociarPrecio:S",
+                            "nroApto:403",
+                            "nroAscensores:0",
+                            "nroBanos:2",
+                            "nroClosets:3",
+                            "nroCuartos:2",
+                            "nroGarajes:1",
+                            "nroInterior:4",
+                            "nroPiso:4",
+                            "sobreViaSecundaria:S",
+                            "tiempoConstruido:Más de 20 años",
+                            "tipoCalentador:Gas",
+                            "tipoCocinaLista:Lineal",
+                            "tipoComedor:Comedor Independiente",
+                            "tipoDeposito:0",
+                            "tipoEstufa:Gas",
+                            "tipoGaraje:Propio",
+                            "tipoPiso:Cerámica",
+                            "tipoPisoAlcobas:Cerámica",
+                            "tipoPisoComedor:Cerámica",
+                            "tipoPisoEstudio:Cerámica",
+                            "tipoPisoSala:Cerámica",
+                            "tipoVigilancia:24hrs",
+                            "vista:Exterior"
+                        ],
+                        "aproximatelocation": "N",
+                        "adminPrice": 465300,
+                        "zone": {
+                            "code": "1",
+                            "name": "Norte",
+                            "id": "1",
+                            "label": "Norte"
+                        },
+                        "price": 380000000,
+                        "checked": "Inmueble No Verificado",
+                        "id": "3437-M4670613",
+                        "sector": {
+                            "name": "Cedritos"
+                        },
+                        "area": 74.6,
+                        "forSale": "Y",
+                        "extraFeatures": [
+                            "aptoParaNinos",
+                            "cercaARestaurantes",
+                            "cercaATiendasDeBarrio",
+                            "cercaCentroComercial",
+                            "cercaColegioUniversidad",
+                            "cercaParque",
+                            "cercaSupermercado",
+                            "cercaTransportePublico",
+                            "conCircuitoCerradoTV",
+                            "conCitofono",
+                            "conCuartoServicio",
+                            "conEstudioBiblioteca",
+                            "conHall",
+                            "conSalonComunal",
+                            "conVistaPanoramica",
+                            "conZonaBbq",
+                            "conZonaLavanderia",
+                            "conZonaNinos",
+                            "conZonasVerdes",
+                            "contactoWhatsApp",
+                            "despensa",
+                            "enConjuntoCerrado",
+                            "enInterior",
+                            "extractor",
+                            "horno",
+                            "lavaplatos",
+                            "luzEnLaManana",
+                            "negociarPrecio",
+                            "sobreViaSecundaria"
+                        ],
+                        "categoryType": null,
+                        "forRent": "N",
+                        "neighborhood": {
+                            "commonName": "CEDRITOS LAS MARGARITAS",
+                            "code": "0",
+                            "name": "LAS MARGARITAS",
+                            "id": "0",
+                            "label": "LAS MARGARITAS"
+                        },
+                        "region": {
+                            "code": "14",
+                            "name": "Cundinamarca",
+                            "id": "14",
+                            "label": "Cundinamarca"
+                        },
+                        "lotType": null,
+                        "status": "Usado",
+                        "amenities": {
+                            "disabilityOk": "N",
+                            "aloneOk": "N",
+                            "childrenOk": "N",
+                            "gymOk": "N",
+                            "petsOk": "N",
+                            "outdoorActivitiesOk": "N",
+                            "bikeUserOk": "N"
+                        },
+                        "city": {
+                            "code": "bogota",
+                            "name": "Bogotá D.C.",
+                            "id": "1",
+                            "label": "Bogotá D.C."
+                        },
+                        "checkInDate": "2023-11-11T11:47:14.000Z",
+                        "propertyType": {
+                            "code": "1",
+                            "name": "Apartamento",
+                            "id": "1",
+                            "label": "Apartamento"
+                        },
+                        "@version": "1",
+                        "rentPrice": 0,
+                        "comments": "VENDO Apartamento ubicado en el barrio Las Margaritas, uno de los sectores más tranquilos, residenciales y mejor ubicados del norte de Bogotá. El apartamento cuenta con sala comedor , estudio, cuarto y baño del servicio el cual se puede unir con el estudio, cocina integral a gas y parqueadero. El edificio no cuenta con ascensor. El sector cuenta con amplios espacios de zonas verdes para el esparcimiento familiar y la práctica deportiva, con fácil acceso gracias a su inmejorable ubicación al norte de Bogotá. El barrio limita con la Autopista Norte y está rodeado por la carrera 19 y la calle 153. Si desea ampliar información o agendar una visita para conocer el inmueble, con gusto le atenderé, Henry Vargas.",
+                        "salePrice": 380000000,
+                        "isPublished": "Y",
+                        "metroId": "3437-M4670613",
+                        "url": "/inmueble/venta-apartamento-bogota-las-margaritas-2-habitaciones-2-banos-1-garajes/3437-M4670613",
+                        "stratum": 4,
+                        "multimedia": {
+                            "images": {
+                                "count": 20,
+                                "files": [
+                                    "3437-M4670613_1",
+                                    "3437-M4670613_17",
+                                    "3437-M4670613_16",
+                                    "3437-M4670613_2",
+                                    "3437-M4670613_3",
+                                    "3437-M4670613_4",
+                                    "3437-M4670613_5",
+                                    "3437-M4670613_6",
+                                    "3437-M4670613_7",
+                                    "3437-M4670613_8",
+                                    "3437-M4670613_14",
+                                    "3437-M4670613_9",
+                                    "3437-M4670613_10",
+                                    "3437-M4670613_11",
+                                    "3437-M4670613_12",
+                                    "3437-M4670613_13",
+                                    "3437-M4670613_15",
+                                    "3437-M4670613_18",
+                                    "3437-M4670613_20",
+                                    "3437-M4670613_19"
+                                ],
+                                "mainFile": "3437-M4670613_1"
+                            }
+                        },
+                        "@timestamp": "2025-11-28T19:10:22.399891147Z",
+                        "bathroomsNumber": 2,
+                        "rentPriceRangeLabel": "Hasta 400.000",
+                        "storageType": null,
+                        "location": {
+                            "lon": -74.04725646972656,
+                            "lat": 4.730212211608887
+                        },
+                        "publishedDate": "2025-11-05T03:10:07.000Z",
+                        "builtArea": 74.6,
+                        "businessType": {
+                            "code": "1",
+                            "name": "venta",
+                            "id": "1",
+                            "label": "venta"
+                        },
+                        "notificationCode": null,
+                        "offerorType": "Inmobiliaria",
+                        "parkingNumber": 1
+                    },
+                    {
+                        "country": {
+                            "code": "1",
+                            "name": "Colombia",
+                            "id": "1",
+                            "label": "Colombia"
+                        },
+                        "agent": "Nancy Narváez R",
+                        "roomsNumber": 3,
+                        "areaRangeLabel": "1001 o más",
+                        "updatedDate": "2025-11-28T18:23:59.000Z",
+                        "builtTime": {
+                            "name": "Más de 20 años",
+                            "id": null,
+                            "label": "Más de 20 años"
+                        },
+                        "salePriceRangeLabel": "300'000.001 a 400'000.000",
+                        "offeror": {
+                            "name": "Inmobiliarios Profesionales CB",
+                            "type": "RealEstate"
+                        },
+                        "features": [
+                            "accesoConTarjetasODispositivos:S",
+                            "aptoParaNinos:S",
+                            "area:7747",
+                            "areaConstruida:77.47",
+                            "ascensor:S",
+                            "cercaAGimnasio:S",
+                            "cercaAHospitales:S",
+                            "cercaAJardinesYColegios:S",
+                            "cercaARestaurantes:S",
+                            "cercaATiendasDeBarrio:S",
+                            "cercaCentroComercial:S",
+                            "cercaColegioUniversidad:S",
+                            "cercaParque:S",
+                            "cercaSupermercado:S",
+                            "cercaTransportePublico:S",
+                            "conAccesoDiscapacitados:S",
+                            "conCircuitoCerradoTV:S",
+                            "conCitofono:S",
+                            "conCortinas:Ninguna",
+                            "conGarajeCubierto:S",
+                            "conHall:S",
+                            "conSalonComunal:S",
+                            "conZonaBbq:S",
+                            "conZonaLavanderia:S",
+                            "conZonaNinos:S",
+                            "enConjuntoCerrado:S",
+                            "enInterior:S",
+                            "instalacionGas:Natural",
+                            "luzEnLaManana:S",
+                            "luzEnLaTarde:S",
+                            "negociarPrecio:S",
+                            "nroApto:20",
+                            "nroAscensores:1",
+                            "nroBanos:2",
+                            "nroClosets:3",
+                            "nroCuartos:3",
+                            "nroGarajes:1",
+                            "nroInterior:1",
+                            "nroPiso:2",
+                            "recepcionLobby:S",
+                            "sePermiteFumar:S",
+                            "sobreViaPrincipal:S",
+                            "tiempoConstruido:Más de 20 años",
+                            "tipoCalentador:Gas",
+                            "tipoCocinaLista:Lineal",
+                            "tipoComedor:Sala Comedor",
+                            "tipoDeposito:0",
+                            "tipoEstufa:Gas",
+                            "tipoGaraje:Propio",
+                            "tipoVigilancia:24hrs",
+                            "vista:Interior"
+                        ],
+                        "aproximatelocation": "N",
+                        "adminPrice": 370000,
+                        "zone": {
+                            "code": "1",
+                            "name": "Norte",
+                            "id": "1",
+                            "label": "Norte"
+                        },
+                        "price": 350000000,
+                        "checked": "Inmueble No Verificado",
+                        "id": "2821-M5559759",
+                        "sector": {
+                            "name": "Cedritos"
+                        },
+                        "area": 7747,
+                        "forSale": "Y",
+                        "extraFeatures": [
+                            "accesoConTarjetasODispositivos",
+                            "aptoParaNinos",
+                            "ascensor",
+                            "cercaAGimnasio",
+                            "cercaAHospitales",
+                            "cercaAJardinesYColegios",
+                            "cercaARestaurantes",
+                            "cercaATiendasDeBarrio",
+                            "cercaCentroComercial",
+                            "cercaColegioUniversidad",
+                            "cercaParque",
+                            "cercaSupermercado",
+                            "cercaTransportePublico",
+                            "conAccesoDiscapacitados",
+                            "conCircuitoCerradoTV",
+                            "conCitofono",
+                            "conGarajeCubierto",
+                            "conHall",
+                            "conSalonComunal",
+                            "conZonaBbq",
+                            "conZonaLavanderia",
+                            "conZonaNinos",
+                            "enConjuntoCerrado",
+                            "enInterior",
+                            "luzEnLaManana",
+                            "luzEnLaTarde",
+                            "negociarPrecio",
+                            "recepcionLobby",
+                            "sePermiteFumar",
+                            "sobreViaPrincipal"
+                        ],
+                        "categoryType": null,
+                        "forRent": "N",
+                        "neighborhood": {
+                            "commonName": "CEDRITOS",
+                            "code": "0",
+                            "name": "CJR RESERVA DE LA COLINA ETAPAS III Y IV",
+                            "id": "0",
+                            "label": "CJR RESERVA DE LA COLINA ETAPAS III Y IV"
+                        },
+                        "region": {
+                            "code": "14",
+                            "name": "Cundinamarca",
+                            "id": "14",
+                            "label": "Cundinamarca"
+                        },
+                        "lotType": null,
+                        "status": "Usado",
+                        "amenities": {
+                            "disabilityOk": "N",
+                            "aloneOk": "N",
+                            "childrenOk": "N",
+                            "gymOk": "N",
+                            "petsOk": "N",
+                            "outdoorActivitiesOk": "N",
+                            "bikeUserOk": "N"
+                        },
+                        "city": {
+                            "code": "bogota",
+                            "name": "Bogotá D.C.",
+                            "id": "1",
+                            "label": "Bogotá D.C."
+                        },
+                        "checkInDate": "2025-01-31T11:39:12.000Z",
+                        "propertyType": {
+                            "code": "1",
+                            "name": "Apartamento",
+                            "id": "1",
+                            "label": "Apartamento"
+                        },
+                        "@version": "1",
+                        "rentPrice": 0,
+                        "comments": "Amplio e iluminado apartamento de 77,47 mts2. con 3 habitaciones, 2 baños, sala comedor, cocina cerrada y zona de lavandería. (El apartamento tiene opción de adicionar otro baño). Apartamento con vista interior. \n\nEl conjunto cuenta con zona verde, salón social, 2 sistemas de acueducto subterráneo y elevado, garaje con apertura de tarjeta cubierto, ascensor y seguridad las 24 horas. Contáctame, Nancy Narváez, tres diez 787 seis nueve 44.",
+                        "salePrice": 350000000,
+                        "isPublished": "Y",
+                        "metroId": "2821-M5559759",
+                        "url": "/inmueble/venta-apartamento-bogota-cjr-reserva-de-la-colina-etapas-iii-y-iv-3-habitaciones-2-banos-1-garajes/2821-M5559759",
+                        "stratum": 4,
+                        "multimedia": {
+                            "images": {
+                                "count": 15,
+                                "files": [
+                                    "2821-M5559759_8",
+                                    "2821-M5559759_15",
+                                    "2821-M5559759_7",
+                                    "2821-M5559759_9",
+                                    "2821-M5559759_12",
+                                    "2821-M5559759_14",
+                                    "2821-M5559759_6",
+                                    "2821-M5559759_5",
+                                    "2821-M5559759_4",
+                                    "2821-M5559759_10",
+                                    "2821-M5559759_11",
+                                    "2821-M5559759_13",
+                                    "2821-M5559759_3",
+                                    "2821-M5559759_2",
+                                    "2821-M5559759_1"
+                                ],
+                                "mainFile": "2821-M5559759_8"
+                            }
+                        },
+                        "@timestamp": "2025-11-28T18:25:07.103028767Z",
+                        "bathroomsNumber": 2,
+                        "rentPriceRangeLabel": "Hasta 400.000",
+                        "storageType": null,
+                        "location": {
+                            "lon": -74.0416030883789,
+                            "lat": 4.732178211212158
+                        },
+                        "publishedDate": "2025-11-17T03:10:10.000Z",
+                        "builtArea": 77.47,
+                        "businessType": {
+                            "code": "1",
+                            "name": "venta",
+                            "id": "1",
+                            "label": "venta"
+                        },
+                        "notificationCode": null,
+                        "offerorType": "Inmobiliaria",
+                        "parkingNumber": 1
+                    },
+                    {
+                        "country": {
+                            "code": "1",
+                            "name": "Colombia",
+                            "id": "1",
+                            "label": "Colombia"
+                        },
+                        "agent": null,
+                        "roomsNumber": 3,
+                        "areaRangeLabel": "Hasta 60",
+                        "updatedDate": "2025-10-26T06:31:00.000Z",
+                        "builtTime": {
+                            "name": "Más de 20 años",
+                            "id": null,
+                            "label": "Más de 20 años"
+                        },
+                        "salePriceRangeLabel": "300'000.001 a 400'000.000",
+                        "offeror": {
+                            "type": "Seller"
+                        },
+                        "features": [
+                            "accesoConTarjetasODispositivos:S",
+                            "area:58",
+                            "areaConstruida:58",
+                            "bahiasDeParqueo:S",
+                            "banosAuxiliar:S",
+                            "caracteristicasParqueadero:Descubierto",
+                            "cercaAJardinesYColegios:S",
+                            "cercaARestaurantes:S",
+                            "cercaATiendasDeBarrio:S",
+                            "cercaCentroComercial:S",
+                            "cercaParque:S",
+                            "cercaTransportePublico:S",
+                            "conCitofono:S",
+                            "conCocinaIntegral_o:S",
+                            "conPisoMadera_o:S",
+                            "conSalonComunal:S",
+                            "conVigilancia-cb:S",
+                            "conZonaLavanderia-cb:S",
+                            "conZonaNinos:S",
+                            "conZonasVerdes:S",
+                            "enConjuntoCerrado_o:S",
+                            "horno:S",
+                            "luzEnLaManana:S",
+                            "luzEnLaTarde:S",
+                            "nroBanos:2",
+                            "nroCuartos:3",
+                            "nroGarajes:1",
+                            "nroPiso:3",
+                            "porteria:S",
+                            "recepcionLobby:S",
+                            "tiempoConstruido:Más de 20 años",
+                            "tipoGaraje:Propio",
+                            "zonaResidencial:S"
+                        ],
+                        "aproximatelocation": "N",
+                        "adminPrice": 341000,
+                        "zone": {
+                            "code": "1",
+                            "name": "Norte",
+                            "id": "1",
+                            "label": "Norte"
+                        },
+                        "price": 398000000,
+                        "checked": "Inmueble No Verificado",
+                        "id": "MC6108339",
+                        "sector": {
+                            "name": "Cedritos"
+                        },
+                        "area": 58,
+                        "forSale": "Y",
+                        "extraFeatures": [
+                            "accesoConTarjetasODispositivos",
+                            "bahiasDeParqueo",
+                            "banosAuxiliar",
+                            "cercaAJardinesYColegios",
+                            "cercaARestaurantes",
+                            "cercaATiendasDeBarrio",
+                            "cercaCentroComercial",
+                            "cercaParque",
+                            "cercaTransportePublico",
+                            "conCitofono",
+                            "conCocinaIntegral_o",
+                            "conPisoMadera_o",
+                            "conSalonComunal",
+                            "conVigilancia7x24",
+                            "conZonaLavanderia",
+                            "conZonaNinos",
+                            "conZonasVerdes",
+                            "enConjuntoCerrado",
+                            "horno",
+                            "luzEnLaManana",
+                            "luzEnLaTarde",
+                            "porteria",
+                            "recepcionLobby",
+                            "zonaResidencial"
+                        ],
+                        "categoryType": null,
+                        "forRent": "N",
+                        "neighborhood": {
+                            "commonName": "CAOBOS CEDRITOS   Cedritos",
+                            "code": "0",
+                            "name": "CJR CARUPANA",
+                            "id": "0",
+                            "label": "CJR CARUPANA"
+                        },
+                        "region": {
+                            "code": "14",
+                            "name": "Cundinamarca",
+                            "id": "14",
+                            "label": "Cundinamarca"
+                        },
+                        "lotType": null,
+                        "status": "Usado",
+                        "amenities": {
+                            "disabilityOk": "N",
+                            "aloneOk": "N",
+                            "childrenOk": "N",
+                            "gymOk": "N",
+                            "petsOk": "N",
+                            "outdoorActivitiesOk": "N",
+                            "bikeUserOk": "N"
+                        },
+                        "city": {
+                            "code": "bogota",
+                            "name": "Bogotá D.C.",
+                            "id": "1",
+                            "label": "Bogotá D.C."
+                        },
+                        "checkInDate": "2025-10-19T11:45:57.000Z",
+                        "propertyType": {
+                            "code": "1",
+                            "name": "Apartamento",
+                            "id": "1",
+                            "label": "Apartamento"
+                        },
+                        "@version": "1",
+                        "rentPrice": null,
+                        "comments": "Descubre este encantador apartamento en Venta, ubicado en Cedritos, uno de los sectores más atractivos y residenciales de Bogotá. Con 58 m² excelentemente distribuidos, este hogar combina iluminación natural, ambientes cálidos y acabados de alta calidad que crean un espacio acogedor y funcional. Cuenta con 3 habitaciones con su respectivo closet, 2 baños y un parqueadero privado, ofreciendo todo lo necesario para disfrutar de la comodidad y practicidad que buscas. Su diseño aprovecha cada rincón, brindando amplitud y armonía en cada espacio. Venta directa con cita previa. Contacto Omar Rosas.",
+                        "salePrice": 398000000,
+                        "isPublished": "Y",
+                        "metroId": "MC6108339",
+                        "url": "/inmueble/venta-apartamento-bogota-cjr-carupana-3-habitaciones-2-banos-1-garajes/MC6108339",
+                        "stratum": 4,
+                        "multimedia": {
+                            "images": {
+                                "count": 17,
+                                "files": [
+                                    "MC6108339_1",
+                                    "MC6108339_2",
+                                    "MC6108339_3",
+                                    "MC6108339_4",
+                                    "MC6108339_5",
+                                    "MC6108339_6",
+                                    "MC6108339_7",
+                                    "MC6108339_8",
+                                    "MC6108339_9",
+                                    "MC6108339_10",
+                                    "MC6108339_11",
+                                    "MC6108339_12",
+                                    "MC6108339_13",
+                                    "MC6108339_14",
+                                    "MC6108339_15",
+                                    "MC6108339_16",
+                                    "MC6108339_18"
+                                ],
+                                "mainFile": "MC6108339_1"
+                            }
+                        },
+                        "@timestamp": "2025-10-26T06:35:06.372242318Z",
+                        "bathroomsNumber": 2,
+                        "rentPriceRangeLabel": "N/A",
+                        "storageType": null,
+                        "location": {
+                            "lon": -74.04417,
+                            "lat": 4.7295017
+                        },
+                        "publishedDate": "2025-10-19T17:02:52.000Z",
+                        "builtArea": 58,
+                        "businessType": {
+                            "code": "1",
+                            "name": "venta",
+                            "id": "1",
+                            "label": "venta"
+                        },
+                        "notificationCode": null,
+                        "offerorType": "Persona Natural",
+                        "parkingNumber": 1
+                    },
+                    {
+                        "country": {
+                            "code": "1",
+                            "name": "Colombia",
+                            "id": "1",
+                            "label": "Colombia"
+                        },
+                        "agent": null,
+                        "roomsNumber": 2,
+                        "areaRangeLabel": "61 a 100",
+                        "updatedDate": "2025-11-10T17:08:20.000Z",
+                        "builtTime": {
+                            "name": "Remodelado",
+                            "id": null,
+                            "label": "Remodelado"
+                        },
+                        "salePriceRangeLabel": "300'000.001 a 400'000.000",
+                        "offeror": {
+                            "type": "Seller"
+                        },
+                        "features": [
+                            "area:72",
+                            "areaConstruida:74",
+                            "ascensor:S",
+                            "caracteristicasParqueadero:Cubierto",
+                            "conCitofono:S",
+                            "conCocinaIntegral_o:S",
+                            "conParqueaderoVisitantes_o:S",
+                            "conSalonComunal:S",
+                            "conTerraza_o:S",
+                            "conVigilancia-cb:S",
+                            "conZonaLavanderia-cb:S",
+                            "nroBanos:2",
+                            "nroCuartos:2",
+                            "nroGarajes:1",
+                            "nroPiso:2",
+                            "tiempoConstruido:Remodelado",
+                            "tipoGaraje:Propio",
+                            "ubicadoEdificio:S"
+                        ],
+                        "aproximatelocation": "N",
+                        "adminPrice": 520000,
+                        "zone": {
+                            "code": "1",
+                            "name": "Norte",
+                            "id": "1",
+                            "label": "Norte"
+                        },
+                        "price": 348000000,
+                        "checked": "Inmueble No Verificado",
+                        "id": "MC5959590",
+                        "sector": {
+                            "name": "Cedritos"
+                        },
+                        "area": 72,
+                        "forSale": "Y",
+                        "extraFeatures": [
+                            "ascensor",
+                            "conCitofono",
+                            "conCocinaIntegral_o",
+                            "conParqueaderoVisitantes_o",
+                            "conSalonComunal",
+                            "conTerraza_o",
+                            "conVigilancia7x24",
+                            "conZonaLavanderia",
+                            "ubicadoEdificio"
+                        ],
+                        "categoryType": null,
+                        "forRent": "N",
+                        "neighborhood": {
+                            "commonName": "CEDRITOS  CAOBOS   Cedritos",
+                            "code": "0001-1218",
+                            "name": "LOS CEDRITOS",
+                            "id": "0001-1218",
+                            "label": "LOS CEDRITOS"
+                        },
+                        "region": {
+                            "code": "14",
+                            "name": "Cundinamarca",
+                            "id": "14",
+                            "label": "Cundinamarca"
+                        },
+                        "lotType": null,
+                        "status": "Usado",
+                        "amenities": {
+                            "disabilityOk": "N",
+                            "aloneOk": "N",
+                            "childrenOk": "N",
+                            "gymOk": "N",
+                            "petsOk": "N",
+                            "outdoorActivitiesOk": "N",
+                            "bikeUserOk": "N"
+                        },
+                        "city": {
+                            "code": "bogota",
+                            "name": "Bogotá D.C.",
+                            "id": "1",
+                            "label": "Bogotá D.C."
+                        },
+                        "checkInDate": "2025-07-25T17:04:16.000Z",
+                        "propertyType": {
+                            "code": "1",
+                            "name": "Apartamento",
+                            "id": "1",
+                            "label": "Apartamento"
+                        },
+                        "@version": "1",
+                        "rentPrice": null,
+                        "comments": "excelente apartamento cuenta con rampa de discapasitados, cerca a la av 19 a trasmilenio, frente a parque. ",
+                        "salePrice": 348000000,
+                        "isPublished": "Y",
+                        "metroId": "MC5959590",
+                        "url": "/inmueble/venta-apartamento-bogota-los-cedritos-2-habitaciones-2-banos-1-garajes/MC5959590",
+                        "stratum": 4,
+                        "multimedia": {
+                            "images": {
+                                "count": 9,
+                                "files": [
+                                    "MC5959590_1",
+                                    "MC5959590_2",
+                                    "MC5959590_3",
+                                    "MC5959590_4",
+                                    "MC5959590_5",
+                                    "MC5959590_8",
+                                    "MC5959590_9",
+                                    "MC5959590_10",
+                                    "MC5959590_11"
+                                ],
+                                "mainFile": "MC5959590_1"
+                            }
+                        },
+                        "@timestamp": "2025-11-10T17:10:29.975396147Z",
+                        "bathroomsNumber": 2,
+                        "rentPriceRangeLabel": "N/A",
+                        "storageType": null,
+                        "location": {
+                            "lon": -74.045204,
+                            "lat": 4.727033
+                        },
+                        "publishedDate": "2025-11-10T17:08:20.000Z",
+                        "builtArea": 74,
+                        "businessType": {
+                            "code": "1",
+                            "name": "venta",
+                            "id": "1",
+                            "label": "venta"
+                        },
+                        "notificationCode": null,
+                        "offerorType": "Persona Natural",
+                        "parkingNumber": 1
+                    },
+                    {
+                        "country": {
+                            "code": "1",
+                            "name": "Colombia",
+                            "id": "1",
+                            "label": "Colombia"
+                        },
+                        "agent": null,
+                        "roomsNumber": 3,
+                        "areaRangeLabel": "61 a 100",
+                        "updatedDate": "2025-11-16T21:02:08.000Z",
+                        "builtTime": {
+                            "name": "Más de 20 años",
+                            "id": null,
+                            "label": "Más de 20 años"
+                        },
+                        "salePriceRangeLabel": "300'000.001 a 400'000.000",
+                        "offeror": {
+                            "type": "Seller"
+                        },
+                        "features": [
+                            "area:69",
+                            "areaConstruida:69",
+                            "caracteristicasParqueadero:Descubierto",
+                            "cercaARestaurantes:S",
+                            "cercaATiendasDeBarrio:S",
+                            "cercaCentroComercial:S",
+                            "cercaSupermercado:S",
+                            "cercaTransportePublico:S",
+                            "conParqueaderoVisitantes_o:S",
+                            "conPisoBaldosa_o:S",
+                            "conPisoMadera_o:S",
+                            "conVigilancia-cb:S",
+                            "conZonaNinos:S",
+                            "conZonasVerdes:S",
+                            "enConjuntoCerrado_o:S",
+                            "luzEnLaManana:S",
+                            "luzEnLaTarde:S",
+                            "nroBanos:2",
+                            "nroCuartos:3",
+                            "nroGarajes:1",
+                            "nroPiso:3",
+                            "tiempoConstruido:Más de 20 años",
+                            "tipoGaraje:Propio"
+                        ],
+                        "aproximatelocation": "N",
+                        "adminPrice": null,
+                        "zone": {
+                            "code": "1",
+                            "name": "Norte",
+                            "id": "1",
+                            "label": "Norte"
+                        },
+                        "price": 315000000,
+                        "checked": "Inmueble No Verificado",
+                        "id": "MC6145006",
+                        "sector": {
+                            "name": "Cedritos"
+                        },
+                        "area": 69,
+                        "forSale": "Y",
+                        "extraFeatures": [
+                            "cercaARestaurantes",
+                            "cercaATiendasDeBarrio",
+                            "cercaCentroComercial",
+                            "cercaSupermercado",
+                            "cercaTransportePublico",
+                            "conParqueaderoVisitantes_o",
+                            "conPisoBaldosa_o",
+                            "conPisoMadera_o",
+                            "conVigilancia7x24",
+                            "conZonaNinos",
+                            "conZonasVerdes",
+                            "enConjuntoCerrado",
+                            "luzEnLaManana",
+                            "luzEnLaTarde"
+                        ],
+                        "categoryType": null,
+                        "forRent": "N",
+                        "neighborhood": {
+                            "commonName": "CEDRITOS   Zona Urbana",
+                            "code": "0001-1218",
+                            "name": "LOS CEDRITOS",
+                            "id": "0001-1218",
+                            "label": "LOS CEDRITOS"
+                        },
+                        "region": {
+                            "code": "14",
+                            "name": "Cundinamarca",
+                            "id": "14",
+                            "label": "Cundinamarca"
+                        },
+                        "lotType": null,
+                        "status": "Usado",
+                        "amenities": {
+                            "disabilityOk": "N",
+                            "aloneOk": "N",
+                            "childrenOk": "N",
+                            "gymOk": "N",
+                            "petsOk": "N",
+                            "outdoorActivitiesOk": "N",
+                            "bikeUserOk": "N"
+                        },
+                        "city": {
+                            "code": "bogota",
+                            "name": "Bogotá D.C.",
+                            "id": "1",
+                            "label": "Bogotá D.C."
+                        },
+                        "checkInDate": "2025-11-10T19:57:50.000Z",
+                        "propertyType": {
+                            "code": "1",
+                            "name": "Apartamento",
+                            "id": "1",
+                            "label": "Apartamento"
+                        },
+                        "@version": "1",
+                        "rentPrice": null,
+                        "comments": "hermoso apartamento de tres alcobas dos baños, cocina, sala comedor, parqueadero, zonas verdes dentro del conjunto, cerca de autopista norte, transmilenio y Av 19, vigilancia 24 horas.",
+                        "salePrice": 315000000,
+                        "isPublished": "Y",
+                        "metroId": "MC6145006",
+                        "url": "/inmueble/venta-apartamento-bogota-los-cedritos-3-habitaciones-2-banos-1-garajes/MC6145006",
+                        "stratum": 4,
+                        "multimedia": {
+                            "images": {
+                                "count": 20,
+                                "files": [
+                                    "MC6145006_1",
+                                    "MC6145006_3",
+                                    "MC6145006_4",
+                                    "MC6145006_5",
+                                    "MC6145006_7",
+                                    "MC6145006_10",
+                                    "MC6145006_12",
+                                    "MC6145006_13",
+                                    "MC6145006_15",
+                                    "MC6145006_14",
+                                    "MC6145006_16",
+                                    "MC6145006_23",
+                                    "MC6145006_24",
+                                    "MC6145006_20",
+                                    "MC6145006_2",
+                                    "MC6145006_9",
+                                    "MC6145006_17",
+                                    "MC6145006_21",
+                                    "MC6145006_19",
+                                    "MC6145006_22"
+                                ],
+                                "mainFile": "MC6145006_1"
+                            }
+                        },
+                        "@timestamp": "2025-11-16T21:05:08.527258839Z",
+                        "bathroomsNumber": 2,
+                        "rentPriceRangeLabel": "N/A",
+                        "storageType": null,
+                        "location": {
+                            "lon": -74.04895,
+                            "lat": 4.726919
+                        },
+                        "publishedDate": "2025-11-12T23:05:40.000Z",
+                        "builtArea": 69,
+                        "businessType": {
+                            "code": "1",
+                            "name": "venta",
+                            "id": "1",
+                            "label": "venta"
+                        },
+                        "notificationCode": null,
+                        "offerorType": "Persona Natural",
+                        "parkingNumber": 1
+                    },
+                    {
+                        "country": {
+                            "code": "1",
+                            "name": "Colombia",
+                            "id": "1",
+                            "label": "Colombia"
+                        },
+                        "agent": null,
+                        "roomsNumber": 2,
+                        "areaRangeLabel": "61 a 100",
+                        "updatedDate": "2025-11-22T06:31:00.000Z",
+                        "builtTime": {
+                            "name": "Más de 20 años",
+                            "id": null,
+                            "label": "Más de 20 años"
+                        },
+                        "salePriceRangeLabel": "300'000.001 a 400'000.000",
+                        "offeror": {
+                            "type": "Seller"
+                        },
+                        "features": [
+                            "area:62",
+                            "areaConstruida:64",
+                            "ascensor:S",
+                            "banosAuxiliar:S",
+                            "caracteristicasParqueadero:Descubierto",
+                            "cercaAGimnasio:S",
+                            "cercaAJardinesYColegios:S",
+                            "cercaARestaurantes:S",
+                            "cercaATiendasDeBarrio:S",
+                            "cercaCentroComercial:S",
+                            "cercaColegioUniversidad:S",
+                            "cercaParque:S",
+                            "cercaSupermercado:S",
+                            "cercaTransportePublico:S",
+                            "conCitofono:S",
+                            "conCocinaAmericana_o:S",
+                            "conCocinaIntegral_o:S",
+                            "conCuartoUtil-cb:S",
+                            "conPisoBaldosa_o:S",
+                            "conPisoMadera_o:S",
+                            "conVigilancia-cb:S",
+                            "horno:S",
+                            "lavaplatos:S",
+                            "luzEnLaTarde:S",
+                            "nroBanos:2",
+                            "nroCuartos:2",
+                            "nroGarajes:1",
+                            "nroPiso:4",
+                            "porteria:S",
+                            "recepcionLobby:S",
+                            "shutDeBasura:S",
+                            "tiempoConstruido:Más de 20 años",
+                            "tipoGaraje:Propio",
+                            "ubicadoEdificio:S",
+                            "zonaComercial:S",
+                            "zonaResidencial:S"
+                        ],
+                        "aproximatelocation": "N",
+                        "adminPrice": 514000,
+                        "zone": {
+                            "code": "1",
+                            "name": "Norte",
+                            "id": "1",
+                            "label": "Norte"
+                        },
+                        "price": 317000000,
+                        "checked": "Inmueble No Verificado",
+                        "id": "MC5742098",
+                        "sector": {
+                            "name": "Cedritos"
+                        },
+                        "area": 62,
+                        "forSale": "Y",
+                        "extraFeatures": [
+                            "ascensor",
+                            "banosAuxiliar",
+                            "cercaAGimnasio",
+                            "cercaAJardinesYColegios",
+                            "cercaARestaurantes",
+                            "cercaATiendasDeBarrio",
+                            "cercaCentroComercial",
+                            "cercaColegioUniversidad",
+                            "cercaParque",
+                            "cercaSupermercado",
+                            "cercaTransportePublico",
+                            "conCitofono",
+                            "conCocinaAmericana_o",
+                            "conCocinaIntegral_o",
+                            "conCuartoUtil-cb",
+                            "conPisoBaldosa_o",
+                            "conPisoMadera_o",
+                            "conVigilancia7x24",
+                            "horno",
+                            "lavaplatos",
+                            "luzEnLaTarde",
+                            "porteria",
+                            "recepcionLobby",
+                            "shutDeBasura",
+                            "ubicadoEdificio",
+                            "zonaComercial",
+                            "zonaResidencial"
+                        ],
+                        "categoryType": null,
+                        "forRent": "N",
+                        "neighborhood": {
+                            "commonName": "CEDRITOS CONTADOR   Chicó",
+                            "code": "0",
+                            "name": "LOS CEDRITOS   EDIF PAMA LL",
+                            "id": "0",
+                            "label": "LOS CEDRITOS   EDIF PAMA LL"
+                        },
+                        "region": {
+                            "code": "14",
+                            "name": "Cundinamarca",
+                            "id": "14",
+                            "label": "Cundinamarca"
+                        },
+                        "lotType": null,
+                        "status": "Usado",
+                        "amenities": {
+                            "disabilityOk": "N",
+                            "aloneOk": "N",
+                            "childrenOk": "N",
+                            "gymOk": "N",
+                            "petsOk": "N",
+                            "outdoorActivitiesOk": "N",
+                            "bikeUserOk": "N"
+                        },
+                        "city": {
+                            "code": "bogota",
+                            "name": "Bogotá D.C.",
+                            "id": "1",
+                            "label": "Bogotá D.C."
+                        },
+                        "checkInDate": "2025-05-08T12:28:15.000Z",
+                        "propertyType": {
+                            "code": "1",
+                            "name": "Apartamento",
+                            "id": "1",
+                            "label": "Apartamento"
+                        },
+                        "@version": "1",
+                        "rentPrice": null,
+                        "comments": "Cedritos Amplio apartamento de 64 m,  excelente ubicación en edificio, 4to piso interior, con ASCENSOR, iluminado, en buen estado,  dos habitaciones, dos baños, sala comedor, hall de alcobas, cocina integral independiente, un deposito, un garaje descubierto, edificio con portería y vigilancia 24 H, cerca a vías principales como,  avenida diecinueve y calle ciento cuarenta y siete,Transporte publico, Transmilenio, Colegios, Parque Caobos, Jardines Infantiles, Supermercados, Almacenes de cadena  y zona bancaria y comercial de Cetritos.",
+                        "salePrice": 317000000,
+                        "isPublished": "Y",
+                        "metroId": "MC5742098",
+                        "url": "/inmueble/venta-apartamento-bogota-los-cedritos-edif-pama-ll-2-habitaciones-2-banos-1-garajes/MC5742098",
+                        "stratum": 4,
+                        "multimedia": {
+                            "images": {
+                                "count": 14,
+                                "files": [
+                                    "MC5742098_12",
+                                    "MC5742098_13",
+                                    "MC5742098_14",
+                                    "MC5742098_15",
+                                    "MC5742098_16",
+                                    "MC5742098_17",
+                                    "MC5742098_18",
+                                    "MC5742098_19",
+                                    "MC5742098_20",
+                                    "MC5742098_21",
+                                    "MC5742098_22",
+                                    "MC5742098_23",
+                                    "MC5742098_24",
+                                    "MC5742098_25"
+                                ],
+                                "mainFile": "MC5742098_12"
+                            }
+                        },
+                        "@timestamp": "2025-11-22T06:35:05.696882656Z",
+                        "bathroomsNumber": 2,
+                        "rentPriceRangeLabel": "N/A",
+                        "storageType": null,
+                        "location": {
+                            "lon": -74.044945,
+                            "lat": 4.727598
+                        },
+                        "publishedDate": "2025-11-15T17:48:45.000Z",
+                        "builtArea": 64,
+                        "businessType": {
+                            "code": "1",
+                            "name": "venta",
+                            "id": "1",
+                            "label": "venta"
+                        },
+                        "notificationCode": null,
+                        "offerorType": "Persona Natural",
+                        "parkingNumber": 1
+                    },
+                    {
+                        "country": {
+                            "code": "1",
+                            "name": "Colombia",
+                            "id": "1",
+                            "label": "Colombia"
+                        },
+                        "agent": null,
+                        "roomsNumber": 2,
+                        "areaRangeLabel": "61 a 100",
+                        "updatedDate": "2025-10-28T11:16:53.000Z",
+                        "builtTime": {
+                            "name": "Más de 20 años",
+                            "id": null,
+                            "label": "Más de 20 años"
+                        },
+                        "salePriceRangeLabel": "300'000.001 a 400'000.000",
+                        "offeror": {
+                            "type": "Seller"
+                        },
+                        "features": [
+                            "area:66",
+                            "areaConstruida:66",
+                            "banosAuxiliar:S",
+                            "caracteristicasParqueadero:Cubierto",
+                            "cercaAGimnasio:S",
+                            "cercaAHospitales:S",
+                            "cercaAJardinesYColegios:S",
+                            "cercaARestaurantes:S",
+                            "cercaATiendasDeBarrio:S",
+                            "cercaCentroComercial:S",
+                            "cercaColegioUniversidad:S",
+                            "cercaParque:S",
+                            "cercaSupermercado:S",
+                            "cercaTransportePublico:S",
+                            "conCitofono:S",
+                            "conCocinaAmericana_o:S",
+                            "conCocinaIntegral_o:S",
+                            "conParqueaderoVisitantes_o:S",
+                            "conPisoMadera_o:S",
+                            "conPisoPorcelanato_o:S",
+                            "conVigilancia-cb:S",
+                            "conZonasVerdes:S",
+                            "lavaplatos:S",
+                            "luzEnLaTarde:S",
+                            "nroBanos:2",
+                            "nroCuartos:2",
+                            "nroGarajes:1",
+                            "nroPiso:3",
+                            "porteria:S",
+                            "tiempoConstruido:Más de 20 años",
+                            "tipoGaraje:Servidumbre",
+                            "ubicadoEdificio:S",
+                            "walkingCloset:S",
+                            "zonaComercial:S",
+                            "zonaResidencial:S"
+                        ],
+                        "aproximatelocation": "N",
+                        "adminPrice": 460000,
+                        "zone": {
+                            "code": "1",
+                            "name": "Norte",
+                            "id": "1",
+                            "label": "Norte"
+                        },
+                        "price": 330000000,
+                        "checked": "Inmueble No Verificado",
+                        "id": "MC6046491",
+                        "sector": {
+                            "name": "Cedritos"
+                        },
+                        "area": 66,
+                        "forSale": "Y",
+                        "extraFeatures": [
+                            "banosAuxiliar",
+                            "cercaAGimnasio",
+                            "cercaAHospitales",
+                            "cercaAJardinesYColegios",
+                            "cercaARestaurantes",
+                            "cercaATiendasDeBarrio",
+                            "cercaCentroComercial",
+                            "cercaColegioUniversidad",
+                            "cercaParque",
+                            "cercaSupermercado",
+                            "cercaTransportePublico",
+                            "conCitofono",
+                            "conCocinaAmericana_o",
+                            "conCocinaIntegral_o",
+                            "conParqueaderoVisitantes_o",
+                            "conPisoMadera_o",
+                            "conPisoPorcelanato_o",
+                            "conVigilancia7x24",
+                            "conZonasVerdes",
+                            "lavaplatos",
+                            "luzEnLaTarde",
+                            "porteria",
+                            "ubicadoEdificio",
+                            "walkingCloset",
+                            "zonaComercial",
+                            "zonaResidencial"
+                        ],
+                        "categoryType": null,
+                        "forRent": "N",
+                        "neighborhood": {
+                            "commonName": "EL CEDRO   Cedritos",
+                            "code": "0001-1218",
+                            "name": "LOS CEDRITOS",
+                            "id": "0001-1218",
+                            "label": "LOS CEDRITOS"
+                        },
+                        "region": {
+                            "code": "14",
+                            "name": "Cundinamarca",
+                            "id": "14",
+                            "label": "Cundinamarca"
+                        },
+                        "lotType": null,
+                        "status": "Usado",
+                        "amenities": {
+                            "disabilityOk": "N",
+                            "aloneOk": "N",
+                            "childrenOk": "N",
+                            "gymOk": "N",
+                            "petsOk": "N",
+                            "outdoorActivitiesOk": "N",
+                            "bikeUserOk": "N"
+                        },
+                        "city": {
+                            "code": "bogota",
+                            "name": "Bogotá D.C.",
+                            "id": "1",
+                            "label": "Bogotá D.C."
+                        },
+                        "checkInDate": "2025-09-12T11:39:14.000Z",
+                        "propertyType": {
+                            "code": "1",
+                            "name": "Apartamento",
+                            "id": "1",
+                            "label": "Apartamento"
+                        },
+                        "@version": "1",
+                        "rentPrice": null,
+                        "comments": "Apartamento amplio, bastante luz. Cerca a  la Autopista Norte y Ave diez y nueve, fácil transporte publico y cerca de centros comerciales.",
+                        "salePrice": 330000000,
+                        "isPublished": "Y",
+                        "metroId": "MC6046491",
+                        "url": "/inmueble/venta-apartamento-bogota-los-cedritos-2-habitaciones-2-banos-1-garajes/MC6046491",
+                        "stratum": 4,
+                        "multimedia": {
+                            "images": {
+                                "count": 16,
+                                "files": [
+                                    "MC6046491_1",
+                                    "MC6046491_2",
+                                    "MC6046491_3",
+                                    "MC6046491_4",
+                                    "MC6046491_5",
+                                    "MC6046491_6",
+                                    "MC6046491_7",
+                                    "MC6046491_8",
+                                    "MC6046491_9",
+                                    "MC6046491_10",
+                                    "MC6046491_11",
+                                    "MC6046491_12",
+                                    "MC6046491_13",
+                                    "MC6046491_14",
+                                    "MC6046491_15",
+                                    "MC6046491_16"
+                                ],
+                                "mainFile": "MC6046491_1"
+                            }
+                        },
+                        "@timestamp": "2025-10-28T11:20:13.010952212Z",
+                        "bathroomsNumber": 2,
+                        "rentPriceRangeLabel": "N/A",
+                        "storageType": null,
+                        "location": {
+                            "lon": -74.04347,
+                            "lat": 4.729168
+                        },
+                        "publishedDate": "2025-09-12T20:57:33.000Z",
+                        "builtArea": 66,
+                        "businessType": {
+                            "code": "1",
+                            "name": "venta",
+                            "id": "1",
+                            "label": "venta"
+                        },
+                        "notificationCode": null,
+                        "offerorType": "Persona Natural",
+                        "parkingNumber": 1
+                    },
+                    {
+                        "country": {
+                            "code": "1",
+                            "name": "Colombia",
+                            "id": "1",
+                            "label": "Colombia"
+                        },
+                        "agent": null,
+                        "roomsNumber": 3,
+                        "areaRangeLabel": "61 a 100",
+                        "updatedDate": "2025-11-25T06:31:00.000Z",
+                        "builtTime": {
+                            "name": "Más de 20 años",
+                            "id": null,
+                            "label": "Más de 20 años"
+                        },
+                        "salePriceRangeLabel": "300'000.001 a 400'000.000",
+                        "offeror": {
+                            "type": "Seller"
+                        },
+                        "features": [
+                            "area:77",
+                            "areaConstruida:77",
+                            "caracteristicasParqueadero:Descubierto",
+                            "cercaAHospitales:S",
+                            "cercaAJardinesYColegios:S",
+                            "cercaARestaurantes:S",
+                            "cercaATiendasDeBarrio:S",
+                            "cercaCentroComercial:S",
+                            "cercaColegioUniversidad:S",
+                            "cercaParque:S",
+                            "cercaSupermercado:S",
+                            "cercaTransportePublico:S",
+                            "conCitofono:S",
+                            "conCocinaIntegral_o:S",
+                            "conPisoMadera_o:S",
+                            "conSalonComunal:S",
+                            "conVigilancia-cb:S",
+                            "conZonaLavanderia-cb:S",
+                            "conZonasVerdes:S",
+                            "enConjuntoCerrado_o:S",
+                            "extractor:S",
+                            "horno:S",
+                            "luzEnLaManana:S",
+                            "luzEnLaTarde:S",
+                            "nroBanos:2",
+                            "nroCuartos:3",
+                            "nroGarajes:1",
+                            "nroPiso:1",
+                            "porteria:S",
+                            "tiempoConstruido:Más de 20 años",
+                            "tipoGaraje:Propio",
+                            "zonaResidencial:S"
+                        ],
+                        "aproximatelocation": "N",
+                        "adminPrice": null,
+                        "zone": {
+                            "code": "1",
+                            "name": "Norte",
+                            "id": "1",
+                            "label": "Norte"
+                        },
+                        "price": 400000000,
+                        "checked": "Inmueble No Verificado",
+                        "id": "MC6156675",
+                        "sector": {
+                            "name": "Cedritos"
+                        },
+                        "area": 77,
+                        "forSale": "Y",
+                        "extraFeatures": [
+                            "cercaAHospitales",
+                            "cercaAJardinesYColegios",
+                            "cercaARestaurantes",
+                            "cercaATiendasDeBarrio",
+                            "cercaCentroComercial",
+                            "cercaColegioUniversidad",
+                            "cercaParque",
+                            "cercaSupermercado",
+                            "cercaTransportePublico",
+                            "conCitofono",
+                            "conCocinaIntegral_o",
+                            "conPisoMadera_o",
+                            "conSalonComunal",
+                            "conVigilancia7x24",
+                            "conZonaLavanderia",
+                            "conZonasVerdes",
+                            "enConjuntoCerrado",
+                            "extractor",
+                            "horno",
+                            "luzEnLaManana",
+                            "luzEnLaTarde",
+                            "porteria",
+                            "zonaResidencial"
+                        ],
+                        "categoryType": null,
+                        "forRent": "N",
+                        "neighborhood": {
+                            "commonName": "CAOBOS LAS MARGARITAS   Cedritos",
+                            "code": "0",
+                            "name": "LAS MARGARITAS",
+                            "id": "0",
+                            "label": "LAS MARGARITAS"
+                        },
+                        "region": {
+                            "code": "14",
+                            "name": "Cundinamarca",
+                            "id": "14",
+                            "label": "Cundinamarca"
+                        },
+                        "lotType": null,
+                        "status": "Usado",
+                        "amenities": {
+                            "disabilityOk": "N",
+                            "aloneOk": "N",
+                            "childrenOk": "N",
+                            "gymOk": "N",
+                            "petsOk": "N",
+                            "outdoorActivitiesOk": "N",
+                            "bikeUserOk": "N"
+                        },
+                        "city": {
+                            "code": "bogota",
+                            "name": "Bogotá D.C.",
+                            "id": "1",
+                            "label": "Bogotá D.C."
+                        },
+                        "checkInDate": "2025-11-18T11:49:01.000Z",
+                        "propertyType": {
+                            "code": "1",
+                            "name": "Apartamento",
+                            "id": "1",
+                            "label": "Apartamento"
+                        },
+                        "@version": "1",
+                        "rentPrice": null,
+                        "comments": " Acogedor apartamento en Las Margaritas. Excelente ubicación, ideal para vivir tranquilo en el norte de Bogotá – a una cuadra de la Autopista Norte y muy cerca de dos estaciones de TransMilenio, lo que permite una movilidad fácil hacia cualquier punto de la ciudad. A pocos pasos encontrarás comercio sobre la Avenida 19, centros comerciales, servicios y varios parques, por lo que todo queda al alcance, pero conservando un ambiente residencial y muy tranquilo.  El conjunto es de pocos apartamentos, estrato tres (en un sector predominantemente estrato 4, lo que se traduce en servicios más económicos), y cuenta con parqueadero.  El apartamento se distribuye así: Sala–comedor con buen espacio y luz natural. Cocina integral nueva, con zona de ropas independiente. Dos baños completos: uno en la habitación principal y otro para la habitación auxiliar y visitas. Actualmente tiene una habitación principal amplia y una habitación adicional. Originalmente eran tres habitaciones, pero se unieron para lograr una alcoba principal más grande; el comprador puede volver fácilmente a la distribución original de tres alcobas si lo desea.  El inmueble está en buen estado. UNICAMENTE Ofertas Serias.",
+                        "salePrice": 400000000,
+                        "isPublished": "Y",
+                        "metroId": "MC6156675",
+                        "url": "/inmueble/venta-apartamento-bogota-las-margaritas-3-habitaciones-2-banos-1-garajes/MC6156675",
+                        "stratum": 3,
+                        "multimedia": {
+                            "images": {
+                                "count": 8,
+                                "files": [
+                                    "MC6156675_2",
+                                    "MC6156675_3",
+                                    "MC6156675_4",
+                                    "MC6156675_5",
+                                    "MC6156675_6",
+                                    "MC6156675_7",
+                                    "MC6156675_8",
+                                    "MC6156675_9"
+                                ],
+                                "mainFile": "MC6156675_2"
+                            }
+                        },
+                        "@timestamp": "2025-11-25T06:35:06.698556278Z",
+                        "bathroomsNumber": 2,
+                        "rentPriceRangeLabel": "N/A",
+                        "storageType": null,
+                        "location": {
+                            "lon": -74.047554,
+                            "lat": 4.7308044
+                        },
+                        "publishedDate": "2025-11-18T18:13:27.000Z",
+                        "builtArea": 77,
+                        "businessType": {
+                            "code": "1",
+                            "name": "venta",
+                            "id": "1",
+                            "label": "venta"
+                        },
+                        "notificationCode": null,
+                        "offerorType": "Persona Natural",
+                        "parkingNumber": 1
+                    },
+                    {
+                        "country": {
+                            "code": "1",
+                            "name": "Colombia",
+                            "id": "1",
+                            "label": "Colombia"
+                        },
+                        "agent": null,
+                        "roomsNumber": 3,
+                        "areaRangeLabel": "Hasta 60",
+                        "updatedDate": "2025-11-28T12:32:50.000Z",
+                        "builtTime": {
+                            "name": "Más de 20 años",
+                            "id": null,
+                            "label": "Más de 20 años"
+                        },
+                        "salePriceRangeLabel": "300'000.001 a 400'000.000",
+                        "offeror": {
+                            "type": "Seller"
+                        },
+                        "features": [
+                            "area:60",
+                            "areaConstruida:60",
+                            "ascensor:S",
+                            "caracteristicasParqueadero:Cubierto",
+                            "cercaCentroComercial:S",
+                            "cercaParque:S",
+                            "cercaSupermercado:S",
+                            "cercaTransportePublico:S",
+                            "conCitofono:S",
+                            "conParqueaderoVisitantes_o:S",
+                            "conSalonComunal:S",
+                            "conZonaLavanderia-cb:S",
+                            "conZonaNinos:S",
+                            "enConjuntoCerrado_o:S",
+                            "luzEnLaManana:S",
+                            "nroBanos:2",
+                            "nroCuartos:3",
+                            "nroGarajes:1",
+                            "nroPiso:2",
+                            "porteria:S",
+                            "tiempoConstruido:Más de 20 años",
+                            "tipoGaraje:Propio",
+                            "zonaResidencial:S"
+                        ],
+                        "aproximatelocation": "N",
+                        "adminPrice": 478000,
+                        "zone": {
+                            "code": "1",
+                            "name": "Norte",
+                            "id": "1",
+                            "label": "Norte"
+                        },
+                        "price": 365000000,
+                        "checked": "Inmueble No Verificado",
+                        "id": "MC6004248",
+                        "sector": {
+                            "name": "Cedritos"
+                        },
+                        "area": 60,
+                        "forSale": "Y",
+                        "extraFeatures": [
+                            "ascensor",
+                            "cercaCentroComercial",
+                            "cercaParque",
+                            "cercaSupermercado",
+                            "cercaTransportePublico",
+                            "conCitofono",
+                            "conParqueaderoVisitantes_o",
+                            "conSalonComunal",
+                            "conZonaLavanderia",
+                            "conZonaNinos",
+                            "enConjuntoCerrado",
+                            "luzEnLaManana",
+                            "porteria",
+                            "zonaResidencial"
+                        ],
+                        "categoryType": null,
+                        "forRent": "N",
+                        "neighborhood": {
+                            "commonName": "CEDRITOS ALCALA   Chicó",
+                            "code": "0",
+                            "name": "LOS CEDRITOS   EDIF TIQUIZA",
+                            "id": "0",
+                            "label": "LOS CEDRITOS   EDIF TIQUIZA"
+                        },
+                        "region": {
+                            "code": "14",
+                            "name": "Cundinamarca",
+                            "id": "14",
+                            "label": "Cundinamarca"
+                        },
+                        "lotType": null,
+                        "status": "Usado",
+                        "amenities": {
+                            "disabilityOk": "N",
+                            "aloneOk": "N",
+                            "childrenOk": "N",
+                            "gymOk": "N",
+                            "petsOk": "N",
+                            "outdoorActivitiesOk": "N",
+                            "bikeUserOk": "N"
+                        },
+                        "city": {
+                            "code": "bogota",
+                            "name": "Bogotá D.C.",
+                            "id": "1",
+                            "label": "Bogotá D.C."
+                        },
+                        "checkInDate": "2025-08-20T18:12:06.000Z",
+                        "propertyType": {
+                            "code": "1",
+                            "name": "Apartamento",
+                            "id": "1",
+                            "label": "Apartamento"
+                        },
+                        "@version": "1",
+                        "rentPrice": null,
+                        "comments": "Excelente apartamento iluminado con tres alcobas, dos baños, sala comedor, cocina, un garaje un depósito. Ubicado cerca de principales vias como avenida diez y nueve, autopista norte, calle ciento cuarenta, calle 147. En el valor de la administración está incluido el consumo del gas.",
+                        "salePrice": 365000000,
+                        "isPublished": "Y",
+                        "metroId": "MC6004248",
+                        "url": "/inmueble/venta-apartamento-bogota-los-cedritos-edif-tiquiza-3-habitaciones-2-banos-1-garajes/MC6004248",
+                        "stratum": 4,
+                        "multimedia": {
+                            "images": {
+                                "count": 20,
+                                "files": [
+                                    "MC6004248_1",
+                                    "MC6004248_2",
+                                    "MC6004248_16",
+                                    "MC6004248_3",
+                                    "MC6004248_4",
+                                    "MC6004248_17",
+                                    "MC6004248_5",
+                                    "MC6004248_6",
+                                    "MC6004248_7",
+                                    "MC6004248_8",
+                                    "MC6004248_9",
+                                    "MC6004248_18",
+                                    "MC6004248_10",
+                                    "MC6004248_11",
+                                    "MC6004248_12",
+                                    "MC6004248_13",
+                                    "MC6004248_14",
+                                    "MC6004248_15",
+                                    "MC6004248_19",
+                                    "MC6004248_21"
+                                ],
+                                "mainFile": "MC6004248_1"
+                            }
+                        },
+                        "@timestamp": "2025-11-28T12:35:08.878682087Z",
+                        "bathroomsNumber": 2,
+                        "rentPriceRangeLabel": "N/A",
+                        "storageType": null,
+                        "location": {
+                            "lon": -74.04668,
+                            "lat": 4.726743
+                        },
+                        "publishedDate": "2025-09-24T17:35:34.000Z",
+                        "builtArea": 60,
+                        "businessType": {
+                            "code": "1",
+                            "name": "venta",
+                            "id": "1",
+                            "label": "venta"
+                        },
+                        "notificationCode": null,
+                        "offerorType": "Persona Natural",
+                        "parkingNumber": 1
+                    }
+                ],
+                "formFilters": {
+                    "tags": []
+                }
+            }
+        }
+    }
+}

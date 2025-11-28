@@ -29,7 +29,7 @@ const extractListMetroCuadrado = (fileName) => {
         // console.log(element.features.find(f => f.includes("nroAscensores")))
         // console.log(Number(element?.features.find(f => f.includes("nroAscensores"))?.split(":")[1]))
          const result = {
-            // acá voy
+            id: element?.metroId,
             direccion: null,
             barrio: element?.neighborhood?.name,
             link: `https://www.metrocuadrado.com${element?.url}`,
@@ -41,10 +41,8 @@ const extractListMetroCuadrado = (fileName) => {
             piso: Number(element?.features.find(f => f.includes("nroPiso"))?.split(":")[1]) || null,
             ascensor: Number(element?.features.find(f => f.includes("nroAscensores"))?.split(":")[1]) >= 1 ? "Sí" : "No" || null,
             estrato: element?.stratum,
-            parqueaderos: element?.parkingNumber,
-            "cub/descub": "",
-            "interior/exterior": "",
-            "original/remodelado": element?.builtTime?.name === "Remodelado" || element?.comments?.toLowerCase().includes("remodelad")
+            parqueadero: element?.parkingNumber,
+            estado: element?.builtTime?.name === "Remodelado" || element?.comments?.toLowerCase().includes("remodelad")
                 ? "remodelado" : "original"
         }
 

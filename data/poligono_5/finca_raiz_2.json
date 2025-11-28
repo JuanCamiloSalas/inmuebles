@@ -1,0 +1,3807 @@
+{
+    "took": 11,
+    "timed_out": false,
+    "_shards": {
+        "total": 3,
+        "successful": 3,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": {
+            "value": 27,
+            "relation": "eq"
+        },
+        "max_score": null,
+        "hits": [
+            {
+                "_index": "info-finca-listing",
+                "_id": "4822467",
+                "_score": 30.0,
+                "_source": {
+                    "listing": {
+                        "id": 191946336,
+                        "idFincaLegacy": null,
+                        "title": "Apartamento en  Venta en La uribe, Bogotá",
+                        "typeID": 2,
+                        "address": "Calle 173 #18-60",
+                        "showAddress": true,
+                        "country_id": 3,
+                        "description": "El desarrollo Parque 175 se encuentra en la calle 173 #18-60, en el barrio de La Uribe, en Bogotá D.C. Esta propiedad en venta cuenta con 3 habitaciones, 2 baños y 2 estacionamientos. Fue construida en el año 2017 y se encuentra en un quinto piso con orientación al este. El edificio ofrece una amplia variedad de servicios como piscina climatizada, gimnasio, jacuzzi, seguridad 24 horas, entre otros. Esta propiedad es ideal para quienes buscan comodidad y seguridad en un ambiente moderno y bien equipado. Una excelente oportunidad para adquirir un apartamento con todas las comodidades necesarias.",
+                        "code": "FRV442A6",
+                        "code2": "67091dbed559a644f5d1728f",
+                        "finances": false,
+                        "grouped_ids": null,
+                        "img": "https://cdn2.infocasas.com.uy/repo/img/68dc73eed28c6_infocdn__picture-f6cd4f445003463a8c5507c4f976002fjpeg.jpeg",
+                        "isMapFeatured": false,
+                        "price": {
+                            "amount": 680000000,
+                            "admin_included": 680520000,
+                            "hidePrice": false,
+                            "currency": {
+                                "id": 4,
+                                "name": "$",
+                                "rate": 3782.64
+                            }
+                        },
+                        "price_amount_usd": 179769,
+                        "price_admin_usd": 179906,
+                        "owner": {
+                            "id": 175459904,
+                            "name": "Tu360Inmobiliario en colaboración con Pulppo",
+                            "masked_phone": "+5733",
+                            "whatsapp_phone": null,
+                            "has_whatsapp": true,
+                            "active": true,
+                            "logo": "https://cdn1.infocasas.com.uy/repo/img/6789abc68e409_logo.jpg",
+                            "inmoLink": "/inmobiliarias/perfil/175459904-tu360inmobiliario en colaboracion con pulppo",
+                            "inmoPropsLink": "/inmobiliarias/175459904-tu360inmobiliario en colaboracion con pulppo/propiedades",
+                            "inmofull": true,
+                            "type": "inmobiliaria",
+                            "particular": false,
+                            "address": "",
+                            "subsidiaries": [
+                                {
+                                    "id": 1083851,
+                                    "name": "Casa central",
+                                    "masked_phone": "60420",
+                                    "address": "",
+                                    "office_hours": ""
+                                }
+                            ]
+                        },
+                        "locations": {
+                            "location_point": "POINT (-74.0406673 4.7533789)",
+                            "location_main": {
+                                "id": "eae04fa3-b358-4e81-b1d1-2db90b9ba45e",
+                                "name": "La uribe",
+                                "slug": [
+                                    "neighbourhood-colombia-11-001-000541"
+                                ],
+                                "location_type": "neighbourhood"
+                            },
+                            "country": [
+                                {
+                                    "id": "858656c1-bbb1-4b0d-b569-f61bbdebc8f0",
+                                    "name": "Colombia",
+                                    "slug": [
+                                        "country-48-colombia"
+                                    ]
+                                }
+                            ],
+                            "state": [
+                                {
+                                    "id": "2d9f0ad9-8b72-4364-a7dc-e161d7dddb4d",
+                                    "name": "Bogotá, d.c.",
+                                    "slug": [
+                                        "state-colombia-11-bogota-dc"
+                                    ],
+                                    "indicative": null
+                                }
+                            ],
+                            "city": [
+                                {
+                                    "id": "65d441f3-a239-4111-bc5b-01c5a268869f",
+                                    "name": "Bogotá",
+                                    "slug": [
+                                        "city-colombia-11-001"
+                                    ]
+                                }
+                            ],
+                            "locality": [
+                                {
+                                    "id": "26188c90-1af6-4d86-ab28-9140688b3f64",
+                                    "name": "Usaquen",
+                                    "slug": [
+                                        "locality-colombia-bogota-dc-001-11-01"
+                                    ]
+                                }
+                            ],
+                            "commune": [],
+                            "zone": [
+                                {
+                                    "id": "4e1f8d32-4f65-4f24-b11e-c54ea6d59187",
+                                    "name": "Zona norte",
+                                    "slug": [
+                                        "zone-colombia-bogota-zona-norte"
+                                    ]
+                                }
+                            ],
+                            "region": [],
+                            "neighbourhood": [
+                                {
+                                    "id": "8ffc8e14-5ee5-4aed-afd3-22258c31aa4b",
+                                    "name": "San antonio nor - occidental",
+                                    "slug": [
+                                        "neighbourhood-colombia-11-001-000524"
+                                    ]
+                                },
+                                {
+                                    "id": "7bdcc6b9-9d59-4ef7-ad03-a2571a4dd1c0",
+                                    "name": "Canapro",
+                                    "slug": [
+                                        "neighbourhood-colombia-11-001-000537"
+                                    ]
+                                },
+                                {
+                                    "id": "9444b4db-a5cf-473a-a88d-4873e6cca04d",
+                                    "name": "San antonio noroccidental",
+                                    "slug": [
+                                        "neighbourhood-colombia-11-001-000524"
+                                    ]
+                                },
+                                {
+                                    "id": "eae04fa3-b358-4e81-b1d1-2db90b9ba45e",
+                                    "name": "La uribe",
+                                    "slug": [
+                                        "neighbourhood-colombia-11-001-000541"
+                                    ]
+                                }
+                            ]
+                        },
+                        "seller": null,
+                        "technicalSheet": [
+                            {
+                                "field": "property_type_name",
+                                "value": "Apartamento",
+                                "text": "Tipo de Inmueble"
+                            },
+                            {
+                                "field": "construction_state_name",
+                                "value": "Requiere mantenimiento",
+                                "text": "Estado"
+                            },
+                            {
+                                "field": "bathrooms",
+                                "value": "2",
+                                "text": "Baños"
+                            },
+                            {
+                                "field": "constructionYear",
+                                "value": "9 a 15 años",
+                                "text": "Antigüedad"
+                            },
+                            {
+                                "field": "bedrooms",
+                                "value": "3",
+                                "text": "Habitaciones"
+                            },
+                            {
+                                "field": "garage",
+                                "value": "2",
+                                "text": "Parqueaderos"
+                            },
+                            {
+                                "field": "m2Built",
+                                "value": "",
+                                "text": "Área Construida"
+                            },
+                            {
+                                "field": "m2apto",
+                                "value": "102 m2",
+                                "text": "Área Privada"
+                            },
+                            {
+                                "field": "stratum",
+                                "value": "",
+                                "text": "Estrato"
+                            },
+                            {
+                                "field": "commonExpenses",
+                                "value": "$ 520.000",
+                                "text": "Administración"
+                            },
+                            {
+                                "field": "floor",
+                                "value": "",
+                                "text": "Piso N°"
+                            },
+                            {
+                                "field": "story",
+                                "value": "",
+                                "text": "Cantidad de Pisos"
+                            },
+                            {
+                                "field": "barter",
+                                "value": "",
+                                "text": "Acepta permuta"
+                            }
+                        ],
+                        "image_count": 12,
+                        "file_count": 0,
+                        "imgSize": 346193,
+                        "link": "/apartamento-en-venta-en-la-uribe-bogota/191946336",
+                        "property_type": {
+                            "id": 2,
+                            "name": "Apartamento"
+                        },
+                        "operation_type": {
+                            "id": 1,
+                            "name": "Venta"
+                        },
+                        "barter": false,
+                        "facilities": [
+                            {
+                                "id": 242,
+                                "name": "Asador",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 243,
+                                "name": "Ascensor",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 251,
+                                "name": "Balcón",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 267,
+                                "name": "Cancha de Baloncesto",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 276,
+                                "name": "Chimenea",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 284,
+                                "name": "Cocina Integral",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 309,
+                                "name": "Depósito / Bodega",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 314,
+                                "name": "Disponibilidad WiFi",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 333,
+                                "name": "Estudio",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 346,
+                                "name": "Gimnasio",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 383,
+                                "name": "Piscina",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 391,
+                                "name": "Portería / Recepción",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 405,
+                                "name": "Salón de Juegos",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 409,
+                                "name": "Sauna / Turco / Jacuzzi",
+                                "group": "Interior"
+                            }
+                        ],
+                        "m2": 102.0,
+                        "m2Built": null,
+                        "m2apto": 102.0,
+                        "m2Terrain": null,
+                        "m2Terrace": null,
+                        "hectares": null,
+                        "created_at": "2025-01-30",
+                        "updated_at": "2025-11-21",
+                        "latitude": 4.7533789,
+                        "longitude": -74.0406673,
+                        "images": [
+                            {
+                                "id": 252216528,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68dc73eed28c6_infocdn__picture-f6cd4f445003463a8c5507c4f976002fjpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 252216529,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68dc73ef6ebaa_infocdn__picture-2e999689364e47d89e84c405941dc631jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 252216530,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68dc73f04a67d_infocdn__picture-4c03adb135254840bd6b9cb19217dbfajpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 252216531,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68dc73f0ce0d4_infocdn__picture-231c6fc557424e68aed872f43f9cc9f4jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 252216532,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68dc73f181d32_infocdn__picture-390ccd7b27c44d44a51ac911f0ec7a6cjpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 252216533,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68dc73f20cbc1_infocdn__picture-2e962f0a36b048db8f3e4b9e6465eaa8jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 252216534,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68dc73f298237_infocdn__picture-e0f31a95b5e04b4483e7f77843f30815jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 252216535,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68dc73f33023f_infocdn__picture-0e6adc81fcbb4fb0a72c740fc301af8djpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 252216536,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68dc73f3b3b80_infocdn__picture-a14749ab2e944ac2aa0e58241d5a2d82jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 252216537,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68dc73f44d9f8_infocdn__picture-89eae46750904bc0a1f2d9283cd5880cjpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 252216538,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68dc73f4e3983_infocdn__picture-119ae479d68849afb19aa1c0e5c7df24jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 252216539,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68dc73f57bbc2_infocdn__picture-869853fd014545c28f33c726ab388a76jpeg.jpeg",
+                                "tag": null
+                            }
+                        ],
+                        "files": [],
+                        "source": null,
+                        "color": 3,
+                        "project_group_md5": "property_191946336",
+                        "project": [],
+                        "pausd": false,
+                        "pointType": false,
+                        "zoom": 15,
+                        "youtube": "https://www.youtube.com/embed/_r3DAMJTLsw",
+                        "highlight": 0,
+                        "active": true,
+                        "deleted": false,
+                        "relevance": 74.6719,
+                        "antiquity": 3,
+                        "construction_year": null,
+                        "notes": "",
+                        "sold": false,
+                        "soldDate": null,
+                        "discount": null,
+                        "draft": false,
+                        "sign": null,
+                        "guarantee": null,
+                        "facilitiesNotApply": false,
+                        "commonExpenses": {
+                            "amount": 520000,
+                            "hidePrice": false,
+                            "currency": {
+                                "id": 4,
+                                "name": "$"
+                            }
+                        },
+                        "price_variation": {},
+                        "ceCurrencyID": 4,
+                        "highlightDate": null,
+                        "socialMediaLinks": [
+                            {
+                                "slug": "facebook",
+                                "name": "facebook",
+                                "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.fincaraiz.com.co/apartamento-en-venta-en-la-uribe-bogota/191946336",
+                                "icon": "icon-facebook-1",
+                                "order": null
+                            },
+                            {
+                                "slug": "linkedin",
+                                "name": "linkedin",
+                                "url": "https://www.linkedin.com/shareArticle?mini=true&url=https://www.fincaraiz.com.co/apartamento-en-venta-en-la-uribe-bogota/191946336",
+                                "icon": "icon-linkedin",
+                                "order": null
+                            },
+                            {
+                                "slug": "twitter",
+                                "name": "twitter",
+                                "url": "https://twitter.com/intent/tweet?url=https://www.fincaraiz.com.co/apartamento-en-venta-en-la-uribe-bogota/191946336",
+                                "icon": "icon-twitter",
+                                "order": null
+                            },
+                            {
+                                "slug": "email",
+                                "name": "email",
+                                "url": "mailto:?subject=Propiedad Recomendada - InfoCasas&body=Link de la Propiedad: https://www.fincaraiz.com.co/apartamento-en-venta-en-la-uribe-bogota/191946336",
+                                "icon": "icon-mail",
+                                "order": null
+                            }
+                        ],
+                        "garage": 2,
+                        "office": false,
+                        "dispositionID": 1,
+                        "bathrooms": 2,
+                        "rooms": 3,
+                        "seaview": false,
+                        "livingPlace": false,
+                        "condominium": false,
+                        "frontLength": null,
+                        "floorsCount": 0,
+                        "apartmentsPerFloor": 0,
+                        "floor": null,
+                        "neighborhood_id": 0,
+                        "estate_id": 0,
+                        "farmhouse": false,
+                        "allowedHeight": "",
+                        "isFavorite": false,
+                        "isExternal": false,
+                        "guests": null,
+                        "seasons": [],
+                        "occupancies": [],
+                        "temporal_price": null,
+                        "temporal_currency": {},
+                        "seaDistanceName": null,
+                        "tour3d": null,
+                        "legacy_propID": 191946336,
+                        "isProject": null,
+                        "isProjectUnit": false,
+                        "operation_type_id": 1,
+                        "property_type_id": 2,
+                        "currency": "$",
+                        "currency_id": 4,
+                        "hidePrice": false,
+                        "stratum": 0,
+                        "commonExpenses_currency": "$",
+                        "constStatesID": 5,
+                        "bedrooms": 3,
+                        "event": {
+                            "show": false,
+                            "fecha_inicio_evento": null,
+                            "link": null,
+                            "logo": null,
+                            "tag": null
+                        },
+                        "turbo_product": {
+                            "start_date": null,
+                            "end_date": null,
+                            "duration": null
+                        },
+                        "tag": {},
+                        "commercial_units": {},
+                        "modify_score": 0,
+                        "modify_score_client": 50000000,
+                        "description_count": 600,
+                        "categories_count": 14,
+                        "has_images": true,
+                        "has_video": true,
+                        "paid_quota": true,
+                        "logo": null,
+                        "include_administration": false,
+                        "md5": 191946336,
+                        "hasGarage": true,
+                        "penthouse": false,
+                        "idForm": null,
+                        "finalization_date": null,
+                        "fair": {},
+                        "hasTour3d": false,
+                        "duplicated": []
+                    }
+                },
+                "fields": {
+                    "listing.project_group_md5": [
+                        "property_191946336"
+                    ]
+                },
+                "sort": [
+                    30.0,
+                    680000000.0
+                ]
+            },
+            {
+                "_index": "info-finca-listing",
+                "_id": "6392099",
+                "_score": 30.0,
+                "_source": {
+                    "listing": {
+                        "id": 193085805,
+                        "idFincaLegacy": null,
+                        "title": "Apartamento en Venta en Usaquen, Bogotá",
+                        "typeID": 2,
+                        "address": "Cl. 173 #18-60, Bogotá, Colombia",
+                        "showAddress": true,
+                        "country_id": 3,
+                        "description": "Moderno, iluminado y con un diseño funcional: así es este apartamento del año 2017 ubicado en un club residencial, ideal para quienes buscan calidad de vida, comodidad y zonas comunes de alto nivel.\r\n\r\nCon 103,07 m² de área construida, el apartamento cuenta con: dos habitaciones auxiliares cómodas y luminosas, que comparten un baño completo, una habitación principal con walk-in closet y baño privado. La cocina es abierta con zona de ropas, integrada a la zona social para mayor amplitud. Tiene vista abierta y muy buena entrada de luz natural en todos los espacios.\r\n\r\nEl edificio cuenta con amenidades que lo convierten en un lugar perfecto para vivir en familia:\r\n• Lobby elegante y moderno.\r\n• Parques infantiles y zonas recreativas internas para niños.\r\n• Zona de bienestar con piscina, turco y sauna, cancha de squash y baloncesto y dos salones sociales.\r\n• Parqueaderos para visitantes.\r\n• Dos parqueaderos en linea y depósito amplio al lado del apartamento.\r\n\r\nUn apartamento moderno, cálido y lleno de vida. ¡Perfecto para quienes quieren mudarse a un espacio listo para disfrutar!",
+                        "code": "FRVI3AD6E",
+                        "code2": "4205645",
+                        "finances": false,
+                        "grouped_ids": null,
+                        "img": "https://cdn2.infocasas.com.uy/repo/img/6929d69c30239_infocdn__83446952-9646-45d7-a94d-ce5dd5f58bddjpg.jpg",
+                        "isMapFeatured": false,
+                        "price": {
+                            "amount": 680000000,
+                            "admin_included": 680480000,
+                            "hidePrice": false,
+                            "currency": {
+                                "id": 4,
+                                "name": "$",
+                                "rate": 3736.05
+                            }
+                        },
+                        "price_amount_usd": 182010,
+                        "price_admin_usd": 182139,
+                        "owner": {
+                            "id": 174845933,
+                            "name": "Engel & Völkers",
+                            "masked_phone": "+5760",
+                            "whatsapp_phone": null,
+                            "has_whatsapp": true,
+                            "active": true,
+                            "logo": "https://static-prod-asset.fincaraiz.com.co/site/fincaraiz_service/media/corporation/logo/f6871048-779a-4db7-97ed-b0ccacf2a1df/opt/20230523142046648047.jpeg",
+                            "inmoLink": null,
+                            "inmoPropsLink": "/inmobiliarias/174845933-engel & volkers/propiedades",
+                            "inmofull": false,
+                            "type": "inmobiliaria",
+                            "particular": false,
+                            "address": "Cra 9 No 80-15 Local 101",
+                            "subsidiaries": [
+                                {
+                                    "id": 695554,
+                                    "name": "Casa central",
+                                    "masked_phone": "+5760",
+                                    "address": "",
+                                    "office_hours": ""
+                                }
+                            ]
+                        },
+                        "locations": {
+                            "location_point": "POINT (-74.0406813 4.7532422)",
+                            "location_main": {
+                                "id": "26188c90-1af6-4d86-ab28-9140688b3f64",
+                                "name": "Usaquen",
+                                "slug": [
+                                    "locality-colombia-bogota-dc-001-11-01"
+                                ],
+                                "location_type": "locality"
+                            },
+                            "country": [
+                                {
+                                    "id": "858656c1-bbb1-4b0d-b569-f61bbdebc8f0",
+                                    "name": "Colombia",
+                                    "slug": [
+                                        "country-48-colombia"
+                                    ]
+                                }
+                            ],
+                            "state": [
+                                {
+                                    "id": "2d9f0ad9-8b72-4364-a7dc-e161d7dddb4d",
+                                    "name": "Bogotá, d.c.",
+                                    "slug": [
+                                        "state-colombia-11-bogota-dc"
+                                    ],
+                                    "indicative": null
+                                }
+                            ],
+                            "city": [
+                                {
+                                    "id": "65d441f3-a239-4111-bc5b-01c5a268869f",
+                                    "name": "Bogotá",
+                                    "slug": [
+                                        "city-colombia-11-001"
+                                    ]
+                                }
+                            ],
+                            "locality": [
+                                {
+                                    "id": "26188c90-1af6-4d86-ab28-9140688b3f64",
+                                    "name": "Usaquen",
+                                    "slug": [
+                                        "locality-colombia-bogota-dc-001-11-01"
+                                    ]
+                                }
+                            ],
+                            "commune": [],
+                            "zone": [
+                                {
+                                    "id": "4e1f8d32-4f65-4f24-b11e-c54ea6d59187",
+                                    "name": "Zona norte",
+                                    "slug": [
+                                        "zone-colombia-bogota-zona-norte"
+                                    ]
+                                }
+                            ],
+                            "region": [],
+                            "neighbourhood": [
+                                {
+                                    "id": "7bdcc6b9-9d59-4ef7-ad03-a2571a4dd1c0",
+                                    "name": "Canapro",
+                                    "slug": [
+                                        "neighbourhood-colombia-11-001-000537"
+                                    ]
+                                },
+                                {
+                                    "id": "8ffc8e14-5ee5-4aed-afd3-22258c31aa4b",
+                                    "name": "San antonio nor - occidental",
+                                    "slug": [
+                                        "neighbourhood-colombia-11-001-000524"
+                                    ]
+                                },
+                                {
+                                    "id": "9444b4db-a5cf-473a-a88d-4873e6cca04d",
+                                    "name": "San antonio noroccidental",
+                                    "slug": [
+                                        "neighbourhood-colombia-11-001-000524"
+                                    ]
+                                },
+                                {
+                                    "id": "eae04fa3-b358-4e81-b1d1-2db90b9ba45e",
+                                    "name": "La uribe",
+                                    "slug": [
+                                        "neighbourhood-colombia-11-001-000541"
+                                    ]
+                                }
+                            ]
+                        },
+                        "seller": null,
+                        "technicalSheet": [
+                            {
+                                "field": "property_type_name",
+                                "value": "Apartamento",
+                                "text": "Tipo de Inmueble"
+                            },
+                            {
+                                "field": "construction_state_name",
+                                "value": "Excelente estado",
+                                "text": "Estado"
+                            },
+                            {
+                                "field": "bathrooms",
+                                "value": "2",
+                                "text": "Baños"
+                            },
+                            {
+                                "field": "constructionYear",
+                                "value": "1 a 8 años",
+                                "text": "Antigüedad"
+                            },
+                            {
+                                "field": "bedrooms",
+                                "value": "3",
+                                "text": "Habitaciones"
+                            },
+                            {
+                                "field": "garage",
+                                "value": "2",
+                                "text": "Parqueaderos"
+                            },
+                            {
+                                "field": "m2Built",
+                                "value": "103,07 m2",
+                                "text": "Área Construida"
+                            },
+                            {
+                                "field": "m2apto",
+                                "value": "103,07 m2",
+                                "text": "Área Privada"
+                            },
+                            {
+                                "field": "stratum",
+                                "value": "4",
+                                "text": "Estrato"
+                            },
+                            {
+                                "field": "commonExpenses",
+                                "value": "$ 480.000",
+                                "text": "Administración"
+                            },
+                            {
+                                "field": "floor",
+                                "value": "5",
+                                "text": "Piso N°"
+                            },
+                            {
+                                "field": "story",
+                                "value": "1",
+                                "text": "Cantidad de Pisos"
+                            },
+                            {
+                                "field": "barter",
+                                "value": "",
+                                "text": "Acepta permuta"
+                            }
+                        ],
+                        "image_count": 21,
+                        "file_count": 0,
+                        "imgSize": 309274,
+                        "link": "/apartamento-en-venta-en-usaquen-bogota/193085805",
+                        "property_type": {
+                            "id": 2,
+                            "name": "Apartamento"
+                        },
+                        "operation_type": {
+                            "id": 1,
+                            "name": "Venta"
+                        },
+                        "barter": false,
+                        "facilities": [
+                            {
+                                "id": 2,
+                                "name": "Box / Deposito",
+                                "group": "Confort del apartamento"
+                            },
+                            {
+                                "id": 243,
+                                "name": "Ascensor",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 245,
+                                "name": "Ascensor(es) inteligente(s)",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 250,
+                                "name": "Bahía exterior de parqueo",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 251,
+                                "name": "Balcón",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 252,
+                                "name": "Barra estilo americano",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 253,
+                                "name": "Baño Auxiliar",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 255,
+                                "name": "Baño de Servicio",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 256,
+                                "name": "Baño Independiente",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 266,
+                                "name": "Calentador",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 269,
+                                "name": "Cancha de Squash",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 271,
+                                "name": "Canchas Deportivas",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 274,
+                                "name": "Cerca centro comercial",
+                                "group": "Sector"
+                            },
+                            {
+                                "id": 275,
+                                "name": "Cerca de Zona Urbana",
+                                "group": "Sector"
+                            },
+                            {
+                                "id": 276,
+                                "name": "Chimenea",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 279,
+                                "name": "Citófono",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 280,
+                                "name": "Closet",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 283,
+                                "name": "Cocina Equipada",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 284,
+                                "name": "Cocina Integral",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 285,
+                                "name": "Cocina tipo Americano",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 287,
+                                "name": "Colegios / Universidades",
+                                "group": "Sector"
+                            },
+                            {
+                                "id": 288,
+                                "name": "Comedor",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 289,
+                                "name": "Comedor auxiliar",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 314,
+                                "name": "Disponibilidad WiFi",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 322,
+                                "name": "En condominio",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 323,
+                                "name": "En conjunto cerrado",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 326,
+                                "name": "En zona residencial",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 333,
+                                "name": "Estudio",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 342,
+                                "name": "Garaje / Parqueadero(s)",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 345,
+                                "name": "Garaje(s)",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 347,
+                                "name": "Hall de Alcobas",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 349,
+                                "name": "Instalación de gas",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 368,
+                                "name": "Panorámica un lado",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 370,
+                                "name": "Parqueadero a Nivel",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 376,
+                                "name": "Parqueadero Visitantes",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 377,
+                                "name": "Parques cercanos",
+                                "group": "Sector"
+                            },
+                            {
+                                "id": 383,
+                                "name": "Piscina",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 386,
+                                "name": "Piso en Baldosa /  Mármol",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 387,
+                                "name": "Piso en cemento",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 391,
+                                "name": "Portería / Recepción",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 394,
+                                "name": "Pozo de agua natural",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 403,
+                                "name": "Salón Comunal",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 408,
+                                "name": "Salón de videoconferencias",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 410,
+                                "name": "Sauna / Turco / Jacuzzi",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 413,
+                                "name": "Senderos ecológicos",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 414,
+                                "name": "Sensor de movimiento",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 416,
+                                "name": "Servicio de Internet",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 417,
+                                "name": "Servicio de Lavandería",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 418,
+                                "name": "Servicios independientes",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 419,
+                                "name": "Servicios Públicos",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 420,
+                                "name": "Shut de basura",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 424,
+                                "name": "Supermercados / C.Comerciales",
+                                "group": "Sector"
+                            },
+                            {
+                                "id": 425,
+                                "name": "Sístema de riego",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 435,
+                                "name": "Todos los Servicios",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 436,
+                                "name": "Trans. Público cercano",
+                                "group": "Sector"
+                            },
+                            {
+                                "id": 440,
+                                "name": "Ventilación Natural",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 443,
+                                "name": "Vigilancia privada 24*7",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 447,
+                                "name": "Zona Campestre",
+                                "group": "Sector"
+                            },
+                            {
+                                "id": 448,
+                                "name": "Zona Comercial",
+                                "group": "Sector"
+                            },
+                            {
+                                "id": 452,
+                                "name": "Zona de lavandería",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 454,
+                                "name": "Zona Infantil",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 455,
+                                "name": "Zona Residencial",
+                                "group": "Sector"
+                            },
+                            {
+                                "id": 459,
+                                "name": "Área Urbana",
+                                "group": "Sector"
+                            }
+                        ],
+                        "m2": 103.07,
+                        "m2Built": 103.07,
+                        "m2apto": 103.07,
+                        "m2Terrain": 103.07,
+                        "m2Terrace": null,
+                        "hectares": null,
+                        "created_at": "2025-11-11",
+                        "updated_at": "2025-11-28",
+                        "latitude": 4.7532422,
+                        "longitude": -74.0406813,
+                        "images": [
+                            {
+                                "id": 263273838,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929d69c30239_infocdn__83446952-9646-45d7-a94d-ce5dd5f58bddjpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 263273837,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929d69b7af41_infocdn__6ae5f106-0b5f-4cf8-b9f0-2d43b703d39fjpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 263273836,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929d69b2feb5_infocdn__4e1a1b4a-f823-4497-b509-38d0f89adfa1jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 263273835,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929d69a98596_infocdn__f99cbb43-96d8-473c-8f63-cf1ae5fbcaa7jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 263273834,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929d69a349d1_infocdn__c949584f-2ac9-4d32-a609-04abda0c93a0jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 263273833,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929d6997b8a8_infocdn__58e27b1f-0a48-4832-9d99-cd8002c0bc34jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 263273832,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929d698c2d31_infocdn__78a997e2-8d4d-4e6f-a595-f0dca74c7616jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 263273831,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929d69829b1d_infocdn__9a4182ee-93de-4735-8e3f-93200496a7b9jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 263273830,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929d697d657d_infocdn__f98ec652-2d22-43c0-89fc-12fc519bae66jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 263273829,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929d69746043_infocdn__44d8783e-b482-4a73-9c4b-6ee006f77d44jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 263273828,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929d696ca531_infocdn__4232089b-7f21-4bd6-b3af-5138fe184446jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 263273827,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929d69636d32_infocdn__5b7e442c-c310-4e7f-be48-8a89d2007938jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 263273826,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929d695de36b_infocdn__f709f346-e965-44a3-96b4-04ccce708d22jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 263273825,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929d6953b8fe_infocdn__a0742302-10f0-4f05-a874-6ca52618dc44jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 263273824,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929d69497682_infocdn__39fa2fc4-2c30-4ebf-9dc9-ecbcd8f44ba3jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 263273823,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929d69402e8c_infocdn__ab28d59f-ab2b-4fc3-95dd-42bb14b93973jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 263273822,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929d6936007b_infocdn__630ae23c-fd3c-436c-967d-165878cbfdbfjpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 263273821,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929d692ac9e6_infocdn__c03b9a70-b779-4d0b-8691-a7cafdd2ae34jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 263273820,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929d6920ba49_infocdn__84da613c-4f2a-43c1-9880-400be5822596jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 263273819,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929d6916916b_infocdn__227ea309-12a9-47d2-aa8c-e67ff51bc4adjpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 263273818,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929d690e34eb_infocdn__dc68b8a2-6b99-4653-86c7-6f0a216347c6jpg.jpg",
+                                "tag": null
+                            }
+                        ],
+                        "files": [],
+                        "source": null,
+                        "color": 3,
+                        "project_group_md5": "property_193085805",
+                        "project": [],
+                        "pausd": false,
+                        "pointType": true,
+                        "zoom": 15,
+                        "youtube": "",
+                        "highlight": 0,
+                        "active": true,
+                        "deleted": false,
+                        "relevance": 67.7635,
+                        "antiquity": 2,
+                        "construction_year": null,
+                        "notes": "",
+                        "sold": false,
+                        "soldDate": null,
+                        "discount": null,
+                        "draft": false,
+                        "sign": null,
+                        "guarantee": null,
+                        "facilitiesNotApply": false,
+                        "commonExpenses": {
+                            "amount": 480000,
+                            "hidePrice": false,
+                            "currency": {
+                                "id": 4,
+                                "name": "$"
+                            }
+                        },
+                        "price_variation": {},
+                        "ceCurrencyID": 4,
+                        "highlightDate": null,
+                        "socialMediaLinks": [
+                            {
+                                "slug": "facebook",
+                                "name": "facebook",
+                                "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.fincaraiz.com.co/apartamento-en-venta-en-usaquen-bogota/193085805",
+                                "icon": "icon-facebook-1",
+                                "order": null
+                            },
+                            {
+                                "slug": "linkedin",
+                                "name": "linkedin",
+                                "url": "https://www.linkedin.com/shareArticle?mini=true&url=https://www.fincaraiz.com.co/apartamento-en-venta-en-usaquen-bogota/193085805",
+                                "icon": "icon-linkedin",
+                                "order": null
+                            },
+                            {
+                                "slug": "twitter",
+                                "name": "twitter",
+                                "url": "https://twitter.com/intent/tweet?url=https://www.fincaraiz.com.co/apartamento-en-venta-en-usaquen-bogota/193085805",
+                                "icon": "icon-twitter",
+                                "order": null
+                            },
+                            {
+                                "slug": "email",
+                                "name": "email",
+                                "url": "mailto:?subject=Propiedad Recomendada - InfoCasas&body=Link de la Propiedad: https://www.fincaraiz.com.co/apartamento-en-venta-en-usaquen-bogota/193085805",
+                                "icon": "icon-mail",
+                                "order": null
+                            }
+                        ],
+                        "garage": 2,
+                        "office": false,
+                        "dispositionID": 1,
+                        "bathrooms": 2,
+                        "rooms": 3,
+                        "seaview": false,
+                        "livingPlace": false,
+                        "condominium": false,
+                        "frontLength": null,
+                        "floorsCount": 1,
+                        "apartmentsPerFloor": 0,
+                        "floor": 5,
+                        "neighborhood_id": 0,
+                        "estate_id": 0,
+                        "farmhouse": false,
+                        "allowedHeight": "",
+                        "isFavorite": false,
+                        "isExternal": false,
+                        "guests": null,
+                        "seasons": [],
+                        "occupancies": [],
+                        "temporal_price": null,
+                        "temporal_currency": {},
+                        "seaDistanceName": null,
+                        "tour3d": null,
+                        "legacy_propID": 193085805,
+                        "isProject": null,
+                        "isProjectUnit": false,
+                        "operation_type_id": 1,
+                        "property_type_id": 2,
+                        "currency": "$",
+                        "currency_id": 4,
+                        "hidePrice": false,
+                        "stratum": 4,
+                        "commonExpenses_currency": "$",
+                        "constStatesID": 3,
+                        "bedrooms": 3,
+                        "event": {
+                            "show": false,
+                            "fecha_inicio_evento": null,
+                            "link": null,
+                            "logo": null,
+                            "tag": null
+                        },
+                        "turbo_product": {
+                            "start_date": null,
+                            "end_date": null,
+                            "duration": null
+                        },
+                        "tag": {},
+                        "commercial_units": {},
+                        "modify_score": 0,
+                        "modify_score_client": 0,
+                        "description_count": 1093,
+                        "categories_count": 63,
+                        "has_images": true,
+                        "has_video": false,
+                        "paid_quota": true,
+                        "logo": null,
+                        "include_administration": false,
+                        "md5": 193085805,
+                        "hasGarage": true,
+                        "penthouse": false,
+                        "idForm": null,
+                        "finalization_date": null,
+                        "fair": {},
+                        "hasTour3d": false,
+                        "duplicated": []
+                    }
+                },
+                "fields": {
+                    "listing.project_group_md5": [
+                        "property_193085805"
+                    ]
+                },
+                "sort": [
+                    30.0,
+                    680000000.0
+                ]
+            },
+            {
+                "_index": "info-finca-listing",
+                "_id": "4463001",
+                "_score": 30.0,
+                "_source": {
+                    "listing": {
+                        "id": 191584596,
+                        "idFincaLegacy": null,
+                        "title": "Apartamento en  Venta en La uribe, Bogotá",
+                        "typeID": 2,
+                        "address": "calle 173 # 18 - 60 apto 503",
+                        "showAddress": true,
+                        "country_id": 3,
+                        "description": "Apartamento en venta en conjunto residencial al norte de la ciudad de Bogotá. 103m2 + 6m2 de balcón.\n\nEl inmueble se ubica en un quinto piso exterior y cuenta con acabados y terminaciones especiales hechas directamente por la constructora. Ingresamos a través de su puerta de seguridad y podrás encontrar un amplio espacio de sala con chimenea a gas y acceso a balcón con espectacular vista, ideal para compartir asados en familia o con amigos. El comedor se ubica en un espacio adecuado independiente de la sala. Cocina semi abierta, guardando privacidad pero permitiendo una buena entrada de iluminación natural y así mismo integrar espacios. La cocina cuenta con mesón en quarztone blanco y muebles en madera de aspecto moderno. Adicionalmente cuenta con la zona de lavandería.\n\nAl ingresar al hall de habitaciones encontrarás el baño social, que se encuentra adecuado hoy en día como closet auxuliar. Cuenta con las conexiones para volver a ser utilizado como baño social. Seguido a esto encontraremos las dos habitaciones auxiliares con vista exterior y sus respectivos closet. Así mismo, un baño auxiliar moderno que comparten las dos habitaciones.\n\nAl finalizar el hall de alcobas, podrás encontrar un espacio de estar de televisión o un estudio con buena iluminación natural. Y finalmente la habitación principal, con balcón, vestier y baño privado. Esta habitación cuenta con adecuaciones en drywall, al igual que la sala.\n\nApartamento con dos garajes en línea y depó",
+                        "code": "FRT4E302",
+                        "code2": "8187611",
+                        "finances": false,
+                        "grouped_ids": null,
+                        "img": "https://cdn2.infocasas.com.uy/repo/img/68b324bfe5118_infocdn__863611920241018124307jpeg.jpeg",
+                        "isMapFeatured": false,
+                        "price": {
+                            "amount": 699000000,
+                            "admin_included": 699520000,
+                            "hidePrice": false,
+                            "currency": {
+                                "id": 4,
+                                "name": "$",
+                                "rate": 3943.35
+                            }
+                        },
+                        "price_amount_usd": 177260,
+                        "price_admin_usd": 177392,
+                        "owner": {
+                            "id": 174549681,
+                            "name": "JB GRUPO INMOBILIARIO",
+                            "masked_phone": "+5732",
+                            "whatsapp_phone": null,
+                            "has_whatsapp": true,
+                            "active": true,
+                            "logo": "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2021/6/9/7912_218_1.jpg",
+                            "inmoLink": null,
+                            "inmoPropsLink": "/inmobiliarias/174549681-jb grupo inmobiliario/propiedades",
+                            "inmofull": false,
+                            "type": "inmobiliaria",
+                            "particular": false,
+                            "address": "________",
+                            "subsidiaries": [
+                                {
+                                    "id": 689298,
+                                    "name": "Casa central",
+                                    "masked_phone": "+5732",
+                                    "address": "",
+                                    "office_hours": ""
+                                }
+                            ]
+                        },
+                        "locations": {
+                            "location_point": "POINT (-74.04073 4.7533985)",
+                            "location_main": {
+                                "id": "eae04fa3-b358-4e81-b1d1-2db90b9ba45e",
+                                "name": "La uribe",
+                                "slug": [
+                                    "neighbourhood-colombia-11-001-000541"
+                                ],
+                                "location_type": "neighbourhood"
+                            },
+                            "country": [
+                                {
+                                    "id": "858656c1-bbb1-4b0d-b569-f61bbdebc8f0",
+                                    "name": "Colombia",
+                                    "slug": [
+                                        "country-48-colombia"
+                                    ]
+                                }
+                            ],
+                            "state": [
+                                {
+                                    "id": "2d9f0ad9-8b72-4364-a7dc-e161d7dddb4d",
+                                    "name": "Bogotá, d.c.",
+                                    "slug": [
+                                        "state-colombia-11-bogota-dc"
+                                    ],
+                                    "indicative": null
+                                }
+                            ],
+                            "city": [
+                                {
+                                    "id": "65d441f3-a239-4111-bc5b-01c5a268869f",
+                                    "name": "Bogotá",
+                                    "slug": [
+                                        "city-colombia-11-001"
+                                    ]
+                                }
+                            ],
+                            "locality": [
+                                {
+                                    "id": "26188c90-1af6-4d86-ab28-9140688b3f64",
+                                    "name": "Usaquen",
+                                    "slug": [
+                                        "locality-colombia-bogota-dc-001-11-01"
+                                    ]
+                                }
+                            ],
+                            "commune": [],
+                            "zone": [
+                                {
+                                    "id": "4e1f8d32-4f65-4f24-b11e-c54ea6d59187",
+                                    "name": "Zona norte",
+                                    "slug": [
+                                        "zone-colombia-bogota-zona-norte"
+                                    ]
+                                }
+                            ],
+                            "region": [],
+                            "neighbourhood": [
+                                {
+                                    "id": "7bdcc6b9-9d59-4ef7-ad03-a2571a4dd1c0",
+                                    "name": "Canapro",
+                                    "slug": [
+                                        "neighbourhood-colombia-11-001-000537"
+                                    ]
+                                },
+                                {
+                                    "id": "8ffc8e14-5ee5-4aed-afd3-22258c31aa4b",
+                                    "name": "San antonio nor - occidental",
+                                    "slug": [
+                                        "neighbourhood-colombia-11-001-000524"
+                                    ]
+                                },
+                                {
+                                    "id": "9444b4db-a5cf-473a-a88d-4873e6cca04d",
+                                    "name": "San antonio noroccidental",
+                                    "slug": [
+                                        "neighbourhood-colombia-11-001-000524"
+                                    ]
+                                },
+                                {
+                                    "id": "eae04fa3-b358-4e81-b1d1-2db90b9ba45e",
+                                    "name": "La uribe",
+                                    "slug": [
+                                        "neighbourhood-colombia-11-001-000541"
+                                    ]
+                                }
+                            ]
+                        },
+                        "seller": null,
+                        "technicalSheet": [
+                            {
+                                "field": "property_type_name",
+                                "value": "Apartamento",
+                                "text": "Tipo de Inmueble"
+                            },
+                            {
+                                "field": "construction_state_name",
+                                "value": "Usado",
+                                "text": "Estado"
+                            },
+                            {
+                                "field": "bathrooms",
+                                "value": "3",
+                                "text": "Baños"
+                            },
+                            {
+                                "field": "m2Built",
+                                "value": "109 m2",
+                                "text": "Área Construida"
+                            },
+                            {
+                                "field": "constructionYear",
+                                "value": "9 a 15 años",
+                                "text": "Antigüedad"
+                            },
+                            {
+                                "field": "bedrooms",
+                                "value": "3",
+                                "text": "Habitaciones"
+                            },
+                            {
+                                "field": "garage",
+                                "value": "2",
+                                "text": "Parqueaderos"
+                            },
+                            {
+                                "field": "m2apto",
+                                "value": "103 m2",
+                                "text": "Área Privada"
+                            },
+                            {
+                                "field": "stratum",
+                                "value": "4",
+                                "text": "Estrato"
+                            },
+                            {
+                                "field": "commonExpenses",
+                                "value": "$ 520.000",
+                                "text": "Administración"
+                            },
+                            {
+                                "field": "floor",
+                                "value": "5",
+                                "text": "Piso N°"
+                            },
+                            {
+                                "field": "floorsAmount",
+                                "value": "5",
+                                "text": "Cantidad de pisos"
+                            },
+                            {
+                                "field": "barter",
+                                "value": "",
+                                "text": "Acepta permuta"
+                            }
+                        ],
+                        "image_count": 27,
+                        "file_count": 0,
+                        "imgSize": 239862,
+                        "link": "/apartamento-en-venta-en-la-uribe-bogota/191584596",
+                        "property_type": {
+                            "id": 2,
+                            "name": "Apartamento"
+                        },
+                        "operation_type": {
+                            "id": 1,
+                            "name": "Venta"
+                        },
+                        "barter": false,
+                        "facilities": [
+                            {
+                                "id": 233,
+                                "name": "Acceso Pavimentado",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 242,
+                                "name": "Asador",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 243,
+                                "name": "Ascensor",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 251,
+                                "name": "Balcón",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 252,
+                                "name": "Barra estilo americano",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 253,
+                                "name": "Baño Auxiliar",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 256,
+                                "name": "Baño Independiente",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 266,
+                                "name": "Calentador",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 276,
+                                "name": "Chimenea",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 277,
+                                "name": "Circuito cerrado de TV",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 279,
+                                "name": "Citófono",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 280,
+                                "name": "Closet",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 283,
+                                "name": "Cocina Equipada",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 284,
+                                "name": "Cocina Integral",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 287,
+                                "name": "Colegios / Universidades",
+                                "group": "Sector"
+                            },
+                            {
+                                "id": 289,
+                                "name": "Comedor auxiliar",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 309,
+                                "name": "Depósito / Bodega",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 333,
+                                "name": "Estudio",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 345,
+                                "name": "Garaje(s)",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 347,
+                                "name": "Hall de Alcobas",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 349,
+                                "name": "Instalación de gas",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 352,
+                                "name": "Jardín",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 376,
+                                "name": "Parqueadero Visitantes",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 377,
+                                "name": "Parques cercanos",
+                                "group": "Sector"
+                            },
+                            {
+                                "id": 383,
+                                "name": "Piscina",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 389,
+                                "name": "Planta Eléctrica",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 391,
+                                "name": "Portería / Recepción",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 403,
+                                "name": "Salón Comunal",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 409,
+                                "name": "Sauna / Turco / Jacuzzi",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 424,
+                                "name": "Supermercados / C.Comerciales",
+                                "group": "Sector"
+                            },
+                            {
+                                "id": 433,
+                                "name": "Terraza",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 436,
+                                "name": "Trans. Público cercano",
+                                "group": "Sector"
+                            },
+                            {
+                                "id": 441,
+                                "name": "Vigilancia",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 444,
+                                "name": "Vista panorámica",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 452,
+                                "name": "Zona de lavandería",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 454,
+                                "name": "Zona Infantil",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 455,
+                                "name": "Zona Residencial",
+                                "group": "Sector"
+                            },
+                            {
+                                "id": 456,
+                                "name": "Zonas Verdes",
+                                "group": "Exterior"
+                            }
+                        ],
+                        "m2": 109.0,
+                        "hectares": null,
+                        "created_at": "2024-10-18",
+                        "updated_at": "2025-08-30",
+                        "latitude": 4.7533985,
+                        "longitude": -74.04073,
+                        "images": [
+                            {
+                                "id": 243433497,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68b324bfe5118_infocdn__863611920241018124307jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 243433498,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68b324c09634f_infocdn__86361220241018124303jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 243433499,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68b324c12f05f_infocdn__863612020241018124308jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 243433500,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68b324c1bffd6_infocdn__86361920241018124305jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 243433501,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68b324c24b57d_infocdn__863612620241018124309jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 243433502,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68b324c2b5c64_infocdn__86361120241018124302jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 243433503,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68b324c341e3a_infocdn__863611420241018124306jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 243433504,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68b324c3cea4c_infocdn__863611020241018124305jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 243433505,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68b324c474571_infocdn__863612120241018124308jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 243433506,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68b324c517236_infocdn__863612320241018124308jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 243433507,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68b324c5ae867_infocdn__86361720241018124304jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 243433508,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68b324c645dab_infocdn__863611320241018124306jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 243433509,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68b324c6d72e5_infocdn__863611120241018124305jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 243433510,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68b324c766b67_infocdn__863612220241018124308jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 243433511,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68b324c7e3f59_infocdn__863612420241018124309jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 243433512,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68b324c8752ae_infocdn__86361320241018124303jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 243433513,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68b324c8eac15_infocdn__86361620241018124304jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 243433514,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68b324c987a7a_infocdn__863612520241018124309jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 243433515,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68b324ca18bf6_infocdn__863611520241018124306jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 243433516,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68b324cab71c5_infocdn__863611820241018124307jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 243433517,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68b324cb44f43_infocdn__86361420241018124303jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 243433518,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68b324cbd9f24_infocdn__863612720241018124310jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 243433519,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68b324cc85336_infocdn__86361520241018124303jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 243433520,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68b324cd16715_infocdn__863611220241018124305jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 243433521,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68b324cdaa31b_infocdn__86361820241018124304jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 243433522,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68b324ce40356_infocdn__863611620241018124307jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 243433523,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68b324ced7804_infocdn__863611720241018124307jpeg.jpeg",
+                                "tag": null
+                            }
+                        ],
+                        "files": [],
+                        "source": null,
+                        "color": 3,
+                        "project_group_md5": "property_191584596",
+                        "project": [],
+                        "pausd": false,
+                        "pointType": false,
+                        "zoom": 15,
+                        "youtube": "",
+                        "highlight": 0,
+                        "active": true,
+                        "deleted": false,
+                        "relevance": 76.0,
+                        "antiquity": 3,
+                        "construction_year": null,
+                        "notes": "",
+                        "sold": false,
+                        "soldDate": null,
+                        "discount": null,
+                        "draft": false,
+                        "sign": null,
+                        "guarantee": null,
+                        "facilitiesNotApply": false,
+                        "commonExpenses": {
+                            "amount": 520000,
+                            "hidePrice": false,
+                            "currency": {
+                                "id": 4,
+                                "name": "$"
+                            }
+                        },
+                        "price_variation": {},
+                        "ceCurrencyID": 4,
+                        "highlightDate": null,
+                        "socialMediaLinks": [
+                            {
+                                "slug": "facebook",
+                                "name": "facebook",
+                                "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.fincaraiz.com.co/apartamento-en-venta-en-la-uribe-bogota/191584596",
+                                "icon": "icon-facebook-1",
+                                "order": null
+                            },
+                            {
+                                "slug": "linkedin",
+                                "name": "linkedin",
+                                "url": "https://www.linkedin.com/shareArticle?mini=true&url=https://www.fincaraiz.com.co/apartamento-en-venta-en-la-uribe-bogota/191584596",
+                                "icon": "icon-linkedin",
+                                "order": null
+                            },
+                            {
+                                "slug": "twitter",
+                                "name": "twitter",
+                                "url": "https://twitter.com/intent/tweet?url=https://www.fincaraiz.com.co/apartamento-en-venta-en-la-uribe-bogota/191584596",
+                                "icon": "icon-twitter",
+                                "order": null
+                            },
+                            {
+                                "slug": "email",
+                                "name": "email",
+                                "url": "mailto:?subject=Propiedad Recomendada - InfoCasas&body=Link de la Propiedad: https://www.fincaraiz.com.co/apartamento-en-venta-en-la-uribe-bogota/191584596",
+                                "icon": "icon-mail",
+                                "order": null
+                            }
+                        ],
+                        "m2Built": 109.0,
+                        "garage": 2,
+                        "office": false,
+                        "dispositionID": 1,
+                        "bathrooms": 3,
+                        "rooms": 3,
+                        "seaview": false,
+                        "livingPlace": false,
+                        "condominium": false,
+                        "frontLength": null,
+                        "floorsCount": 5,
+                        "m2apto": 103.0,
+                        "apartmentsPerFloor": 0,
+                        "floor": 5,
+                        "neighborhood_id": 0,
+                        "estate_id": 0,
+                        "farmhouse": false,
+                        "allowedHeight": "",
+                        "isFavorite": false,
+                        "isExternal": false,
+                        "guests": null,
+                        "seasons": [],
+                        "occupancies": [],
+                        "temporal_price": null,
+                        "temporal_currency": {},
+                        "seaDistanceName": null,
+                        "tour3d": null,
+                        "legacy_propID": 191584596,
+                        "isProject": null,
+                        "isProjectUnit": false,
+                        "operation_type_id": 1,
+                        "property_type_id": 2,
+                        "currency": "$",
+                        "currency_id": 4,
+                        "hidePrice": false,
+                        "stratum": 4,
+                        "commonExpenses_currency": "$",
+                        "constStatesID": 0,
+                        "bedrooms": 3,
+                        "event": {
+                            "show": false,
+                            "fecha_inicio_evento": null,
+                            "link": null,
+                            "logo": null,
+                            "tag": null
+                        },
+                        "turbo_product": {
+                            "start_date": null,
+                            "end_date": null,
+                            "duration": null
+                        },
+                        "tag": {},
+                        "commercial_units": {},
+                        "modify_score": 0,
+                        "modify_score_client": 0,
+                        "description_count": 1476,
+                        "categories_count": 38,
+                        "has_images": true,
+                        "has_video": false,
+                        "paid_quota": true,
+                        "logo": null,
+                        "include_administration": false,
+                        "md5": 191584596,
+                        "hasGarage": true,
+                        "penthouse": false,
+                        "idForm": null,
+                        "finalization_date": null,
+                        "fair": {},
+                        "duplicated": []
+                    }
+                },
+                "fields": {
+                    "listing.project_group_md5": [
+                        "property_191584596"
+                    ]
+                },
+                "sort": [
+                    30.0,
+                    699000000.0
+                ]
+            },
+            {
+                "_index": "info-finca-listing",
+                "_id": "6299663",
+                "_score": 30.0,
+                "_source": {
+                    "listing": {
+                        "id": 192994089,
+                        "idFincaLegacy": null,
+                        "title": "Apartamento en Venta en La uribe, Bogotá",
+                        "typeID": 2,
+                        "address": "Calle 173 #18-60, Bogotá, Colombia",
+                        "showAddress": true,
+                        "country_id": 3,
+                        "description": "ESPECTACULAR APARTAMENTO EN VENTA EN EL BARRIO LA URIBE (CLUB RESIDENCIAL PARQUE 175)\n\n✔️ Área: 109 M2\n✔️ Habitaciones: 3\n✔️ Cocina integral \n✔️ Zona de lavandería \n✔️ Baños: 3\n✔️ Balcones: 2\n✔️ Star de TV\n✔️ Estudio \n✔️ Garajes: 2 (independientes)\n✔️ Depósito: 1 (Frente al apto)\n\n? Administración: $485.000\n? Estrato 4\n\n? Inmueble prácticamente para estrenar, piso laminado en madera, puerta de seguridad, gran ubicación, muy iluminado, cortinas y blackouts, excelente vista panorámica.\n\n? Conjunto cerrado, lobby, parque infantil, salones sociales, vigilancia privada 24 horas, zonas verdes, 2 ascensores por torre, piscina, turco y sauna, terraza BBQ, cancha de basketball, parqueaderos visitantes.\n\n? Valor: $725.000.000\n\n? A 4 minutos de Autopista Norte\n? A 8 minutos de CC Santafe \n? A 5 minutos de Calle 170\n\n??‍♂️A 5 minutos de Colegio Calasanz\n??‍♂️A 7 minutos del Éxito de la 170\n??‍♂️A 9 minutos CC Panamá",
+                        "code": "FRNVE952B",
+                        "code2": null,
+                        "finances": false,
+                        "grouped_ids": null,
+                        "img": "https://cdn2.infocasas.com.uy/repo/img/68f2802eb331f_infocdn__95lgq50sihsmdw4ica2ukug81cudjsf9jakg2d4hjpg.jpg",
+                        "isMapFeatured": false,
+                        "price": {
+                            "amount": 725000000,
+                            "admin_included": 725485000,
+                            "hidePrice": false,
+                            "currency": {
+                                "id": 4,
+                                "name": "$",
+                                "rate": 3782.64
+                            }
+                        },
+                        "price_amount_usd": 191665,
+                        "price_admin_usd": 191793,
+                        "owner": {
+                            "id": 174645009,
+                            "name": "SOMOS LA INMOBILIARIA",
+                            "masked_phone": "+5732",
+                            "whatsapp_phone": null,
+                            "has_whatsapp": true,
+                            "active": true,
+                            "logo": "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2021/7/15/9721_443_3.jpg",
+                            "inmoLink": null,
+                            "inmoPropsLink": "/inmobiliarias/174645009-somos la inmobiliaria/propiedades",
+                            "inmofull": false,
+                            "type": "inmobiliaria",
+                            "particular": false,
+                            "address": "CR 77 B 72-A 35 NO VISIBLE",
+                            "subsidiaries": [
+                                {
+                                    "id": 691304,
+                                    "name": "Casa central",
+                                    "masked_phone": "+5732",
+                                    "address": "",
+                                    "office_hours": ""
+                                }
+                            ]
+                        },
+                        "locations": {
+                            "location_point": "POINT (-74.040858 4.7536107)",
+                            "location_main": {
+                                "id": "eae04fa3-b358-4e81-b1d1-2db90b9ba45e",
+                                "name": "La uribe",
+                                "slug": [
+                                    "neighbourhood-colombia-11-001-000541"
+                                ],
+                                "location_type": "neighbourhood"
+                            },
+                            "country": [
+                                {
+                                    "id": "858656c1-bbb1-4b0d-b569-f61bbdebc8f0",
+                                    "name": "Colombia",
+                                    "slug": [
+                                        "country-48-colombia"
+                                    ]
+                                }
+                            ],
+                            "state": [
+                                {
+                                    "id": "2d9f0ad9-8b72-4364-a7dc-e161d7dddb4d",
+                                    "name": "Bogotá, d.c.",
+                                    "slug": [
+                                        "state-colombia-11-bogota-dc"
+                                    ],
+                                    "indicative": null
+                                }
+                            ],
+                            "city": [
+                                {
+                                    "id": "65d441f3-a239-4111-bc5b-01c5a268869f",
+                                    "name": "Bogotá",
+                                    "slug": [
+                                        "city-colombia-11-001"
+                                    ]
+                                }
+                            ],
+                            "locality": [
+                                {
+                                    "id": "26188c90-1af6-4d86-ab28-9140688b3f64",
+                                    "name": "Usaquen",
+                                    "slug": [
+                                        "locality-colombia-bogota-dc-001-11-01"
+                                    ]
+                                }
+                            ],
+                            "commune": [],
+                            "zone": [
+                                {
+                                    "id": "4e1f8d32-4f65-4f24-b11e-c54ea6d59187",
+                                    "name": "Zona norte",
+                                    "slug": [
+                                        "zone-colombia-bogota-zona-norte"
+                                    ]
+                                }
+                            ],
+                            "region": [],
+                            "neighbourhood": [
+                                {
+                                    "id": "8ffc8e14-5ee5-4aed-afd3-22258c31aa4b",
+                                    "name": "San antonio nor - occidental",
+                                    "slug": [
+                                        "neighbourhood-colombia-11-001-000524"
+                                    ]
+                                },
+                                {
+                                    "id": "7bdcc6b9-9d59-4ef7-ad03-a2571a4dd1c0",
+                                    "name": "Canapro",
+                                    "slug": [
+                                        "neighbourhood-colombia-11-001-000537"
+                                    ]
+                                },
+                                {
+                                    "id": "eae04fa3-b358-4e81-b1d1-2db90b9ba45e",
+                                    "name": "La uribe",
+                                    "slug": [
+                                        "neighbourhood-colombia-11-001-000541"
+                                    ]
+                                },
+                                {
+                                    "id": "9444b4db-a5cf-473a-a88d-4873e6cca04d",
+                                    "name": "San antonio noroccidental",
+                                    "slug": [
+                                        "neighbourhood-colombia-11-001-000524"
+                                    ]
+                                }
+                            ]
+                        },
+                        "seller": null,
+                        "technicalSheet": [
+                            {
+                                "field": "property_type_name",
+                                "value": "Apartamento",
+                                "text": "Tipo de Inmueble"
+                            },
+                            {
+                                "field": "construction_state_name",
+                                "value": "Usado",
+                                "text": "Estado"
+                            },
+                            {
+                                "field": "bathrooms",
+                                "value": "3",
+                                "text": "Baños"
+                            },
+                            {
+                                "field": "constructionYear",
+                                "value": "1 a 8 años",
+                                "text": "Antigüedad"
+                            },
+                            {
+                                "field": "bedrooms",
+                                "value": "3",
+                                "text": "Habitaciones"
+                            },
+                            {
+                                "field": "garage",
+                                "value": "2",
+                                "text": "Parqueaderos"
+                            },
+                            {
+                                "field": "m2Built",
+                                "value": "",
+                                "text": "Área Construida"
+                            },
+                            {
+                                "field": "m2apto",
+                                "value": "",
+                                "text": "Área Privada"
+                            },
+                            {
+                                "field": "stratum",
+                                "value": "4",
+                                "text": "Estrato"
+                            },
+                            {
+                                "field": "commonExpenses",
+                                "value": "$ 485.000",
+                                "text": "Administración"
+                            },
+                            {
+                                "field": "floor",
+                                "value": "15",
+                                "text": "Piso N°"
+                            },
+                            {
+                                "field": "story",
+                                "value": "1",
+                                "text": "Cantidad de Pisos"
+                            },
+                            {
+                                "field": "barter",
+                                "value": "",
+                                "text": "Acepta permuta"
+                            }
+                        ],
+                        "image_count": 16,
+                        "file_count": 0,
+                        "imgSize": 315622,
+                        "link": "/apartamento-en-venta-en-la-uribe-bogota/192994089",
+                        "property_type": {
+                            "id": 2,
+                            "name": "Apartamento"
+                        },
+                        "operation_type": {
+                            "id": 1,
+                            "name": "Venta"
+                        },
+                        "barter": false,
+                        "facilities": [
+                            {
+                                "id": 236,
+                                "name": "Alarma",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 243,
+                                "name": "Ascensor",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 251,
+                                "name": "Balcón",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 252,
+                                "name": "Barra estilo americano",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 253,
+                                "name": "Baño Auxiliar",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 266,
+                                "name": "Calentador",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 271,
+                                "name": "Canchas Deportivas",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 277,
+                                "name": "Circuito cerrado de TV",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 279,
+                                "name": "Citófono",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 284,
+                                "name": "Cocina Integral",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 285,
+                                "name": "Cocina tipo Americano",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 287,
+                                "name": "Colegios / Universidades",
+                                "group": "Sector"
+                            },
+                            {
+                                "id": 289,
+                                "name": "Comedor auxiliar",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 309,
+                                "name": "Depósito / Bodega",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 323,
+                                "name": "En conjunto cerrado",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 333,
+                                "name": "Estudio",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 345,
+                                "name": "Garaje(s)",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 346,
+                                "name": "Gimnasio",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 347,
+                                "name": "Hall de Alcobas",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 349,
+                                "name": "Instalación de gas",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 352,
+                                "name": "Jardín",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 376,
+                                "name": "Parqueadero Visitantes",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 377,
+                                "name": "Parques cercanos",
+                                "group": "Sector"
+                            },
+                            {
+                                "id": 383,
+                                "name": "Piscina",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 391,
+                                "name": "Portería / Recepción",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 403,
+                                "name": "Salón Comunal",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 409,
+                                "name": "Sauna / Turco / Jacuzzi",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 410,
+                                "name": "Sauna / Turco / Jacuzzi",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 424,
+                                "name": "Supermercados / C.Comerciales",
+                                "group": "Sector"
+                            },
+                            {
+                                "id": 433,
+                                "name": "Terraza",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 436,
+                                "name": "Trans. Público cercano",
+                                "group": "Sector"
+                            },
+                            {
+                                "id": 441,
+                                "name": "Vigilancia",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 444,
+                                "name": "Vista panorámica",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 452,
+                                "name": "Zona de lavandería",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 454,
+                                "name": "Zona Infantil",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 455,
+                                "name": "Zona Residencial",
+                                "group": "Sector"
+                            },
+                            {
+                                "id": 456,
+                                "name": "Zonas Verdes",
+                                "group": "Exterior"
+                            }
+                        ],
+                        "m2": 109.0,
+                        "m2Built": null,
+                        "m2apto": 0.0,
+                        "m2Terrain": null,
+                        "m2Terrace": null,
+                        "hectares": null,
+                        "created_at": "2025-10-17",
+                        "updated_at": "2025-10-17",
+                        "latitude": 4.7536107,
+                        "longitude": -74.040858,
+                        "images": [
+                            {
+                                "id": 256174944,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68f2802eb331f_infocdn__95lgq50sihsmdw4ica2ukug81cudjsf9jakg2d4hjpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 256174945,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68f2802f4cb6e_infocdn__7m4nklql5cj2kncs8seiiwejwdwdqlvqm7jvvqzijpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 256174946,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68f2802fd941a_infocdn__6khkyj6kvfhznz2tp6l5fmiada8gpo1qqovfshh0jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 256174947,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68f2803065067_infocdn__thuk3qcojskrklutcxw7pgpcihxn8pqzu3ymj1tujpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 256174948,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68f28030ea182_infocdn__gdgb6rddglwxasldbuywryfigly4hxhbyafyfryejpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 256174950,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68f280318f1cd_infocdn__4hzl7ng74pjmw6714dpyswwqqpp8uyxc8zeotsidjpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 256174951,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68f2803225093_infocdn__n3ssslbe0c6wgzee5cn6wnvqhbh1oplkx8wejo94jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 256174952,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68f28032a3658_infocdn__yxvkujojcqsraey68cgadhgcpf10ztlsms7xs7eajpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 256174953,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68f2803366aa1_infocdn__r7qntpgiiqlp1lotmratlcl1xwnwg5ivzobj7hjrjpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 256174954,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68f28033e6e00_infocdn__eayvljzujp6crdfcmncfc3uozd3fuladudqxsiaxjpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 256174955,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68f280348a5dc_infocdn__mewqjdhc2b625kfyq5q8ta5dvgy0mucsv8svfwtajpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 256174957,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68f280351ada5_infocdn__n2edvwy9takbpandxohjrn3eeiu56v1309atxb7sjpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 256174958,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68f28035a2d3c_infocdn__qrsb7lbde1ugvjn9txrxxfgb69igmkzq2lvjimbvjpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 256174959,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68f28036350ee_infocdn__m6dcigs1lujslk85z2ajimbwinwpffvemp1k176djpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 256174960,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68f28036af56d_infocdn__ufoxgcc02fi4zo7epn4jn0iwnd9g8ykfx3pnwqtyjpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 256174961,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68f2803739e93_infocdn__jmgm8iowej2yucdr8utu9dfms8by9dsxmzn036tyjpg.jpg",
+                                "tag": null
+                            }
+                        ],
+                        "files": [],
+                        "source": 1,
+                        "color": 3,
+                        "project_group_md5": "property_192994089",
+                        "project": [],
+                        "pausd": false,
+                        "pointType": true,
+                        "zoom": 15,
+                        "youtube": "",
+                        "highlight": 16,
+                        "active": true,
+                        "deleted": false,
+                        "relevance": 92.0,
+                        "antiquity": 2,
+                        "construction_year": null,
+                        "notes": "",
+                        "sold": false,
+                        "soldDate": null,
+                        "discount": null,
+                        "draft": false,
+                        "sign": null,
+                        "guarantee": null,
+                        "facilitiesNotApply": false,
+                        "commonExpenses": {
+                            "amount": 485000,
+                            "hidePrice": false,
+                            "currency": {
+                                "id": 4,
+                                "name": "$"
+                            }
+                        },
+                        "price_variation": {},
+                        "ceCurrencyID": 4,
+                        "highlightDate": "2025-10-17",
+                        "socialMediaLinks": [
+                            {
+                                "slug": "facebook",
+                                "name": "facebook",
+                                "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.fincaraiz.com.co/apartamento-en-venta-en-la-uribe-bogota/192994089",
+                                "icon": "icon-facebook-1",
+                                "order": null
+                            },
+                            {
+                                "slug": "linkedin",
+                                "name": "linkedin",
+                                "url": "https://www.linkedin.com/shareArticle?mini=true&url=https://www.fincaraiz.com.co/apartamento-en-venta-en-la-uribe-bogota/192994089",
+                                "icon": "icon-linkedin",
+                                "order": null
+                            },
+                            {
+                                "slug": "twitter",
+                                "name": "twitter",
+                                "url": "https://twitter.com/intent/tweet?url=https://www.fincaraiz.com.co/apartamento-en-venta-en-la-uribe-bogota/192994089",
+                                "icon": "icon-twitter",
+                                "order": null
+                            },
+                            {
+                                "slug": "email",
+                                "name": "email",
+                                "url": "mailto:?subject=Propiedad Recomendada - InfoCasas&body=Link de la Propiedad: https://www.fincaraiz.com.co/apartamento-en-venta-en-la-uribe-bogota/192994089",
+                                "icon": "icon-mail",
+                                "order": null
+                            }
+                        ],
+                        "garage": 2,
+                        "office": false,
+                        "dispositionID": 1,
+                        "bathrooms": 3,
+                        "rooms": 0,
+                        "seaview": false,
+                        "livingPlace": false,
+                        "condominium": false,
+                        "frontLength": null,
+                        "floorsCount": 0,
+                        "apartmentsPerFloor": 0,
+                        "floor": 15,
+                        "neighborhood_id": 0,
+                        "estate_id": 0,
+                        "farmhouse": false,
+                        "allowedHeight": "",
+                        "isFavorite": false,
+                        "isExternal": false,
+                        "guests": 0,
+                        "seasons": [],
+                        "occupancies": [],
+                        "temporal_price": null,
+                        "temporal_currency": {},
+                        "seaDistanceName": null,
+                        "tour3d": null,
+                        "legacy_propID": 192994089,
+                        "isProject": null,
+                        "isProjectUnit": false,
+                        "operation_type_id": 1,
+                        "property_type_id": 2,
+                        "currency": "$",
+                        "currency_id": 4,
+                        "hidePrice": false,
+                        "stratum": 4,
+                        "commonExpenses_currency": "$",
+                        "constStatesID": 0,
+                        "bedrooms": 3,
+                        "event": {
+                            "show": false,
+                            "fecha_inicio_evento": null,
+                            "link": null,
+                            "logo": null,
+                            "tag": null
+                        },
+                        "turbo_product": {
+                            "start_date": null,
+                            "end_date": null,
+                            "duration": null
+                        },
+                        "tag": {
+                            "ad_id": null,
+                            "tag_type": 3,
+                            "tag_label": "Negociable",
+                            "property_id": 192994089,
+                            "project_id": null
+                        },
+                        "commercial_units": {},
+                        "modify_score": 0,
+                        "modify_score_client": 0,
+                        "description_count": 917,
+                        "categories_count": 37,
+                        "has_images": true,
+                        "has_video": false,
+                        "paid_quota": true,
+                        "logo": null,
+                        "include_administration": false,
+                        "md5": 192994089,
+                        "hasGarage": true,
+                        "penthouse": false,
+                        "idForm": null,
+                        "finalization_date": null,
+                        "fair": {},
+                        "hasTour3d": false,
+                        "duplicated": []
+                    }
+                },
+                "fields": {
+                    "listing.project_group_md5": [
+                        "property_192994089"
+                    ]
+                },
+                "sort": [
+                    30.0,
+                    725000000.0
+                ]
+            },
+            {
+                "_index": "info-finca-listing",
+                "_id": "6296259",
+                "_score": 30.0,
+                "_source": {
+                    "listing": {
+                        "id": 192990718,
+                        "idFincaLegacy": null,
+                        "title": "Apartamento en Venta en La uribe, Bogotá",
+                        "typeID": 2,
+                        "address": "Carrera 15 # 173 - 25",
+                        "showAddress": true,
+                        "country_id": 3,
+                        "description": "Apartamento dúplex en venta de 236m2, con vista exterior, ubicado en un 1er piso, parqueadero propio cubierto (16-18) y depósito (16). Consta de 6 habitaciones, 5 baños, sala comedor, cocina integral, estudio, habitación y baño de servicio y zona de lavandería. Tiene piso laminado en zona social y habitaciones en el primer nivel, piso cerámico en el nivel -1 en cocina y baños. El conjunto cuenta con cancha de squash, cancha múltiple, salón comunal, gimnasio y vigilancia privada las 24 horas. Cerca a centro comercial Santafé; cerca a almacenes de cadena como Éxito y Carulla; cerca a Colegio Del Sagrado Corazón de María; cerca a Universidad de San Buenaventura; cerca a estación de Transmilenio Portal Norte; Vías de acceso por la Calle 170 y Carrera 15.",
+                        "code": "FRBND406F",
+                        "code2": "9545361",
+                        "finances": false,
+                        "grouped_ids": null,
+                        "img": "https://cdn2.infocasas.com.uy/repo/img/6929bd3ba2adc_infocdn__gr1922722420251016054433png.png",
+                        "isMapFeatured": false,
+                        "price": {
+                            "amount": 890000000,
+                            "admin_included": 891092000,
+                            "hidePrice": false,
+                            "currency": {
+                                "id": 4,
+                                "name": "$",
+                                "rate": 3736.05
+                            }
+                        },
+                        "price_amount_usd": 238220,
+                        "price_admin_usd": 238512,
+                        "owner": {
+                            "id": 174729386,
+                            "name": "OLINDA BIENES RAICES",
+                            "masked_phone": "+5731",
+                            "whatsapp_phone": null,
+                            "has_whatsapp": true,
+                            "active": true,
+                            "logo": "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2021/3/19/0_67_0.jpg",
+                            "inmoLink": null,
+                            "inmoPropsLink": "/inmobiliarias/174729386-olinda bienes raices/propiedades",
+                            "inmofull": false,
+                            "type": "inmobiliaria",
+                            "particular": false,
+                            "address": "____________",
+                            "subsidiaries": [
+                                {
+                                    "id": 693103,
+                                    "name": "Casa central",
+                                    "masked_phone": "+5731",
+                                    "address": "",
+                                    "office_hours": ""
+                                }
+                            ]
+                        },
+                        "locations": {
+                            "location_point": "POINT (-74.04278403083 4.7532533885024)",
+                            "location_main": {
+                                "id": "eae04fa3-b358-4e81-b1d1-2db90b9ba45e",
+                                "name": "La uribe",
+                                "slug": [
+                                    "neighbourhood-colombia-11-001-000541"
+                                ],
+                                "location_type": "neighbourhood"
+                            },
+                            "country": [
+                                {
+                                    "id": "858656c1-bbb1-4b0d-b569-f61bbdebc8f0",
+                                    "name": "Colombia",
+                                    "slug": [
+                                        "country-48-colombia"
+                                    ]
+                                }
+                            ],
+                            "state": [
+                                {
+                                    "id": "2d9f0ad9-8b72-4364-a7dc-e161d7dddb4d",
+                                    "name": "Bogotá, d.c.",
+                                    "slug": [
+                                        "state-colombia-11-bogota-dc"
+                                    ],
+                                    "indicative": null
+                                }
+                            ],
+                            "city": [
+                                {
+                                    "id": "65d441f3-a239-4111-bc5b-01c5a268869f",
+                                    "name": "Bogotá",
+                                    "slug": [
+                                        "city-colombia-11-001"
+                                    ]
+                                }
+                            ],
+                            "locality": [
+                                {
+                                    "id": "26188c90-1af6-4d86-ab28-9140688b3f64",
+                                    "name": "Usaquen",
+                                    "slug": [
+                                        "locality-colombia-bogota-dc-001-11-01"
+                                    ]
+                                }
+                            ],
+                            "commune": [],
+                            "zone": [
+                                {
+                                    "id": "4e1f8d32-4f65-4f24-b11e-c54ea6d59187",
+                                    "name": "Zona norte",
+                                    "slug": [
+                                        "zone-colombia-bogota-zona-norte"
+                                    ]
+                                }
+                            ],
+                            "region": [],
+                            "neighbourhood": [
+                                {
+                                    "id": "8ffc8e14-5ee5-4aed-afd3-22258c31aa4b",
+                                    "name": "San antonio nor - occidental",
+                                    "slug": [
+                                        "neighbourhood-colombia-11-001-000524"
+                                    ]
+                                },
+                                {
+                                    "id": "9444b4db-a5cf-473a-a88d-4873e6cca04d",
+                                    "name": "San antonio noroccidental",
+                                    "slug": [
+                                        "neighbourhood-colombia-11-001-000524"
+                                    ]
+                                },
+                                {
+                                    "id": "eae04fa3-b358-4e81-b1d1-2db90b9ba45e",
+                                    "name": "La uribe",
+                                    "slug": [
+                                        "neighbourhood-colombia-11-001-000541"
+                                    ]
+                                }
+                            ]
+                        },
+                        "seller": null,
+                        "technicalSheet": [
+                            {
+                                "field": "property_type_name",
+                                "value": "Apartamento",
+                                "text": "Tipo de Inmueble"
+                            },
+                            {
+                                "field": "construction_state_name",
+                                "value": "Usado",
+                                "text": "Estado"
+                            },
+                            {
+                                "field": "bathrooms",
+                                "value": "5",
+                                "text": "Baños"
+                            },
+                            {
+                                "field": "constructionYear",
+                                "value": "9 a 15 años",
+                                "text": "Antigüedad"
+                            },
+                            {
+                                "field": "bedrooms",
+                                "value": "6",
+                                "text": "Habitaciones"
+                            },
+                            {
+                                "field": "garage",
+                                "value": "2",
+                                "text": "Parqueaderos"
+                            },
+                            {
+                                "field": "m2Built",
+                                "value": "236 m2",
+                                "text": "Área Construida"
+                            },
+                            {
+                                "field": "m2apto",
+                                "value": "236 m2",
+                                "text": "Área Privada"
+                            },
+                            {
+                                "field": "stratum",
+                                "value": "4",
+                                "text": "Estrato"
+                            },
+                            {
+                                "field": "commonExpenses",
+                                "value": "$ 1.092.000",
+                                "text": "Administración"
+                            },
+                            {
+                                "field": "floor",
+                                "value": "",
+                                "text": "Piso N°"
+                            },
+                            {
+                                "field": "story",
+                                "value": "1",
+                                "text": "Cantidad de Pisos"
+                            },
+                            {
+                                "field": "barter",
+                                "value": "",
+                                "text": "Acepta permuta"
+                            }
+                        ],
+                        "image_count": 30,
+                        "file_count": 0,
+                        "imgSize": 715207,
+                        "link": "/apartamento-en-venta-en-la-uribe-bogota/192990718",
+                        "property_type": {
+                            "id": 2,
+                            "name": "Apartamento"
+                        },
+                        "operation_type": {
+                            "id": 1,
+                            "name": "Venta"
+                        },
+                        "barter": false,
+                        "facilities": [],
+                        "m2": 236.0,
+                        "m2Built": 236.0,
+                        "m2apto": 236.0,
+                        "m2Terrain": 236.0,
+                        "m2Terrace": null,
+                        "hectares": null,
+                        "created_at": "2025-10-16",
+                        "updated_at": "2025-11-28",
+                        "latitude": 4.7532533885024,
+                        "longitude": -74.04278403083,
+                        "images": [
+                            {
+                                "id": 263252528,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929bd3ba2adc_infocdn__gr1922722420251016054433png.png",
+                                "tag": null
+                            },
+                            {
+                                "id": 263252529,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929bd3c75808_infocdn__gr1922722220251016054432png.png",
+                                "tag": null
+                            },
+                            {
+                                "id": 263252530,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929bd3d63123_infocdn__gr1922723220251016054436png.png",
+                                "tag": null
+                            },
+                            {
+                                "id": 263252531,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929bd3e33607_infocdn__gr1922722020251016054431png.png",
+                                "tag": null
+                            },
+                            {
+                                "id": 263252532,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929bd3ef1e9f_infocdn__gr1922722720251016054434png.png",
+                                "tag": null
+                            },
+                            {
+                                "id": 263252533,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929bd3fa5a39_infocdn__gr192272420251016054424png.png",
+                                "tag": null
+                            },
+                            {
+                                "id": 263252534,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929bd4072d11_infocdn__gr192272620251016054425png.png",
+                                "tag": null
+                            },
+                            {
+                                "id": 263252535,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929bd414e36b_infocdn__gr192272820251016054426png.png",
+                                "tag": null
+                            },
+                            {
+                                "id": 263252536,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929bd420e80d_infocdn__gr1922721020251016054427png.png",
+                                "tag": null
+                            },
+                            {
+                                "id": 263252537,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929bd42bdba4_infocdn__gr1922721220251016054428png.png",
+                                "tag": null
+                            },
+                            {
+                                "id": 263252538,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929bd436944a_infocdn__gr1922721320251016054428png.png",
+                                "tag": null
+                            },
+                            {
+                                "id": 263252539,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929bd444262b_infocdn__gr1922721420251016054429png.png",
+                                "tag": null
+                            },
+                            {
+                                "id": 263252540,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929bd44e9614_infocdn__gr1922721520251016054429png.png",
+                                "tag": null
+                            },
+                            {
+                                "id": 263252541,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929bd45a10b1_infocdn__gr1922721620251016054429png.png",
+                                "tag": null
+                            },
+                            {
+                                "id": 263252542,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929bd46adcb9_infocdn__gr1922721720251016054430png.png",
+                                "tag": null
+                            },
+                            {
+                                "id": 263252543,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929bd47919dd_infocdn__gr1922721820251016054430png.png",
+                                "tag": null
+                            },
+                            {
+                                "id": 263252544,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929bd486622d_infocdn__gr1922721920251016054430png.png",
+                                "tag": null
+                            },
+                            {
+                                "id": 263252545,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929bd494b61b_infocdn__gr1922722120251016054431png.png",
+                                "tag": null
+                            },
+                            {
+                                "id": 263252546,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929bd4a0a685_infocdn__gr1922722320251016054432png.png",
+                                "tag": null
+                            },
+                            {
+                                "id": 263252547,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929bd4ac7ac4_infocdn__gr1922722520251016054433png.png",
+                                "tag": null
+                            },
+                            {
+                                "id": 263252548,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929bd4b8f8dd_infocdn__gr1922722820251016054434png.png",
+                                "tag": null
+                            },
+                            {
+                                "id": 263252549,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929bd4c5e856_infocdn__gr1922722920251016054434png.png",
+                                "tag": null
+                            },
+                            {
+                                "id": 263252550,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929bd4d26699_infocdn__gr1922723020251016054435png.png",
+                                "tag": null
+                            },
+                            {
+                                "id": 263252551,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929bd4de3ff2_infocdn__gr1922723120251016054435png.png",
+                                "tag": null
+                            },
+                            {
+                                "id": 263252552,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929bd4eb44cc_infocdn__gr1922723420251016054436png.png",
+                                "tag": null
+                            },
+                            {
+                                "id": 263252553,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929bd4f729d6_infocdn__gr1922723520251016054437png.png",
+                                "tag": null
+                            },
+                            {
+                                "id": 263252554,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929bd504e03c_infocdn__gr1922723620251016054437png.png",
+                                "tag": null
+                            },
+                            {
+                                "id": 263252555,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929bd5132ce0_infocdn__gr1922723720251016054437png.png",
+                                "tag": null
+                            },
+                            {
+                                "id": 263252556,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929bd5203f04_infocdn__gr192272920251016054427png.png",
+                                "tag": null
+                            },
+                            {
+                                "id": 263252557,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/6929bd52a8c0e_infocdn__gr192272720251016054426png.png",
+                                "tag": null
+                            }
+                        ],
+                        "files": [],
+                        "source": null,
+                        "color": 3,
+                        "project_group_md5": "property_192990718",
+                        "project": [],
+                        "pausd": false,
+                        "pointType": false,
+                        "zoom": 15,
+                        "youtube": "",
+                        "highlight": 0,
+                        "active": true,
+                        "deleted": false,
+                        "relevance": 76.0,
+                        "antiquity": 3,
+                        "construction_year": null,
+                        "notes": "",
+                        "sold": false,
+                        "soldDate": null,
+                        "discount": null,
+                        "draft": false,
+                        "sign": null,
+                        "guarantee": null,
+                        "facilitiesNotApply": false,
+                        "commonExpenses": {
+                            "amount": 1092000,
+                            "hidePrice": false,
+                            "currency": {
+                                "id": 4,
+                                "name": "$"
+                            }
+                        },
+                        "price_variation": {},
+                        "ceCurrencyID": 4,
+                        "highlightDate": null,
+                        "socialMediaLinks": [
+                            {
+                                "slug": "facebook",
+                                "name": "facebook",
+                                "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.fincaraiz.com.co/apartamento-en-venta-en-la-uribe-bogota/192990718",
+                                "icon": "icon-facebook-1",
+                                "order": null
+                            },
+                            {
+                                "slug": "linkedin",
+                                "name": "linkedin",
+                                "url": "https://www.linkedin.com/shareArticle?mini=true&url=https://www.fincaraiz.com.co/apartamento-en-venta-en-la-uribe-bogota/192990718",
+                                "icon": "icon-linkedin",
+                                "order": null
+                            },
+                            {
+                                "slug": "twitter",
+                                "name": "twitter",
+                                "url": "https://twitter.com/intent/tweet?url=https://www.fincaraiz.com.co/apartamento-en-venta-en-la-uribe-bogota/192990718",
+                                "icon": "icon-twitter",
+                                "order": null
+                            },
+                            {
+                                "slug": "email",
+                                "name": "email",
+                                "url": "mailto:?subject=Propiedad Recomendada - InfoCasas&body=Link de la Propiedad: https://www.fincaraiz.com.co/apartamento-en-venta-en-la-uribe-bogota/192990718",
+                                "icon": "icon-mail",
+                                "order": null
+                            }
+                        ],
+                        "garage": 2,
+                        "office": false,
+                        "dispositionID": 1,
+                        "bathrooms": 5,
+                        "rooms": 6,
+                        "seaview": false,
+                        "livingPlace": false,
+                        "condominium": false,
+                        "frontLength": null,
+                        "floorsCount": 0,
+                        "apartmentsPerFloor": 0,
+                        "floor": 0,
+                        "neighborhood_id": 0,
+                        "estate_id": 0,
+                        "farmhouse": false,
+                        "allowedHeight": "",
+                        "isFavorite": false,
+                        "isExternal": false,
+                        "guests": null,
+                        "seasons": [],
+                        "occupancies": [],
+                        "temporal_price": null,
+                        "temporal_currency": {},
+                        "seaDistanceName": null,
+                        "tour3d": null,
+                        "legacy_propID": 192990718,
+                        "isProject": null,
+                        "isProjectUnit": false,
+                        "operation_type_id": 1,
+                        "property_type_id": 2,
+                        "currency": "$",
+                        "currency_id": 4,
+                        "hidePrice": false,
+                        "stratum": 4,
+                        "commonExpenses_currency": "$",
+                        "constStatesID": 0,
+                        "bedrooms": 6,
+                        "event": {
+                            "show": false,
+                            "fecha_inicio_evento": null,
+                            "link": null,
+                            "logo": null,
+                            "tag": null
+                        },
+                        "turbo_product": {
+                            "start_date": null,
+                            "end_date": null,
+                            "duration": null
+                        },
+                        "tag": {},
+                        "commercial_units": {},
+                        "modify_score": 0,
+                        "modify_score_client": 0,
+                        "description_count": 760,
+                        "categories_count": 0,
+                        "has_images": true,
+                        "has_video": false,
+                        "paid_quota": true,
+                        "logo": null,
+                        "include_administration": false,
+                        "md5": 192990718,
+                        "hasGarage": true,
+                        "penthouse": false,
+                        "idForm": null,
+                        "finalization_date": null,
+                        "fair": {},
+                        "hasTour3d": false,
+                        "duplicated": []
+                    }
+                },
+                "fields": {
+                    "listing.project_group_md5": [
+                        "property_192990718"
+                    ]
+                },
+                "sort": [
+                    30.0,
+                    890000000.0
+                ]
+            },
+            {
+                "_index": "info-finca-listing",
+                "_id": "4143572",
+                "_score": 30.0,
+                "_source": {
+                    "listing": {
+                        "id": 191264510,
+                        "idFincaLegacy": null,
+                        "title": "Apartamento en  Venta en Bogotá",
+                        "typeID": 2,
+                        "address": "Carrera 15 #173 -25",
+                        "showAddress": true,
+                        "country_id": 3,
+                        "description": "Precioso apartamento duplex en La Uribe de 235 m2 más balcón y terraza. Seis alcobas, principal con baño, sala comedor, estudio, estar de tv con cocineta, cocina integral amplia, cuarto y baño de servicio. Dos garajes independientes y depósito. Salón comunal, parqueadero de visitantes, parque para niños, sauna y turco.",
+                        "code": "FRP14856",
+                        "code2": "V42146589",
+                        "finances": false,
+                        "grouped_ids": null,
+                        "img": "https://cdn2.infocasas.com.uy/repo/img/67b660503b3cd_infocdn__42146589-0-61199586jpg.jpg",
+                        "isMapFeatured": false,
+                        "price": {
+                            "amount": 900000000,
+                            "admin_included": 900525000,
+                            "hidePrice": false,
+                            "currency": {
+                                "id": 4,
+                                "name": "$",
+                                "rate": 4026.57
+                            }
+                        },
+                        "price_amount_usd": 223515,
+                        "price_admin_usd": 223646,
+                        "owner": {
+                            "id": 174824528,
+                            "name": "Rentkasa SAS",
+                            "masked_phone": "+5731",
+                            "whatsapp_phone": null,
+                            "has_whatsapp": true,
+                            "active": true,
+                            "logo": "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2016/9/27/2016927125826NJAPGVLBRHXMDSIYOEUJAPGVLCRIXNDTJZO.jpg",
+                            "inmoLink": null,
+                            "inmoPropsLink": "/inmobiliarias/174824528-rentkasa sas/propiedades",
+                            "inmofull": false,
+                            "type": "inmobiliaria",
+                            "particular": false,
+                            "address": "Cra. 75 No. 127A - 26 Int 3  El Coral",
+                            "subsidiaries": [
+                                {
+                                    "id": 688682,
+                                    "name": "Casa central",
+                                    "masked_phone": "+5731",
+                                    "address": "",
+                                    "office_hours": ""
+                                }
+                            ]
+                        },
+                        "locations": {
+                            "location_point": "POINT (-74.03971105814 4.7519902411068)",
+                            "location_main": {
+                                "id": "65d441f3-a239-4111-bc5b-01c5a268869f",
+                                "name": "Bogotá",
+                                "slug": [
+                                    "city-colombia-11-001"
+                                ],
+                                "location_type": "city"
+                            },
+                            "country": [
+                                {
+                                    "id": "858656c1-bbb1-4b0d-b569-f61bbdebc8f0",
+                                    "name": "Colombia",
+                                    "slug": [
+                                        "country-48-colombia"
+                                    ]
+                                }
+                            ],
+                            "state": [
+                                {
+                                    "id": "2d9f0ad9-8b72-4364-a7dc-e161d7dddb4d",
+                                    "name": "Bogotá, d.c.",
+                                    "slug": [
+                                        "state-colombia-11-bogota-dc"
+                                    ],
+                                    "indicative": null
+                                }
+                            ],
+                            "city": [
+                                {
+                                    "id": "65d441f3-a239-4111-bc5b-01c5a268869f",
+                                    "name": "Bogotá",
+                                    "slug": [
+                                        "city-colombia-11-001"
+                                    ]
+                                }
+                            ],
+                            "locality": [
+                                {
+                                    "id": "26188c90-1af6-4d86-ab28-9140688b3f64",
+                                    "name": "Usaquen",
+                                    "slug": [
+                                        "locality-colombia-bogota-dc-001-11-01"
+                                    ]
+                                }
+                            ],
+                            "commune": [],
+                            "zone": [
+                                {
+                                    "id": "4e1f8d32-4f65-4f24-b11e-c54ea6d59187",
+                                    "name": "Zona norte",
+                                    "slug": [
+                                        "zone-colombia-bogota-zona-norte"
+                                    ]
+                                }
+                            ],
+                            "region": [],
+                            "neighbourhood": [
+                                {
+                                    "id": "eae04fa3-b358-4e81-b1d1-2db90b9ba45e",
+                                    "name": "La uribe",
+                                    "slug": [
+                                        "neighbourhood-colombia-11-001-000541"
+                                    ]
+                                }
+                            ]
+                        },
+                        "seller": null,
+                        "technicalSheet": [
+                            {
+                                "field": "property_type_name",
+                                "value": "Apartamento",
+                                "text": "Tipo de Inmueble"
+                            },
+                            {
+                                "field": "construction_state_name",
+                                "value": "Usado",
+                                "text": "Estado"
+                            },
+                            {
+                                "field": "bathrooms",
+                                "value": "6",
+                                "text": "Baños"
+                            },
+                            {
+                                "field": "m2Built",
+                                "value": "235 m2",
+                                "text": "Área Construida"
+                            },
+                            {
+                                "field": "constructionYear",
+                                "value": "9 a 15 años",
+                                "text": "Antigüedad"
+                            },
+                            {
+                                "field": "bedrooms",
+                                "value": "6",
+                                "text": "Habitaciones"
+                            },
+                            {
+                                "field": "garage",
+                                "value": "2",
+                                "text": "Parqueaderos"
+                            },
+                            {
+                                "field": "m2apto",
+                                "value": "",
+                                "text": "Área Privada"
+                            },
+                            {
+                                "field": "stratum",
+                                "value": "4",
+                                "text": "Estrato"
+                            },
+                            {
+                                "field": "commonExpenses",
+                                "value": "$ 525.000",
+                                "text": "Administración"
+                            },
+                            {
+                                "field": "floor",
+                                "value": "1",
+                                "text": "Piso N°"
+                            },
+                            {
+                                "field": "floorsAmount",
+                                "value": "1",
+                                "text": "Cantidad de pisos"
+                            },
+                            {
+                                "field": "barter",
+                                "value": "",
+                                "text": "Acepta permuta"
+                            }
+                        ],
+                        "image_count": 29,
+                        "file_count": 0,
+                        "imgSize": 62713,
+                        "link": "/apartamento-en-venta-en-bogota/191264510",
+                        "property_type": {
+                            "id": 2,
+                            "name": "Apartamento"
+                        },
+                        "operation_type": {
+                            "id": 1,
+                            "name": "Venta"
+                        },
+                        "barter": false,
+                        "facilities": [
+                            {
+                                "id": 243,
+                                "name": "Ascensor",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 274,
+                                "name": "Cerca centro comercial",
+                                "group": "Sector"
+                            },
+                            {
+                                "id": 279,
+                                "name": "Citófono",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 284,
+                                "name": "Cocina Integral",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 286,
+                                "name": "Cocineta",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 316,
+                                "name": "Duplex",
+                                "group": "Apartamento"
+                            },
+                            {
+                                "id": 349,
+                                "name": "Instalación de gas",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 403,
+                                "name": "Salón Comunal",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 409,
+                                "name": "Sauna / Turco / Jacuzzi",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 433,
+                                "name": "Terraza",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 436,
+                                "name": "Trans. Público cercano",
+                                "group": "Sector"
+                            },
+                            {
+                                "id": 454,
+                                "name": "Zona Infantil",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 455,
+                                "name": "Zona Residencial",
+                                "group": "Sector"
+                            },
+                            {
+                                "id": 459,
+                                "name": "Área Urbana",
+                                "group": "Sector"
+                            }
+                        ],
+                        "m2": 235.0,
+                        "hectares": null,
+                        "created_at": "2024-08-26",
+                        "updated_at": "2025-08-28",
+                        "latitude": 4.7519902411068,
+                        "longitude": -74.03971105814,
+                        "images": [
+                            {
+                                "id": 208602289,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/67b660503b3cd_infocdn__42146589-0-61199586jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 208602296,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/67b66050950ba_infocdn__42146589-1-81044219jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 208602300,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/67b66050caacc_infocdn__42146589-4-55441714jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 208602304,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/67b660511779d_infocdn__42146589-7-105073241jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 208602307,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/67b6605152bc2_infocdn__42146589-3-123140934jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 208602311,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/67b660518a56c_infocdn__42146589-23-52151311jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 208602316,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/67b66051d5694_infocdn__42146589-5-56741772jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 208602324,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/67b6605248730_infocdn__42146589-22-58145776jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 208602327,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/67b6605291cb7_infocdn__42146589-12-7979543jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 208602330,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/67b66052cb7ae_infocdn__42146589-16-19794189jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 208602334,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/67b66053197fe_infocdn__42146589-13-16899936jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 208602337,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/67b6605360ef0_infocdn__42146589-14-101430400jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 208602341,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/67b66053a2f76_infocdn__42146589-9-119468645jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 208602346,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/67b66053dca3b_infocdn__42146589-21-91677535jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 208602350,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/67b660543601c_infocdn__42146589-29-46440260jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 208602355,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/67b6605482987_infocdn__42146589-28-48728721jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 208602358,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/67b66054bfe1e_infocdn__42146589-24-59570672jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 208602362,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/67b66054eea1b_infocdn__42146589-25-5265137jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 208602367,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/67b660553fea9_infocdn__42146589-27-105272999jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 208602371,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/67b66055874c3_infocdn__42146589-26-12472083jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 208602375,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/67b66055d074c_infocdn__42146589-8-35820687jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 208602379,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/67b66056129c4_infocdn__42146589-19-79770449jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 208602385,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/67b660565d658_infocdn__42146589-20-43579627jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 208602388,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/67b66056a5889_infocdn__42146589-11-6204281jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 208602392,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/67b66056e4d56_infocdn__42146589-17-76319631jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 208602396,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/67b660573cb79_infocdn__42146589-15-67766552jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 208602401,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/67b660577d549_infocdn__42146589-6-76990423jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 208602406,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/67b66057c22d0_infocdn__42146589-10-13938108jpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 208602408,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/67b6605810627_infocdn__42146589-2-44182152jpg.jpg",
+                                "tag": null
+                            }
+                        ],
+                        "files": [],
+                        "source": null,
+                        "color": 3,
+                        "project_group_md5": "property_191264510",
+                        "project": [],
+                        "pausd": false,
+                        "pointType": true,
+                        "zoom": 15,
+                        "youtube": "",
+                        "highlight": 0,
+                        "active": true,
+                        "deleted": false,
+                        "relevance": 76.201,
+                        "antiquity": 3,
+                        "construction_year": null,
+                        "notes": "",
+                        "sold": false,
+                        "soldDate": null,
+                        "discount": null,
+                        "draft": false,
+                        "sign": null,
+                        "guarantee": null,
+                        "facilitiesNotApply": false,
+                        "commonExpenses": {
+                            "amount": 525000,
+                            "hidePrice": false,
+                            "currency": {
+                                "id": 4,
+                                "name": "$"
+                            }
+                        },
+                        "price_variation": {},
+                        "ceCurrencyID": 4,
+                        "highlightDate": null,
+                        "socialMediaLinks": [
+                            {
+                                "slug": "facebook",
+                                "name": "facebook",
+                                "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.fincaraiz.com.co/apartamento-en-venta-en-bogota/191264510",
+                                "icon": "icon-facebook-1",
+                                "order": null
+                            },
+                            {
+                                "slug": "linkedin",
+                                "name": "linkedin",
+                                "url": "https://www.linkedin.com/shareArticle?mini=true&url=https://www.fincaraiz.com.co/apartamento-en-venta-en-bogota/191264510",
+                                "icon": "icon-linkedin",
+                                "order": null
+                            },
+                            {
+                                "slug": "twitter",
+                                "name": "twitter",
+                                "url": "https://twitter.com/intent/tweet?url=https://www.fincaraiz.com.co/apartamento-en-venta-en-bogota/191264510",
+                                "icon": "icon-twitter",
+                                "order": null
+                            },
+                            {
+                                "slug": "email",
+                                "name": "email",
+                                "url": "mailto:?subject=Propiedad Recomendada - InfoCasas&body=Link de la Propiedad: https://www.fincaraiz.com.co/apartamento-en-venta-en-bogota/191264510",
+                                "icon": "icon-mail",
+                                "order": null
+                            }
+                        ],
+                        "m2Built": 235.0,
+                        "garage": 2,
+                        "office": false,
+                        "dispositionID": 1,
+                        "bathrooms": 6,
+                        "rooms": 6,
+                        "seaview": false,
+                        "livingPlace": false,
+                        "condominium": false,
+                        "frontLength": null,
+                        "floorsCount": 1,
+                        "m2apto": 0.0,
+                        "apartmentsPerFloor": 0,
+                        "floor": 1,
+                        "neighborhood_id": 0,
+                        "estate_id": 0,
+                        "farmhouse": false,
+                        "allowedHeight": "",
+                        "isFavorite": false,
+                        "isExternal": false,
+                        "guests": 0,
+                        "seasons": [],
+                        "occupancies": [],
+                        "temporal_price": null,
+                        "temporal_currency": {},
+                        "seaDistanceName": null,
+                        "tour3d": null,
+                        "legacy_propID": 191264510,
+                        "isProject": null,
+                        "isProjectUnit": false,
+                        "operation_type_id": 1,
+                        "property_type_id": 2,
+                        "currency": "$",
+                        "currency_id": 4,
+                        "hidePrice": false,
+                        "stratum": 4,
+                        "commonExpenses_currency": "$",
+                        "constStatesID": 0,
+                        "bedrooms": 6,
+                        "event": {
+                            "show": false,
+                            "fecha_inicio_evento": null,
+                            "link": null,
+                            "logo": null,
+                            "tag": null
+                        },
+                        "turbo_product": {
+                            "start_date": null,
+                            "end_date": null,
+                            "duration": null
+                        },
+                        "tag": {},
+                        "commercial_units": {},
+                        "modify_score": 0,
+                        "modify_score_client": 0,
+                        "description_count": 320,
+                        "categories_count": 14,
+                        "has_images": true,
+                        "has_video": false,
+                        "paid_quota": true,
+                        "logo": null,
+                        "include_administration": false,
+                        "md5": 191264510,
+                        "hasGarage": true,
+                        "penthouse": false,
+                        "idForm": null,
+                        "finalization_date": null,
+                        "fair": {},
+                        "duplicated": []
+                    }
+                },
+                "fields": {
+                    "listing.project_group_md5": [
+                        "property_191264510"
+                    ]
+                },
+                "sort": [
+                    30.0,
+                    900000000.0
+                ]
+            }
+        ]
+    },
+    "data": {
+        "cache": {
+            "id": "PropertiesSearch-ca3ea083cdb9345607146f84c01db23424ea96fc",
+            "time_type": "minutes",
+            "time_data": 5,
+            "datetime": "2025-11-28 21:48:23"
+        }
+    }
+}

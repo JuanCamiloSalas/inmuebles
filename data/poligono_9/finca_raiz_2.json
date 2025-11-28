@@ -1,0 +1,1016 @@
+{
+    "took": 14,
+    "timed_out": false,
+    "_shards": {
+        "total": 3,
+        "successful": 3,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": {
+            "value": 23,
+            "relation": "eq"
+        },
+        "max_score": null,
+        "hits": [
+            {
+                "_index": "info-finca-listing",
+                "_id": "6150406",
+                "_score": 30.0,
+                "_source": {
+                    "listing": {
+                        "id": 192846366,
+                        "idFincaLegacy": null,
+                        "title": "Apartamento en Venta en Cedritos, Bogotá",
+                        "typeID": 2,
+                        "address": "Cedritos, Bogota, Colombia",
+                        "showAddress": true,
+                        "country_id": 3,
+                        "description": "Se Vende Apartamento en Cedritos Bogota D.C , 03 Habitaciones , 02 baños , Sala Comedor , Cocina Semi Integral , 01 Parqueadero Cubierto , Piso 4",
+                        "code": "FRKRAF956",
+                        "code2": null,
+                        "finances": false,
+                        "grouped_ids": null,
+                        "img": "https://cdn2.infocasas.com.uy/repo/img/68bf48676ea25_infocdn__j1dljutoya2ab3hfaickau5wsjis9gkwp4tlth4yjpg.jpg",
+                        "isMapFeatured": false,
+                        "price": {
+                            "amount": 350000000,
+                            "admin_included": 350480000,
+                            "hidePrice": false,
+                            "currency": {
+                                "id": 4,
+                                "name": "$",
+                                "rate": 3725.22
+                            }
+                        },
+                        "price_amount_usd": 93954,
+                        "price_admin_usd": 94083,
+                        "owner": {
+                            "id": 176171871,
+                            "name": "UBICATE Inmobiliaria",
+                            "masked_phone": "+5731",
+                            "whatsapp_phone": null,
+                            "has_whatsapp": true,
+                            "active": true,
+                            "logo": "https://cdn1.infocasas.com.uy/repo/img/68dc00f30b1f8_inmobiliaria-ubicate.pdf",
+                            "inmoLink": null,
+                            "inmoPropsLink": "/inmobiliarias/176171871-ubicate inmobiliaria/propiedades",
+                            "inmofull": false,
+                            "type": "inmobiliaria",
+                            "particular": false,
+                            "address": "",
+                            "subsidiaries": [
+                                {
+                                    "id": 1085153,
+                                    "name": "Casa central",
+                                    "masked_phone": "+5731",
+                                    "address": "",
+                                    "office_hours": ""
+                                }
+                            ]
+                        },
+                        "locations": {
+                            "location_point": "POINT (-74.0395596 4.7251363)",
+                            "location_main": {
+                                "id": "87467219-2ddd-4760-b015-8c0eddceeb58",
+                                "name": "Cedritos",
+                                "slug": [
+                                    "neighbourhood-colombia-11-001-000619"
+                                ],
+                                "location_type": "neighbourhood"
+                            },
+                            "country": [
+                                {
+                                    "id": "858656c1-bbb1-4b0d-b569-f61bbdebc8f0",
+                                    "name": "Colombia",
+                                    "slug": [
+                                        "country-48-colombia"
+                                    ]
+                                }
+                            ],
+                            "state": [
+                                {
+                                    "id": "2d9f0ad9-8b72-4364-a7dc-e161d7dddb4d",
+                                    "name": "Bogotá, d.c.",
+                                    "slug": [
+                                        "state-colombia-11-bogota-dc"
+                                    ],
+                                    "indicative": null
+                                }
+                            ],
+                            "city": [
+                                {
+                                    "id": "65d441f3-a239-4111-bc5b-01c5a268869f",
+                                    "name": "Bogotá",
+                                    "slug": [
+                                        "city-colombia-11-001"
+                                    ]
+                                }
+                            ],
+                            "locality": [
+                                {
+                                    "id": "26188c90-1af6-4d86-ab28-9140688b3f64",
+                                    "name": "Usaquen",
+                                    "slug": [
+                                        "locality-colombia-bogota-dc-001-11-01"
+                                    ]
+                                }
+                            ],
+                            "commune": [],
+                            "zone": [
+                                {
+                                    "id": "4e1f8d32-4f65-4f24-b11e-c54ea6d59187",
+                                    "name": "Zona norte",
+                                    "slug": [
+                                        "zone-colombia-bogota-zona-norte"
+                                    ]
+                                }
+                            ],
+                            "region": [],
+                            "neighbourhood": [
+                                {
+                                    "id": "87fd17a7-00fb-4965-aad8-6f271635e845",
+                                    "name": "Acacias usaquen",
+                                    "slug": [
+                                        "neighbourhood-colombia-11-001-000609"
+                                    ]
+                                },
+                                {
+                                    "id": "bcfd3f7b-a9de-4390-853c-a55661070b05",
+                                    "name": "Capri",
+                                    "slug": [
+                                        "neighbourhood-colombia-11-001-000449"
+                                    ]
+                                },
+                                {
+                                    "id": "87467219-2ddd-4760-b015-8c0eddceeb58",
+                                    "name": "Cedritos",
+                                    "slug": [
+                                        "neighbourhood-colombia-11-001-000619"
+                                    ]
+                                },
+                                {
+                                    "id": "5b9e2a31-1632-41fe-b325-307d6f9d4ae0",
+                                    "name": "Cedro narvaez",
+                                    "slug": [
+                                        "neighbourhood-colombia-11-001-000449"
+                                    ]
+                                }
+                            ]
+                        },
+                        "seller": null,
+                        "technicalSheet": [
+                            {
+                                "field": "property_type_name",
+                                "value": "Apartamento",
+                                "text": "Tipo de Inmueble"
+                            },
+                            {
+                                "field": "construction_state_name",
+                                "value": "Usado",
+                                "text": "Estado"
+                            },
+                            {
+                                "field": "bathrooms",
+                                "value": "2",
+                                "text": "Baños"
+                            },
+                            {
+                                "field": "constructionYear",
+                                "value": "16 a 30 años",
+                                "text": "Antigüedad"
+                            },
+                            {
+                                "field": "bedrooms",
+                                "value": "3",
+                                "text": "Habitaciones"
+                            },
+                            {
+                                "field": "garage",
+                                "value": "1",
+                                "text": "Parqueaderos"
+                            },
+                            {
+                                "field": "m2Built",
+                                "value": "",
+                                "text": "Área Construida"
+                            },
+                            {
+                                "field": "m2apto",
+                                "value": "62 m2",
+                                "text": "Área Privada"
+                            },
+                            {
+                                "field": "stratum",
+                                "value": "4",
+                                "text": "Estrato"
+                            },
+                            {
+                                "field": "commonExpenses",
+                                "value": "$ 480.000",
+                                "text": "Administración"
+                            },
+                            {
+                                "field": "floor",
+                                "value": "4",
+                                "text": "Piso N°"
+                            },
+                            {
+                                "field": "story",
+                                "value": "1",
+                                "text": "Cantidad de Pisos"
+                            },
+                            {
+                                "field": "barter",
+                                "value": "",
+                                "text": "Acepta permuta"
+                            }
+                        ],
+                        "image_count": 7,
+                        "file_count": 0,
+                        "imgSize": 111207,
+                        "link": "/apartamento-en-venta-en-cedritos-bogota/192846366",
+                        "property_type": {
+                            "id": 2,
+                            "name": "Apartamento"
+                        },
+                        "operation_type": {
+                            "id": 1,
+                            "name": "Venta"
+                        },
+                        "barter": false,
+                        "facilities": [
+                            {
+                                "id": 277,
+                                "name": "Circuito cerrado de TV",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 279,
+                                "name": "Citófono",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 287,
+                                "name": "Colegios / Universidades",
+                                "group": "Sector"
+                            },
+                            {
+                                "id": 376,
+                                "name": "Parqueadero Visitantes",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 377,
+                                "name": "Parques cercanos",
+                                "group": "Sector"
+                            },
+                            {
+                                "id": 391,
+                                "name": "Portería / Recepción",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 421,
+                                "name": "Sobre vía principal",
+                                "group": "Sector"
+                            },
+                            {
+                                "id": 424,
+                                "name": "Supermercados / C.Comerciales",
+                                "group": "Sector"
+                            },
+                            {
+                                "id": 436,
+                                "name": "Trans. Público cercano",
+                                "group": "Sector"
+                            },
+                            {
+                                "id": 441,
+                                "name": "Vigilancia",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 448,
+                                "name": "Zona Comercial",
+                                "group": "Sector"
+                            },
+                            {
+                                "id": 452,
+                                "name": "Zona de lavandería",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 455,
+                                "name": "Zona Residencial",
+                                "group": "Sector"
+                            }
+                        ],
+                        "m2": 62.0,
+                        "m2Built": null,
+                        "m2apto": 62.0,
+                        "m2Terrain": null,
+                        "m2Terrace": null,
+                        "hectares": null,
+                        "created_at": "2025-09-08",
+                        "updated_at": "2025-10-24",
+                        "latitude": 4.7251363,
+                        "longitude": -74.0395596,
+                        "images": [
+                            {
+                                "id": 246240116,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68bf48676ea25_infocdn__j1dljutoya2ab3hfaickau5wsjis9gkwp4tlth4yjpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 246240117,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68bf486802d92_infocdn__feqnzjc6cn9qqxeluz6nh0gnbk2yrkbdosqtrp5jjpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 246240118,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68bf48687ffc9_infocdn__ofbp4wdk6fgu07bv4lcjwwdnfg0c8ahqqk5efhbtjpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 246240121,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68bf4869124f0_infocdn__bxm2rwauq1gbmuzrvub5inlt2muwgql9xvguzawwjpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 246240123,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68bf486995611_infocdn__7mi754bqp2ivxslo7kblszsm8zoc5bbj0thl54qzjpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 246240124,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68bf486a1656f_infocdn__b0vqvwuxedc8lrpegohdtbwnbz0ukr6vvqvmjklkjpg.jpg",
+                                "tag": null
+                            },
+                            {
+                                "id": 246240126,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/68bf486ab80e9_infocdn__ltehgj9v4szbxnhfze85rtywozglaruyud2gtcztjpg.jpg",
+                                "tag": null
+                            }
+                        ],
+                        "files": [],
+                        "source": 1,
+                        "color": 3,
+                        "project_group_md5": "property_192846366",
+                        "project": [],
+                        "pausd": false,
+                        "pointType": true,
+                        "zoom": 15,
+                        "youtube": "",
+                        "highlight": 16,
+                        "active": true,
+                        "deleted": false,
+                        "relevance": 91.9078,
+                        "antiquity": 4,
+                        "construction_year": null,
+                        "notes": "",
+                        "sold": false,
+                        "soldDate": null,
+                        "discount": null,
+                        "draft": false,
+                        "sign": null,
+                        "guarantee": null,
+                        "facilitiesNotApply": false,
+                        "commonExpenses": {
+                            "amount": 480000,
+                            "hidePrice": false,
+                            "currency": {
+                                "id": 4,
+                                "name": "$"
+                            }
+                        },
+                        "price_variation": {},
+                        "ceCurrencyID": 4,
+                        "highlightDate": "2025-10-09",
+                        "socialMediaLinks": [
+                            {
+                                "slug": "facebook",
+                                "name": "facebook",
+                                "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.fincaraiz.com.co/apartamento-en-venta-en-cedritos-bogota/192846366",
+                                "icon": "icon-facebook-1",
+                                "order": null
+                            },
+                            {
+                                "slug": "linkedin",
+                                "name": "linkedin",
+                                "url": "https://www.linkedin.com/shareArticle?mini=true&url=https://www.fincaraiz.com.co/apartamento-en-venta-en-cedritos-bogota/192846366",
+                                "icon": "icon-linkedin",
+                                "order": null
+                            },
+                            {
+                                "slug": "twitter",
+                                "name": "twitter",
+                                "url": "https://twitter.com/intent/tweet?url=https://www.fincaraiz.com.co/apartamento-en-venta-en-cedritos-bogota/192846366",
+                                "icon": "icon-twitter",
+                                "order": null
+                            },
+                            {
+                                "slug": "email",
+                                "name": "email",
+                                "url": "mailto:?subject=Propiedad Recomendada - InfoCasas&body=Link de la Propiedad: https://www.fincaraiz.com.co/apartamento-en-venta-en-cedritos-bogota/192846366",
+                                "icon": "icon-mail",
+                                "order": null
+                            }
+                        ],
+                        "garage": 1,
+                        "office": false,
+                        "dispositionID": 1,
+                        "bathrooms": 2,
+                        "rooms": 0,
+                        "seaview": false,
+                        "livingPlace": false,
+                        "condominium": false,
+                        "frontLength": null,
+                        "floorsCount": 0,
+                        "apartmentsPerFloor": 0,
+                        "floor": 4,
+                        "neighborhood_id": 0,
+                        "estate_id": 0,
+                        "farmhouse": false,
+                        "allowedHeight": "",
+                        "isFavorite": false,
+                        "isExternal": false,
+                        "guests": 0,
+                        "seasons": [],
+                        "occupancies": [],
+                        "temporal_price": null,
+                        "temporal_currency": {},
+                        "seaDistanceName": null,
+                        "tour3d": null,
+                        "legacy_propID": 192846366,
+                        "isProject": null,
+                        "isProjectUnit": false,
+                        "operation_type_id": 1,
+                        "property_type_id": 2,
+                        "currency": "$",
+                        "currency_id": 4,
+                        "hidePrice": false,
+                        "stratum": 4,
+                        "commonExpenses_currency": "$",
+                        "constStatesID": 0,
+                        "bedrooms": 3,
+                        "event": {
+                            "show": false,
+                            "fecha_inicio_evento": null,
+                            "link": null,
+                            "logo": null,
+                            "tag": null
+                        },
+                        "turbo_product": {
+                            "start_date": null,
+                            "end_date": null,
+                            "duration": null
+                        },
+                        "tag": {
+                            "ad_id": null,
+                            "tag_type": 3,
+                            "tag_label": "Negociable",
+                            "property_id": 192846366,
+                            "project_id": null
+                        },
+                        "commercial_units": {},
+                        "modify_score": 0,
+                        "modify_score_client": 0,
+                        "description_count": 145,
+                        "categories_count": 13,
+                        "has_images": true,
+                        "has_video": false,
+                        "paid_quota": true,
+                        "logo": null,
+                        "include_administration": false,
+                        "md5": 192846366,
+                        "hasGarage": true,
+                        "penthouse": false,
+                        "idForm": null,
+                        "finalization_date": null,
+                        "fair": {},
+                        "hasTour3d": false,
+                        "duplicated": []
+                    }
+                },
+                "fields": {
+                    "listing.project_group_md5": [
+                        "property_192846366"
+                    ]
+                },
+                "sort": [
+                    30.0,
+                    350000000.0
+                ]
+            },
+            {
+                "_index": "info-finca-listing",
+                "_id": "4481044",
+                "_score": 30.0,
+                "_source": {
+                    "listing": {
+                        "id": 191602702,
+                        "idFincaLegacy": null,
+                        "title": "Apartamento en  Venta en Cedritos, Bogotá",
+                        "typeID": 2,
+                        "address": "Calle 144 #12 -55",
+                        "showAddress": true,
+                        "country_id": 3,
+                        "description": "Vendo apartamento en Cedritos, 66 mts, salacomedor, cocina a gas, 3 alcobas, 2 baños completos, un garaje descubierto, cuarto piso, esquinero, iluminado, no tiene ascensor. Vigilancia 24/7, Buenas vías de acceso: Carrera novena, séptima, Calle 147. Cerca a centro comercial Palatino.",
+                        "code": "FRDE06A4",
+                        "code2": "V19433",
+                        "finances": false,
+                        "grouped_ids": null,
+                        "img": "https://cdn2.infocasas.com.uy/repo/img/691757eaec71e_infocdn__19433-15-91684068jpeg.jpeg",
+                        "isMapFeatured": false,
+                        "price": {
+                            "amount": 350000000,
+                            "admin_included": 350371000,
+                            "hidePrice": false,
+                            "currency": {
+                                "id": 4,
+                                "name": "$",
+                                "rate": 3725.22
+                            }
+                        },
+                        "price_amount_usd": 93954,
+                        "price_admin_usd": 94054,
+                        "owner": {
+                            "id": 174732294,
+                            "name": "Terranova Real Estate",
+                            "masked_phone": "+5732",
+                            "whatsapp_phone": null,
+                            "has_whatsapp": true,
+                            "active": true,
+                            "logo": "https://static-prod-asset.fincaraiz.com.co/site/fincaraiz_service/media/corporation/logo/9e891086-6ac7-498d-9580-dda6506e0ebf/opt/2024020217203834417.png",
+                            "inmoLink": null,
+                            "inmoPropsLink": "/inmobiliarias/174732294-terranova real estate/propiedades",
+                            "inmofull": false,
+                            "type": "inmobiliaria",
+                            "particular": false,
+                            "address": "",
+                            "subsidiaries": [
+                                {
+                                    "id": 693169,
+                                    "name": "Casa central",
+                                    "masked_phone": "+5732",
+                                    "address": "",
+                                    "office_hours": ""
+                                }
+                            ]
+                        },
+                        "locations": {
+                            "location_point": "POINT (-74.037809993158 4.7236999891343)",
+                            "location_main": {
+                                "id": "87467219-2ddd-4760-b015-8c0eddceeb58",
+                                "name": "Cedritos",
+                                "slug": [
+                                    "neighbourhood-colombia-11-001-000619"
+                                ],
+                                "location_type": "neighbourhood"
+                            },
+                            "country": [
+                                {
+                                    "id": "858656c1-bbb1-4b0d-b569-f61bbdebc8f0",
+                                    "name": "Colombia",
+                                    "slug": [
+                                        "country-48-colombia"
+                                    ]
+                                }
+                            ],
+                            "state": [
+                                {
+                                    "id": "2d9f0ad9-8b72-4364-a7dc-e161d7dddb4d",
+                                    "name": "Bogotá, d.c.",
+                                    "slug": [
+                                        "state-colombia-11-bogota-dc"
+                                    ],
+                                    "indicative": null
+                                }
+                            ],
+                            "city": [
+                                {
+                                    "id": "65d441f3-a239-4111-bc5b-01c5a268869f",
+                                    "name": "Bogotá",
+                                    "slug": [
+                                        "city-colombia-11-001"
+                                    ]
+                                }
+                            ],
+                            "locality": [
+                                {
+                                    "id": "26188c90-1af6-4d86-ab28-9140688b3f64",
+                                    "name": "Usaquen",
+                                    "slug": [
+                                        "locality-colombia-bogota-dc-001-11-01"
+                                    ]
+                                }
+                            ],
+                            "commune": [],
+                            "zone": [
+                                {
+                                    "id": "4e1f8d32-4f65-4f24-b11e-c54ea6d59187",
+                                    "name": "Zona norte",
+                                    "slug": [
+                                        "zone-colombia-bogota-zona-norte"
+                                    ]
+                                }
+                            ],
+                            "region": [],
+                            "neighbourhood": [
+                                {
+                                    "id": "87fd17a7-00fb-4965-aad8-6f271635e845",
+                                    "name": "Acacias usaquen",
+                                    "slug": [
+                                        "neighbourhood-colombia-11-001-000609"
+                                    ]
+                                },
+                                {
+                                    "id": "bcfd3f7b-a9de-4390-853c-a55661070b05",
+                                    "name": "Capri",
+                                    "slug": [
+                                        "neighbourhood-colombia-11-001-000449"
+                                    ]
+                                },
+                                {
+                                    "id": "87467219-2ddd-4760-b015-8c0eddceeb58",
+                                    "name": "Cedritos",
+                                    "slug": [
+                                        "neighbourhood-colombia-11-001-000619"
+                                    ]
+                                },
+                                {
+                                    "id": "5b9e2a31-1632-41fe-b325-307d6f9d4ae0",
+                                    "name": "Cedro narvaez",
+                                    "slug": [
+                                        "neighbourhood-colombia-11-001-000449"
+                                    ]
+                                }
+                            ]
+                        },
+                        "seller": null,
+                        "technicalSheet": [
+                            {
+                                "field": "property_type_name",
+                                "value": "Apartamento",
+                                "text": "Tipo de Inmueble"
+                            },
+                            {
+                                "field": "construction_state_name",
+                                "value": "Usado",
+                                "text": "Estado"
+                            },
+                            {
+                                "field": "bathrooms",
+                                "value": "2",
+                                "text": "Baños"
+                            },
+                            {
+                                "field": "constructionYear",
+                                "value": "más de 30 años",
+                                "text": "Antigüedad"
+                            },
+                            {
+                                "field": "bedrooms",
+                                "value": "3",
+                                "text": "Habitaciones"
+                            },
+                            {
+                                "field": "garage",
+                                "value": "1",
+                                "text": "Parqueaderos"
+                            },
+                            {
+                                "field": "m2Built",
+                                "value": "66 m2",
+                                "text": "Área Construida"
+                            },
+                            {
+                                "field": "m2apto",
+                                "value": "",
+                                "text": "Área Privada"
+                            },
+                            {
+                                "field": "stratum",
+                                "value": "4",
+                                "text": "Estrato"
+                            },
+                            {
+                                "field": "commonExpenses",
+                                "value": "$ 371.000",
+                                "text": "Administración"
+                            },
+                            {
+                                "field": "floor",
+                                "value": "",
+                                "text": "Piso N°"
+                            },
+                            {
+                                "field": "story",
+                                "value": "",
+                                "text": "Cantidad de Pisos"
+                            },
+                            {
+                                "field": "barter",
+                                "value": "",
+                                "text": "Acepta permuta"
+                            }
+                        ],
+                        "image_count": 16,
+                        "file_count": 0,
+                        "imgSize": 74896,
+                        "link": "/apartamento-en-venta-en-cedritos-bogota/191602702",
+                        "property_type": {
+                            "id": 2,
+                            "name": "Apartamento"
+                        },
+                        "operation_type": {
+                            "id": 1,
+                            "name": "Venta"
+                        },
+                        "barter": false,
+                        "facilities": [
+                            {
+                                "id": 271,
+                                "name": "Canchas Deportivas",
+                                "group": "Exterior"
+                            },
+                            {
+                                "id": 274,
+                                "name": "Cerca centro comercial",
+                                "group": "Sector"
+                            },
+                            {
+                                "id": 280,
+                                "name": "Closet",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 349,
+                                "name": "Instalación de gas",
+                                "group": "Interior"
+                            },
+                            {
+                                "id": 436,
+                                "name": "Trans. Público cercano",
+                                "group": "Sector"
+                            },
+                            {
+                                "id": 455,
+                                "name": "Zona Residencial",
+                                "group": "Sector"
+                            },
+                            {
+                                "id": 459,
+                                "name": "Área Urbana",
+                                "group": "Sector"
+                            }
+                        ],
+                        "m2": 66.0,
+                        "m2Built": 66.0,
+                        "m2apto": 0.0,
+                        "m2Terrain": 66.0,
+                        "m2Terrace": null,
+                        "hectares": null,
+                        "created_at": "2024-10-23",
+                        "updated_at": "2025-11-14",
+                        "latitude": 4.7236999891343,
+                        "longitude": -74.037809993158,
+                        "images": [
+                            {
+                                "id": 261060293,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/691757eaec71e_infocdn__19433-15-91684068jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 261060294,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/691757eb26a62_infocdn__19433-0-114884834jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 261060295,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/691757eb576ba_infocdn__19433-1-29091151jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 261060296,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/691757eb79bfe_infocdn__19433-2-41506119jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 261060297,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/691757eb98b3d_infocdn__19433-3-57189087jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 261060298,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/691757ebb6dbd_infocdn__19433-5-45368481jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 261060299,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/691757ebe300c_infocdn__19433-15-110308002jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 261060300,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/691757ec223ef_infocdn__19433-17-48835923jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 261060301,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/691757ec46ffd_infocdn__19433-10-17548328jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 261060302,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/691757ec64493_infocdn__19433-16-39306082jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 261060303,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/691757ec9e391_infocdn__19433-19-29484230jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 261060304,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/691757ecd1971_infocdn__19433-8-119604899jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 261060305,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/691757ed0ceb2_infocdn__19433-9-64383596jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 261060306,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/691757ed31e9a_infocdn__19433-12-10038156jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 261060307,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/691757ed50b15_infocdn__19433-11-10150165jpeg.jpeg",
+                                "tag": null
+                            },
+                            {
+                                "id": 261060308,
+                                "image": "https://cdn2.infocasas.com.uy/repo/img/691757ed86507_infocdn__19433-20-63081382jpeg.jpeg",
+                                "tag": null
+                            }
+                        ],
+                        "files": [],
+                        "source": null,
+                        "color": 3,
+                        "project_group_md5": "property_191602702",
+                        "project": [],
+                        "pausd": false,
+                        "pointType": true,
+                        "zoom": 15,
+                        "youtube": "https://www.youtube.com/embed/d1-P0i_NmHs",
+                        "highlight": 0,
+                        "active": true,
+                        "deleted": false,
+                        "relevance": 76.0,
+                        "antiquity": 5,
+                        "construction_year": null,
+                        "notes": "",
+                        "sold": false,
+                        "soldDate": null,
+                        "discount": null,
+                        "draft": false,
+                        "sign": null,
+                        "guarantee": null,
+                        "facilitiesNotApply": false,
+                        "commonExpenses": {
+                            "amount": 371000,
+                            "hidePrice": false,
+                            "currency": {
+                                "id": 4,
+                                "name": "$"
+                            }
+                        },
+                        "price_variation": {},
+                        "ceCurrencyID": 4,
+                        "highlightDate": null,
+                        "socialMediaLinks": [
+                            {
+                                "slug": "facebook",
+                                "name": "facebook",
+                                "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.fincaraiz.com.co/apartamento-en-venta-en-cedritos-bogota/191602702",
+                                "icon": "icon-facebook-1",
+                                "order": null
+                            },
+                            {
+                                "slug": "linkedin",
+                                "name": "linkedin",
+                                "url": "https://www.linkedin.com/shareArticle?mini=true&url=https://www.fincaraiz.com.co/apartamento-en-venta-en-cedritos-bogota/191602702",
+                                "icon": "icon-linkedin",
+                                "order": null
+                            },
+                            {
+                                "slug": "twitter",
+                                "name": "twitter",
+                                "url": "https://twitter.com/intent/tweet?url=https://www.fincaraiz.com.co/apartamento-en-venta-en-cedritos-bogota/191602702",
+                                "icon": "icon-twitter",
+                                "order": null
+                            },
+                            {
+                                "slug": "email",
+                                "name": "email",
+                                "url": "mailto:?subject=Propiedad Recomendada - InfoCasas&body=Link de la Propiedad: https://www.fincaraiz.com.co/apartamento-en-venta-en-cedritos-bogota/191602702",
+                                "icon": "icon-mail",
+                                "order": null
+                            }
+                        ],
+                        "garage": 1,
+                        "office": false,
+                        "dispositionID": 1,
+                        "bathrooms": 2,
+                        "rooms": 3,
+                        "seaview": false,
+                        "livingPlace": false,
+                        "condominium": false,
+                        "frontLength": null,
+                        "floorsCount": 4,
+                        "apartmentsPerFloor": 0,
+                        "floor": 0,
+                        "neighborhood_id": 0,
+                        "estate_id": 0,
+                        "farmhouse": false,
+                        "allowedHeight": "",
+                        "isFavorite": false,
+                        "isExternal": false,
+                        "guests": 0,
+                        "seasons": [],
+                        "occupancies": [],
+                        "temporal_price": null,
+                        "temporal_currency": {},
+                        "seaDistanceName": null,
+                        "tour3d": null,
+                        "legacy_propID": 191602702,
+                        "isProject": null,
+                        "isProjectUnit": false,
+                        "operation_type_id": 1,
+                        "property_type_id": 2,
+                        "currency": "$",
+                        "currency_id": 4,
+                        "hidePrice": false,
+                        "stratum": 4,
+                        "commonExpenses_currency": "$",
+                        "constStatesID": 0,
+                        "bedrooms": 3,
+                        "event": {
+                            "show": false,
+                            "fecha_inicio_evento": null,
+                            "link": null,
+                            "logo": null,
+                            "tag": null
+                        },
+                        "turbo_product": {
+                            "start_date": null,
+                            "end_date": null,
+                            "duration": null
+                        },
+                        "tag": {},
+                        "commercial_units": {},
+                        "modify_score": 0,
+                        "modify_score_client": 0,
+                        "description_count": 283,
+                        "categories_count": 7,
+                        "has_images": true,
+                        "has_video": true,
+                        "paid_quota": true,
+                        "logo": null,
+                        "include_administration": false,
+                        "md5": 191602702,
+                        "hasGarage": true,
+                        "penthouse": false,
+                        "idForm": null,
+                        "finalization_date": null,
+                        "fair": {},
+                        "hasTour3d": false,
+                        "duplicated": []
+                    }
+                },
+                "fields": {
+                    "listing.project_group_md5": [
+                        "property_191602702"
+                    ]
+                },
+                "sort": [
+                    30.0,
+                    350000000.0
+                ]
+            }
+        ]
+    },
+    "data": {
+        "cache": {
+            "id": "PropertiesSearch-be3323204fb67bfe2fa3dc9ebb7286f49fbac7e2",
+            "time_type": "minutes",
+            "time_data": 5,
+            "datetime": "2025-11-28 22:09:18"
+        }
+    }
+}
